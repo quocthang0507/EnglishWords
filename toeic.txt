@@ -1,0 +1,699 @@
+﻿.
+1. Contracts; Hợp đồng
+abide by; tôn trọng, tuân theo
+agreement; sự thoả thuận
+assurance; bảo đảm, chắc chắn
+cancellation; sự bãi bỏ, hủy bỏ
+determine; quyết định, xác định, định rõ
+engage; tham gia, cam kết
+obligate; bắt buộc, ép buộc
+party; đảng, phái, nhóm
+provision; điều khoản, sự cung cấp
+resolve; giải quyết, sự kiên quyết
+specific; riêng biệt, cụ thể, rõ ràng, rành mạch 
+
+2. Marketing; Tiếp thị
+attract; hấp dẫn, lôi cuốn, thu hút
+compare; so sánh, đối chiếu
+competition; sự cạnh tranh, cuộc thi đấu
+consume; tiêu thụ, tiêu dùng
+convince; thuyết phục
+currently; hiện thời, hiện nay, lúc này
+fad; mốt nhất thời, sự thích thú tạm thời
+inspiration; truyền cảm hứng, gây cảm hứng
+market; thị trường, chợ
+persuasion; sự thuyết phục, làm cho tin
+productive; năng xuất, có hiệu quả
+satisfaction; sự làm thỏa mãn, sự hài lòng
+
+3. Warranties; Sự bảo đảm, bảo hành
+characteristic; đặc trưng, đặc điểm
+consequence; kết quả, hậu quả, hệ quả
+consider; cân nhắc, suy xét
+cover; che, phủ, bao gồm
+expiration; sự mãn hạn, sự hết hạn, sự kết thúc
+frequently; thường xuyên, một cách thường xuyên
+imply; ngụ ý, hàm ý
+promise; hứa hẹn, cam đoan, bảo đảm
+protect; bảo vệ, bảo hộ, che chở
+reputation; danh tiếng, thanh danh
+require; đòi hỏi, yêu cầu
+variety; đa dạng, nhiều
+
+4. Business planning; Kế hoạch kinh doanh
+address; địa chỉ, diễn văn, bài nói chuyện
+avoid; tránh, tránh khỏi
+demonstrate; bày tỏ, biểu lộ, chứng minh
+develop; phát triển, tiến triển
+evaluate; đánh giá, định giá, ước lượng
+gather; tập hợp, tụ thập, thu thập
+offer; đề xuất, đề nghị
+primarily; chính, chủ yếu
+risk; sự nguy hiểm, sự rủi ro
+strategy; chiến lược
+strong;khỏe, mạnh, tốt
+substitution; sự đổi, sự thay thế
+
+5. Conferences; Hội nghị
+accommodate; điều tiết, điều chỉnh, làm cho phù hợp
+arrangement; dàn xếp, sắp xếp
+association; hội, hội liên hiệp, đoàn thể
+attend; tham dự, có mặt
+get in touch; liên lạc với, giữ quan hệ với, có dính líu đến
+hold; cầm, nắm, tổ chức
+location; vị trí, khu đất
+overcrowded; chật ních, đông nghịt
+register; ghi vào sổ sách, đăng ký
+select; chọn lựa, chọn lọc, tuyển chọn
+session; phiên, kỳ, buổi (họp, học)
+take part in; tham dự, tham gia
+
+6. Computers; Máy vi tính
+access; truy cập
+allocate; chỉ định, định rõ
+compatible; tương thích, tương hợp
+delete; xóa đi, bỏ đi, gạch đi 
+display; hiển thị, trưng bày
+duplicate; sao lại, làm thành 2 bản
+failure; thất bại, bất thành
+figure out; hiểu ra, suy ra, đoán ra
+ignore; bỏ qua, phớt lờ, không để ý tới
+search; tìm kiếm, tìm hiểu
+shut down; tắt máy, ngừng hoạt động, chấm dứt
+warning; cảnh báo, báo trước
+
+7. Office technology; Công nghệ văn phòng
+affordable; có đủ khả năng, có đủ điều kiện 
+as needed; khi cần, lúc cần, cần thiết
+be in charge of; hịu trách nhiệm về
+capacity; sức chứa, dung tích, khả năng
+durable; bền, lâu, lâu bền
+initiative; bền, lâu, lâu bền
+physically; thể chất, một cách vật lý
+provide; người cung cấp, nhà cung cấp
+recur; lặp lại, diễn lại, tái diễn
+reduction; giảm thiểu, hạ, thu nhỏ
+stay on top of; nắm bắt tình hình, hiểu biết thông tin mới nhất
+stock; kho/hàng dự trữ, vốn, cổ phần
+
+8. Office procedures; Thủ tục văn phòng
+appreciation; sự đánh giá, nhận thức, sự cảm kích
+be made of; làm bằng (cái gì), gồm có (cái gì)
+bring in; thuê, mướn
+casually; tình cờ, ngẫu nhiên
+code; quy tắc, luật lệ, đạo lý
+expose; phơi bày, bộc lộ, phô ra
+glimpse; nhìn lướt qua, thoáng qua
+out of; hết, mất, không còn
+outdated; hết hạn, lỗi thời, lạc hậu
+practice; sự thực hành, rèn luyện, tập luyện
+reinforce; tăng cường, củng cố, gia cố
+verbally; bằng miệng, bằng lời nói
+
+
+9. Electronics; Điện tử
+disk; đĩa (vi tính, thể thao, đĩa hát...)
+facilitate; làm cho dễ dàng, làm cho thuận tiện
+network; kết nối, liên kết, mạng lưới
+popularity; phổ biến, nổi tiếng
+process; quá trình, sự tiến triển
+replace; thay thế, đặt vào lại chỗ cũ
+revolution; sự xoay vòng, cuộc cách mạng
+sharp; sắc, bén, rõ rệt
+skill; kỹ năng, kỹ xảo
+software; phần mềm, chương trình máy tính
+store; cửa hàng, cửa hiệu, kho hàng
+technically; một cách chuyên môn
+
+10. Correspondence; Thư tín
+assemble; thu thập, lắp ráp, tập hợp
+beforehand; sẵn, có sẵn, trước
+complication; sự phức tạp, sự rắc rối
+courier; người đưa tin, người đưa thư, người chuyển phát
+express; nhanh, hỏa tốc, tốc hành
+fold; nếp gấp, gấp lại
+layout; sự bổ trí trang giấy
+mention; sự đề cập
+petition; sự cầu xin, đơn kiến nghị, đơn thỉnh cầu
+proof; bằng chứng, chứng cớ
+register; đăng ký
+revise; duyệt lại, sửa lại
+
+11. Job advertising and recruiting; Quảng cáo công việc và tuyển dụng
+abundant; nhiều, phong phú, thừa
+accomplishment; thành tựu, thành tích, sự hoàn thành
+bring together; gom lại, nhóm lại, họp lại
+candidate; ứng cử viên, thí sinh, người dự thi
+come up with; ý định
+commensurate (+with); xứng với, tương xứng với
+match; đối thủ, người ngang tài sức
+profile; tiểu sử sơ lược, bản tóm lược các đặc tính
+qualification; khả năng, năng lực, trình độ 
+recruit; tuyển dụng
+submit; trình, đệ trình, biện hộ
+time-consuming; tốn nhiều thời gian
+
+12. Applying and interviewing; Ứng tuyển và phỏng vấn
+ability; năng lực, khả năng, tài năng
+apply; nộp, ứng tuyển
+background; kiến thức, kinh nghiệm, quá trình đào tạo
+be ready for; sẵn sàng cho
+call in; yêu cầu, mời tới
+confidence; sự tin cậy, tin tưởng
+constantly; luôn luôn, liên tục, liên miên
+expert; chuyên gia, chuyên viên
+follow up; tiếp theo, kế tiếp
+hesitant; do dự, lưỡng lự, ngập ngừng
+present; đưa ra, bày tỏ, giới thiệu
+weakly; một cách yếu ớt, yếu, ốm yếu
+
+13. Hiring and training; Thuê mướn và đào tạo 
+conduct; tiến hành, cư xử
+generate; sinh ra, tạo ra, phát ra
+hire; thuê, mướn
+keep up with; theo kịp, bắt kịp, đạt cho bằng được
+look up to; tôn kính, kính trọng, khâm phục
+mentor; người cố vấn
+on track; theo dõi, đi tìm
+reject; từ chối, loại bỏ
+set up; thiết lập, tạo dựng
+success; thành công, thành đạt, thắng lợi
+training; huấn luyện, dạy dỗ, đào tạo
+update; cập nhật
+
+14. Salaries and benefits; Lương và lợi ích
+basis; nền tảng, cơ sở, căn cứ
+be aware of; am hiểu về
+benefit; chế độ đãi ngộ, lợi ích, phúc lợi
+compensate; bù, đền bù, bồi thường
+delicately; khôn khéo, nhạy bén
+eligible; thích hợp, đủ tư cách, đủ tiêu chuẩn
+flexibly; mềm dẻo, linh hoạt, linh động
+negotiate; thương lượng, đàm phán, điều đình
+raise; nâng lên, tăng lên, tăng lương
+retire; nghỉ hưu
+vested; được trao, được ban, được phong
+wage; tiền công, tiền lương (thường trả theo giờ)
+
+15. Promotions, pensions, and awards; Thăng chức, lương hưu và thưởng
+achievement; thành tích, thành tựu
+contribute; đóng góp, góp phần
+dedication; cống hiến, hiến dâng, tận tụy 
+look forward to; mong đợi, mong chờ, trông mong
+look to; tin vào, trông cậy vào, mong đợi ở (ai)
+loyal; trung thành, trung nghĩa, trung kiên
+merit; công lao, công trạng
+obviously; rõ ràng, hiển nhiên
+productive; có năng suất, có hiệu quả, sinh lợi cao
+promote; thăng tiến, thăng chức
+recognition; (sự) công nhận, thừa nhận, nhận ra
+value; giá trị
+
+16. Shopping; Mua sắm
+bargain; trả giá, mặc cả, món hời
+bear; chịu đựng, cam chịu
+behavior; thái độ, hành vi, cách cư xử
+check-out; thanh toán, quầy thanh toán
+comfort; sự thoải mái, thoải mái, dễ dàng
+expand; mở rộng, trải rộng, giãn ra
+explore; khảo sát, thăm dò, khám phá
+item; món, mục, mặt hàng
+mandatory; lệnh, bắt buộc
+merchandise; hàng hóa
+strictly; nghiêm ngặt, nghiêm khắc
+trend; khuynh hướng, xu hướng
+
+17. Ordering supplies; Đặt hàng
+diversify; đa dạng hóa, làm cho thành nhiều dạng
+enterprise; công trình, dự án lớn
+essentially; cần thiết
+everyday; hàng ngày, thường ngày, thông thường
+function; chức năng, nhiệm vụ
+maintain; bảo quản, giữ gìn, duy trì
+obtain; đạt được, thu được, giành được
+prerequisite; điều kiện tiên quyết, cần trước hết
+quality; chất lượng, phẩm chất
+smooth; êm thấm, suôn sẻ, trôi chảy
+source; nguồn, nguồn gốc
+stationery; đồ dùng văn phòng
+
+18. Shipping; Vận chuyển
+accurate; ‹một cách› chính xác, đúng đắn, xác đáng
+carrier; (người)chuyên chở, vận chuyển
+catalog; sách danh mục chi tiết
+fulfill; thực hiện, thi hành, hoàn thành
+integral; cần thiết, không thể thiếu
+inventory; sự kiểm kê, hàng tồn kho
+minimize; giảm thiểu, giảm đến mức tối thiểu
+on hand; có thể dùng được, có sẵn
+remember; nhớ, ghi nhớ
+ship; tàu thủy, máy bay
+sufficiently; đủ, có đủ
+supply; cung cấp, đáp ứng
+
+19. Invoices; Hóa đơn 
+charge; tính phí
+compile; soạn, biên soạn, soạn thảo
+customer; khách hàng
+discount; giảm giá, chiết khấu, khấu trừ
+efficient; có hiệu quả, có hiệu suất, có năng suất
+estimate; ước lượng
+impose; bắt chịu, bắt gánh vác
+mistake; lỗi, sai, nhầm
+order; đơn đặt hàng, thứ tự, trật tự
+promptly; mau lẹ, nhanh chóng, ngay lập tức
+rectify; sửa lại, hiệu chỉnh
+terms; điều khoản
+
+20. Inventory; Hàng tồn kho
+adjustment; điều chỉnh, chỉnh lý, sự sửa lại cho đúng
+automatic; một cách tự động
+crucial; cốt yếu, chủ yếu, có tính quyết định
+discrepancy; cốt yếu, chủ yếu, có tính quyết định
+disturb; quấy rầy, quấy rối
+liability; trách nhiệm, nghĩa vụ
+reflection; phản ánh, phản chiếu, phản xạ
+run; vận hành, hoạt động, thực hiện
+scan; xem lướt, xem qua, kiểm tra nhanh
+subtract; trừ đi, khấu trừ
+tedious; chán ngắt, tẻ nhạt, nhạt nhẽo
+verify; kiểm tra lại, thẩm tra, xác minh
+
+21. Banking; Ngân hàng 
+accept; chấp nhận, thừa nhận, công nhận
+balance; số dư tài khoản
+borrow; vay, mượn
+cautiously; thận trọng, cẩn thận
+deduct; lấy đi, trừ đi, khấu trừ
+dividend; tiền lãi cổ phần
+down payment; phần tiền trả trước ban đầu
+mortgage; sự cầm cố, sự thế chấp
+restricted; bị hạn chế, bị giới hạn
+signature; chữ ký, ký hiệu, dấu hiệu
+take out; rút (tiền)
+transaction; sự giao dịch
+
+22. Accounting; Kế toán
+accounting; công việc kế toán; sự thanh toán, tính toán
+accumulate; tích lũy, tích góp, gom góp
+asset; tài sản, của cải
+audit; kiểm toán
+budget; ngân sách, ngân quỹ
+build up; tăng cường, gom lại, tích lạ
+client; khách, khách hàng
+debt; nợ, món nợ
+outstanding; còn tồn tại, chưa giải quyết xong, chưa trả nợ
+profitably; có lợi, có ích, sinh lãi
+reconcile; hòa giải, giảng hòa, chỉnh lý
+turnover; doanh số, doanh thu
+
+23. Investments; Sự đầu tư
+aggressively; hung hăng, hùng hổ
+attitude; quan điểm, thái độ
+commit; cam kết
+conservative; bảo thủ, dè dặt, thận trọng
+fund; nguồn tiền, quỹ dự trữ
+invest; đầu tư
+long-term; dài hạn, dài ngày, lâu dài 
+portfolio; danh mục đầu tư, danh sách vốn đầu tư
+pull out; rút ra, rút khỏi
+resource; tài nguyên, tài sản
+return; tiền lãi, tiền lời
+wisely; khôn ngoan, thông thái, uyên bác
+
+24. Taxes; Thuế
+calculation; sự tính toán
+deadline; thời hạn chót
+file; sắp xếp, sắp đặt
+fill out; hoàn tất, hoàn thành, điền vào (cho đầy đủ)
+give up; bỏ, từ bỏ
+joint; chung, cùng, gia nhập
+owe; nợ, mắc nợ
+penalty; khoản tiền phạt
+preparation; sự chuẩn bị, sửa soạn
+refund; trả lại, hoàn lại tiền
+spouse; chồng, vợ
+withhold; kìm lại, giữ lại, ngăn cản
+
+25. Financial statements; Bản báo cáo tài chính
+desire; thèm muốn, khao khát, ao ước
+detail; chi tiết, tỉ mỉ
+forecast; dự báo, dự đoán, đoán trước
+level; mức, cấp bậc, trình độ
+overall; toàn bộ, toàn thể, nói chung
+perspective; quan điểm, cách nhìn
+project; kế hoạch, đồ án, dự án
+realistic; hiện thực, thực tế
+target; mục tiêu, mục đích
+translation; bản dịch, bài dịch
+typically; tiêu biểu, điển hình
+yield; sản lượng, lợi tức, hoa lợi
+
+26. Property and departments; Bất động sản và căn hộ
+adjacent; kế bên, liền kề, sát cạnh
+collaboration; sự cộng tác, hợp tác
+concentrate; tập trung
+conducive; có ích, có lợi
+disruption; sự phá vỡ
+hamper; cản trở, gây trở ngại
+inconsiderately; thiếu thận trọng, thiếu suy nghĩ
+lobby; hành lang, sảnh chờ
+move up; tiến lên, thăng tiến
+opt; chọn lựa, chọn, quyết định
+open to; tiếp thu, dùng được cho ai đó
+scrutiny; sự nhìn chăm chú
+
+27. Board meetings and committees; Họp hội đồng quản trị và ủy ban
+adhere to; tuân thủ, tôn trọng triệt để
+agenda; nhật ký công tác, chương trình nghị sự
+bring up; đưa ra
+conclude; kết luận, quyết định
+go ahead; cho phép, tiếp tục
+goal; mục tiêu, mục đích
+lengthy; lâu, dài, dài dòng
+matter; nội dung, chủ đề, vấn đề
+periodically; một cách định kỳ
+priority; ưu tiên, được xét trước
+progress; sự tiến tới, sự tiến triển
+waste; lãng phí, đồ bỏ đi, đồ thải ra
+
+28. Quality control; Quản lý chấtlượng
+brand; nhãn hiệu, nhãn hàng, chi nhánh
+conform; làm cho phù hợp, làm cho thích hợp
+defect; nhược điểm, khuyết điểm
+enhance; nâng cao, tăng cường
+garment; quần áo
+inspect; thanh tra, kiểm tra, xem xét kỹ
+perceptive; nhận thức được, cảm giác được, cảm thụ được
+repel; chống lại, đẩy lùi
+take back; rút lại, lấy lại, kéo lại
+throw out; vứt bỏ, bỏ đi, đuổi đi
+uniformly; đồng đều thống nhất, không thay đổi
+wrinkle; nếp nhăn, nhàu
+
+29. Product development; Phát triển sản phẩm
+anxious; lo âu, băn khoăn
+ascertain; biết chắc, xác định rõ ràng, tìm hiểu chắc chắn
+assume; giả sử, cho rằng
+decade; thập niên, thập kỷ
+examine; khám xét, xem xét, khảo sát
+experiment; cuộc thí nghiệm, sự thí nghiệm
+logical; hợp lý, hợp với lôgic, theo lôgic
+research; sự nghiên cứu
+responsibility; trách nhiệm, bổn phận
+solve; giải, giải quyết, làm sáng tỏ
+supervisor; người giám sát
+systematically; có hệ thống, có phương pháp
+
+30. Renting and leasing; Thuê và cho thuê
+apprehensive; sợ hãi, e sợ
+circumstance; trường hợp, hoàn cảnh, tình huống
+condition; điều kiện, hoàn cảnh
+due to; bởi, vì, do, tại
+fluctuate; dao động, lên xuống, thay đổi thất thường
+get out of; từ bỏ, rời bỏ, tránh né
+indicator; chỉ thị
+lease; hợp đồng cho thuê
+lock into; nhốt, giam
+occupy; sở hữu, chiếm hữu, chiếm giữ
+option; sự lựa chọn, quyền lựa chọn
+subject to; lệ thuộc vào, tùy theo, tuân thủ
+
+31. Selecting a restaurant; Lựa chọn nhà hàng
+appeal; lời kêu gọi, cầu khẩn
+arrive; đến, đi đến, tới nơi
+compromise; thỏa hiệp, dàn xếp
+daringly; táo bạo, phiêu lưu, dũng cảm
+familiar; quen, quen thuộc, thân thuộc
+guide; người hướng dẫn, người chỉ dẫn
+majority; đa số, phần lớn
+mix; trộn lẫn, pha lẫn
+rely; dựa vào, tin cậy vào
+secure; an toàn, an ninh, bảo đảm
+subjective; chủ quan
+suggestion; đề nghị, ý kiến, sự gợi ý
+
+32. Eating out; Đi ăn tiệm
+basic; cơ bản, cơ sở
+complete; đầy đủ, trọn vẹn, hoàn thành
+excite; kích thích, kích động, khuấy động
+flavor; mùi vị, hương vị
+forget; quên
+ingredient; thành phần, thành tố, phần hợp thành
+judge; đánh giá
+mix - up; sự lộn xộn
+patron; khách hàng quen
+predict; dự đoán, dự báo, tiên tri
+randomly; ngẫu nhiên, tình cờ
+remind; nhắc nhở, làm nhớ lại
+
+33. Ordering lunch; Đặt ăn trưa
+burden; gánh nặng
+commonly; thường thường, bình thường
+delivery; phân phát, giao, chuyển
+elegance; thanh lịch, tao nhã
+fall to; bắt đầu vào việc, bắt tay vào việc
+impress; gây ấn tượng
+individual; cá nhân, riêng, riêng lẻ
+list; danh sách, bản kê khai
+multiple; nhiều, phức tạp
+narrow; chật, hẹp
+pick up; đón (ai đó) 
+settle; giải quyết, hòa giải, dàn xếp
+
+34. Cooking as a career; Nghề nấu ăn 
+accustom to; làm cho quen, tập cho quen
+apprentice; người học việc, người tập sự
+culinary; (thuộc) nấu nướng, bếp núc
+demand; đòi hỏi, yêu cầu
+draw; lôi kéo, thu hút, lôi cuốn
+incorporate; sáp nhập, hợp nhất
+influx; sự chảy vào
+method; phương pháp, cách thức
+outlet; chỗ thoát ra, lối ra, lối thoát
+profession; nghề, nghề nghiệp
+relinquish; bỏ, từ bỏ
+theme; đề tài, chủ đề
+
+35. Events; Sự kiện
+assist; giúp, giúp đỡ, trợ giúp
+co-ordinate; phối hợp, kết hợp
+dimension; kích thước, cỡ, khổ
+exact; chính xác
+general; chung chung, tổng quát
+ideally; lý tưởng, theo lý tưởng
+lead time; khoảng thời gian ở giữa sự bắt đầu và sự hoàn thành của một quá trình
+plan; kế hoạch, đồ á
+proximity; sự gần gũi
+regulate; điều chỉnh, chỉnh đốn
+site; vị trí, địa điểm
+stage; trình diễn, dàn cảnh
+
+36. General travel; Du lịch tổng quan
+agent; đại lý, đại diện
+announcement; cáo thị, thông cáo
+beverage; đồ uống, thức uống
+blanket; mềm, chăn, lớp phủ
+board; lên tàu (máy bay, xe lửa)
+claim; đòi hỏi, yêu cầu
+delay; chậm trễ, trì hoãn, hoãn lại 
+depart; rời khỏi, khởi hành
+embarkation; lên tàu
+itinerary; lịch trình
+prohibit; ngăn cấm, ngăn chặn
+valid; có giá trị, có hiệu lực
+
+37. Airlines; Hàng không
+deal with; giải quyết, đối phó, xử lý
+destination; nơi đến, nơi tới, đích đến
+distinguish; phân biệt, nhận ra, nhận biết
+economize; tiết kiệm
+equivalent; tương đương
+excursion; chuyến thăm quan, cuộc đi tham quan, cuộc đi chơi
+expense; phí tốn, chi phí
+extend; gia hạn, mở rộng
+prospective; về sau, sắp tới
+situation; tình huống, hoàn cảnh
+substantially; lớn lao, đáng kể
+system; hệ thống
+
+38. Trains; Tàu hỏa 
+comprehensive; bao gồm, bao hàm, toàn diện
+deluxe; xa xỉ, xa hoa
+directory; danh bạ
+duration; khoảng thời gian
+entitle; cho quyền(làm gì)
+fare; cước phí, tiền xe, tiền vé
+offset; đền bù, bù đắp
+operate; hoạt động, thực hiện, tiến hành
+punctually; đúng giờ, không chậm trễ
+relatively; vừa phải, tương đối
+remainder; phần còn lại
+remote; xa, xa xôi, xa xăm
+
+39. Hotels; Khách sạn
+advanced; sự tiến lên, tiến bộ
+chain; chuỗi (khách sạn, nhà hàng... )
+check in; làm thủ tục đăng ký
+confirm; xác nhận, chứng thực
+expect; mong chờ, mong đợi
+housekeeper; quản gia, người coi nhà
+notify; báo, thông báo, khai báo
+preclude; loại trừ, ngăn ngừa
+quote; trích dẫn
+rate; mức, giá 
+reservation; sự dành trước, sự đặt chỗ trước
+service; dịch vụ, sự phục vụ
+
+40. Car rentals; Thuê xe hơi
+busy; bận, bận rộn
+coincide; trùng hợp, trùng nhau
+confusion; sự nhầm lẫn
+contact; liên lạc với ai
+disappoint; làm thất vọng
+intend; định, dự định
+license; giấy chứng nhận, bản quyền
+nervously; lo lắng, bồn chồn, căng thẳng
+optional; tùy ý, tùy chọn, không bắt buộc
+tempt; cám dỗ, lôi cuốn
+thrill; rung cảm, xúc động
+tier; dãy, tầng, lớp
+
+41. Movies; Phim ảnh
+attainment; đạt được, giành được
+combine; kết hợp, phối hợp
+continue; tiếp tục, tiếp diễn
+description; sự diễn tả, mô tả
+disperse; giải tán, phân tán
+entertainment; sự giải trí, tiêu khiển
+influence; ảnh hưởng đến, tác động đến
+range; phạm vi, trình độ
+release; công bố, phát hành
+representation; đại diện, thay mặt
+separately; tách rời, riêng rẽ
+successive; kế tiếp, liên tiếp, lần lượt
+
+42. Theater; Rạp hát
+action; diễn biến (của vở kịch)
+approach; lại gần, tiếp cận
+audience; khán giả, thính giả, độc giả
+creative; sáng tạo
+dialogue; cuộc đối thoại, giai thoại
+element; yếu tố, nguyên tố
+experience; kinh nghiệm, từng trải
+occur; xuất hiện, xảy ra, xảy đến
+perform; biểu diễn, trình diễn
+rehearse; diễn tập
+review; sự phê bình, lời phê bình
+sell out; hết vé
+
+43. Music; Âm nhạc
+available; sẵn có, sẵn sàng
+broaden; mở rộng, nới rộng
+category; loại, hạng
+disparate; khác biệt, khác loại, khác hẳn nhau
+divide; chia ra, phân chia
+favor; chiếu cố, thiên vị
+instinct; bản năng
+prefer; thích hơn, ưa hơn
+reason; lý do, lý lẽ
+relaxation; thư giãn, giải trí
+taste; vị giác, thưởng thức
+urge; thúc giục
+
+44. Museums; Bảo tàng
+acquire; thu được, giành được
+admire; khâm phục, thán phục
+collection; sưu tầm, thu thập
+criticism; lời phê bình
+express; bày tỏ
+fashion; thời trang, mốt
+leisure; thời gian nhàn rỗi
+respond; hồi âm, phúc đáp
+schedule; thời gian biểu, lịch trình
+significant; quan trọng, đầy ý nghĩa
+specialize; chuyên môn hóa
+spectrum; sự phân bổ theo tính chất, số lượng, hành vi
+
+45. Media; Truyền thông
+assignment; nhiệm vụ, công việc
+choose; chọn, chọn lựa
+constantly; trung thành, chung thủy, liên tục
+constitute; tạo thành, thành lập, thiết lập
+decision; sự quyết định
+disseminate; truyền bá phổ biến
+impact; tác động mạnh, ảnh hưởng mạnh
+investigate; điều tra, nghiên cứu
+link; nối, liên kết
+subscribe; đặt mua báo, tạp chí 
+thorough; kỹ lưỡng, thấu đáo
+
+45. Doctor's office; Văn phòng bác sĩ
+annually; hàng năm, từng nằm, thường niên
+appointment; cuộc hẹn, sự hẹn gặp
+assess; ước định, định giá
+diagnose; chẩn đoán
+effective; có hiệu quả
+instrument; dụng cụ, công cụ, thiết bị đo đạc
+manage; quản lý, trông nom, điều khiển
+prevent; ngăn ngừa, phòng ngừa
+recommendation; sự giới thiệu, tiến cử
+record; ghi lại
+refer; tham khảo, xem
+serious; nghiêm trọng
+
+47. Dentist's office; Phòng khám răng
+aware; biết, nhận thấy, nhận thức thấy
+catch up; làm kịp, kịp thời gian
+distraction; sự sao nhãng
+encouragement; khuyến khích, cổ vũ
+evident; rõ ràng, hiển nhiên, rành rành
+habit; thói quen, tập quán
+illuminate; chiếu sáng, rọi sáng
+irritate; kích ứng, kích thích
+overview; chung, tổng quan, tổng quát
+position; vị trí, chỗ, thế
+regularly; đều đặn, thường xuyên
+restore; phục hồi, khôi phục
+
+48. Health insurance; Bảo vệ sức khỏe
+allow; cho phép
+alternative; thay phiên, luân phiên
+aspect; bề ngoài, diện mạo
+concern; lo lắng, lo ngại, quan tâm
+emphasize; nhấn mạnh, làm nổi bật
+incur; gánh chịu, chịu lấy
+personnel; cán bộ, nhân viên
+policy; chính sách, đường lối
+portion; phần, phần chia
+regardless; không đếm xỉa tới, bất chấp
+salary; tiền lương
+suit; làm cho phù hợp, thích hợp
+
+49. Hospitals; Bệnh viện
+admit; cho vào, nhận vào
+authorize; cho quyền, ủy quyền, cho phép
+designate; chỉ rõ, định rõ
+escort; vệ sĩ, đội hộ tống
+identify; nhận dạng, nhận biết
+mission; sứ mệnh, nhiệm vụ
+permit; giấy phép, sự cho phép
+pertinent; thích hợp, thích đáng
+procedure; thủ tục, các bước tiến hành
+result; kết quả, đáp số
+statement; sự trình bày
+usually; thông thường, thường lệ
+
+50. Pharmacy; Nhà thuốc
+consult; hỏi ý kiến, tham khảo
+control; kiểm soát, điều khiển, chỉ huy
+convenient; thuận lợi, thuận tiện
+detect; phát hiện ra, khám phá ra
+factor; nhân tố
+interaction; sự tương tác, ảnh hưởng lẫn nhau
+limit; giới hạn, hạn định, ranh giới
+monitor; màn hình vi tính, lớp trưởng
+potential; tiềm tàng, tiềm năng
+sample; mẫu, hàng mẫu
+sense; khả năng phán đoán
+volunteer; tình nguyện viên, người xung phong

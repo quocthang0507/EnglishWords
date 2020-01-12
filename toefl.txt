@@ -1,0 +1,866 @@
+﻿abandon; bỏ rơi, ruồng bỏ
+abet; xúi giục
+abhor; ghê tởm, ghét cay ghét đắng
+abject; hèn hạ, thấp hèn, khốn khổ 
+abridge; rút ngắng lại, cắt bớt
+abrogate; bãi bỏ, huỷ bỏ, thủ tiêu
+abstemious; tiết chế, có điều độ
+abstract; trừu tượng
+absurd; ngớ ngẩn, lố bịch
+accede; đồng ý, tán thành
+accentuate; tô điểm, làm nổi bật
+accompany; đồng hành, đi cùng, hộ tống
+accord; hiệp định, hiệp ước
+acquisition; sự được, sự giành được, sự thu được
+acrimonious; chua cay, gay gắt
+acumen; sự nhạy bén
+adequate; đủ, đầy đủ
+adjacent; kế bên, gần
+admonish; khiển trách, la rầy
+advent; sự ra đời, sự xuất hiện
+advocate; chủ trương, tán thành
+aesthetic; (thuộc) mỹ học, thẩm mỹ 
+affable; hòa nhã, dễ gần
+aforementioned; đã kể trước đây, đã nói trên
+aggravate; làm trầm trọng thêm, xấu thêm
+agitate; lay động, rung động, làm rung chuyển
+alacrity; sự sốt sắng
+alienate; làm cho giận ghét, làm cho xa lánh
+allay; làm dịu đi, làm lắng xuống
+allegiance; lòng trung thành 
+allure; sức quyến rũ, sức lôi cuốn
+alter; thay đổi, làm cho cái gì đó thay đổi
+amass; chất đống, tích lũy
+ambiguous; khó hiểu, mơ hồ, nhập nhằng
+anachronism; việc lỗi thời, người lỗi thời, quan niệm lỗi thời
+animus; ác cảm
+anomaly; sự dị thường
+anonymous; giấu tên, ẩn danh
+anticipate; đoán trước, liệu trước, lường trước
+apparatus; đồ dùng, dụng cụ, thiết bị máy móc
+appeal, hấp dẫn, lôi cuốn 
+apprise; cho biết, báo cho biết
+approbation; sự chấp thuận, sự đồng ý
+appropriate; thích hợp, thích đáng
+apt; thích hợp, đúng với hoàn cảnh 
+arbitrary; không bị bó buộc, tùy ý, tùy tiện
+archetype; nguyên mẫu, nguyên hình
+artful; tinh ranh, ma mãnh
+articulate; có khả năng ăn nói lưu loát
+ascetic; khổ hạnh
+aspect; khía cạnh, mặt
+assail; tấn công, xông vào đánh, công kích
+assert; khẳng định, quả quyết 
+assiduous; chuyên cần, siêng năng 
+associate; kết giao, kết hợp, kết nối 
+asylum; nơi tị nạn 
+atom; nguyên tử
+attribute; cho là do, quy cho 
+augment; làm tăng lên
+auspicious; có điềm tốt, điềm lành, thuận lợi
+authentic; đích thực, xác thực 
+avarice; tính hám lợi, tính tham lam
+awry; hỏng, không như ý muốn
+banal; thường, vô vị
+bane; tai ương
+banter; sự đùa dỡn
+belie; gây một ấn tượng sai lầm, làm cho nhầm
+belligerent; hay gây sự, hiếu chiến 
+beneficial; có ích, có lợi 
+benevolent; nhân từ, tốt bụng, rộng lượng
+bestow; tặng cho, ban cho, dành cho
+bibliophile; người mê sách 
+bizarre; quái dị 
+bland; nhạt nhẽo, không hấp dẫn 
+blandishment; lời xu nịnh
+blatant; trắng trợn
+bleak; ảm đạm, không tươi sáng 
+blight; làm hại, làm hỏng
+bog; ngăn cản tiến độ của ai
+bold; dũng cảm, táo bạo 
+bombast; lời nói khoa trương
+boorish; thô lỗ
+boundary; biên giới, ranh giới 
+bucolic; (thuộc) thôn quê, cuộc sống hôn nhân
+buffoon; anh hề 
+bulwark; người bảo vệ, nguyên tắc bảo vệ
+bumptious; tự phụ, khoa trương
+burgeon; đâm chồi
+by-product; kể quả phụ, tác dụng phụ
+cadaverous; tái nhợt, trông như xác chết
+calamity; tai họa, tai ương
+callous; nhẫn tâm
+campaign; chiến dịch
+candid; ngay thẳng, bộc trực
+candour; thật thà, ngay thẳng
+cantankerous; nóng tính, hay gây gỗ, thích cãi nhau
+capricious; tính khí thất thường 
+caricature; tranh biếm họa
+castigate; khiển trách, trừng phạt, trừng trị
+caustic; châm biếm, cay độc
+cease ; dừng, ngừng, ngớt 
+cherish; trân trọng, yêu quý
+chicanery; mánh khoé kiện tụng, sự ngụy biện 
+chivalry; những hiệp sĩ, những người hào hoa phong nhã
+chronic; xãy ra trong một thời gian dài, ăn sâu, mãn tính
+circulate; lưu thông, lưu chuyển, tuần hoàn
+circumspect; thận trọng
+circumvent; đánh lừa, đi vòng, đi tránh
+cite; trích dẫn
+civil; (thuộc) công dân
+clandestine; giấu giếm, bí mật
+clarify; làm cho rõ ràng, dễ hiểu 
+clash; cuộc đụng độ 
+clement; khoan dung, nhân từ 
+coalition; sự liên kết, sự liên hiệp, sự liên minh 
+coercion; sự ép buộc, sự áp bức
+cogent; vững chắc, có sức thuyết phục (lập luận...)
+coherent; mạch lạc, chặt chẽ 
+cold-shoulder; lạnh nhạt với ai 
+collaborate; cộng tác
+collective; tập thể, chung 
+collide; va nhau, đụng nhau
+collusion; sự câu kết, sự thông đồng
+colossal; rất lớn
+commemorate; kỷ niệm, tưởng niệm 
+commence; bắt đầu, mở đầu
+commerce; thương mại 
+commodious; rộng rãi
+commonplace; phổ biến
+compatible; tương hợp, tương thích 
+compensate; đền bù, bồi thường, bù đắp 
+competence; năng lực, khả năng 
+complacent; tự mãn
+complement; bổ sung
+comprise; bao gồm 
+compulsory; bắt buộc 
+conceal; giấu (người, vật gì đó) 
+concede; thừa nhận, nhường cho
+concept; khái niệm 
+concord; sự hòa hợp, hòa thuận
+condolence; lời chia buồn, sự chia buồn
+condone; dung túng, bỏ qua
+confederate; người đồng mưu, người cấu kết
+confer; hỏi ý kiến, hội ý 
+conflict; sự xung đột, sự mâu thuẫn, cuộc xung đột
+confluence; sự hợp lưu (khi hai thứ hợp thành một)
+conform; nghĩ và làm theo số đông 
+confound; làm bối rối, làm khó xử, làm ngạc nhiên
+congenial; hợp nhau, ăn ý nhau
+conglomerate; tập đoàn, công ty đại tổ hợp, xí nghiệp tập đoàn
+congregate; tập hợp, tụ hợp
+conjecture; sự phỏng đoán, sự ước đoán
+conjure; làm ảo thuật
+consecrate; được phong thánh, thánh hoá
+consensus; sự đồng thuận, nhất trí
+conspicuous; dễ thấy, nổi bật 
+conspire; âm mưu
+constitute; tạo thành, gây nên 
+constrain; dằn xuống, nén, chế ngự
+consul; lãnh sự
+consummate; cực kì giỏi, hoàn hảo
+contemplate; suy ngẫm 
+contemporary; cùng thời 
+contemptuous; khinh thường, coi thường, tỏ vẻ khinh bỉ 
+contradict; phủ nhận
+contradictory; mâu thuẫn, trái ngược 
+contrive; xoay xở, lo liệu
+controversy; sự tranh cãi 
+convenient; tiện lợi, thuận tiện 
+conversely; ngược lại 
+convert; chuyển đổi, biến đổi
+convey; chở, chuyên chở, chuyển tải 
+convivial; vui tươi, thân thiện
+cooperate; hợp tác 
+copious; nhiều, với số lượng lớn
+cordial; nồng hậu
+correspond; tương tự, tương ứng 
+cosmopolitan; (thuộc) toàn thế giới
+coterie; nhóm, phái 
+countenance; sắc mặt
+counterpart; bên tương ứng 
+covet; thèm muốn
+crass; đần độn, dốt đặc
+craven; hèn nhát
+credence; sự đáng tin
+credible; có thể tin được
+creditable; đáng khen, đáng ca ngợi
+credulous; cả tin, nhẹ dạ
+cringe; tránh xa ai, trốn ai vì sợ
+criterion; tiêu chí 
+crucial; quan trọng, cốt yếu 
+cryptic; khó hiểu, bí ẩn
+culpable; đáng khiển trách
+cultivate; trau dồi, tu dưỡng
+cumulative; tích lũy 
+curb; kiềm chế, hạn chế điều gì (đặc biệt là điều không tốt) 
+curious; tò mò, hiếu kì 
+cursory; qua loa, lướt qua
+curt; cộc lốc, cụt ngủn
+cynical; người hoài nghi
+dearth; sự thiếu, sự khan hiếm
+debris; mãnh vỡ, mãnh vụn 
+decay; quá trình suy tàn, tình trạng suy tàn 
+decipher; giải mã
+deem; cho rằng, thấy rằng
+defect; khuyết điểm, nhược điểm 
+deficit; sự thâm hụt, số tiền thiếu hụt 
+defy; không tuân theo, bất chấp, coi thường
+deity; vị thần 
+delectable; ngon lành
+delegate; đại biểu 
+deliberate; cố ý 
+delicacy; sự mỏng manh, dễ vỡ
+delinquent; có tội, phạm tội, lỗi lầm
+deluge; làm tràn ngập, dồn tới tấp
+delusion; ảo tưởng, ảo giác 
+demagogue; kẻ mị dân
+demeanour; cách xử sự, cử chỉ 
+demise; sự chấm dứt, sự thất bại 
+demure; kín đáo, nghiêm trang, từ tốn
+denote; biểu hiện, biểu thị
+denounce; chỉ trích dữ dội
+depict; mô tả
+deplete; cạn kiệt, suy yếu
+deplore; kịch liệt phản đối
+deprave; làm hư hỏng, làm suy đổi
+deprecate; phản đối, phản kháng, không tán thành
+depreciate; bị giảm giá trị
+deranged; loạn trí
+derive ; xuất phát từ, chuyển hoá từ, bắt nguồn từ 
+descend; đi xuống 
+destitute; bần cùng
+detect; nhận thấy, phát hiện ra 
+deteriorate; trở nên xấu đi, suy giảm 
+detrimental; có hại, thiệt hại cho, bất lợi cho
+devastation; sự tàn phá
+deviate; chệch hướng
+devious; không thành, thủ đoạn
+devise ; nghĩ ra, sáng chế, phát minh 
+devoid; không có, trống rỗng
+devout; thành kính, mộ đạo
+dictate; ra lệnh, sai khiến
+dictum; châm ngôn
+didactic; giáo huấn
+diffident; thiếu tự tin, quá khiêm tốn, nhút nhát
+dilemma ; thế tiến thoái lưỡng nan, tình trạng khó xử 
+dilettante; tài tử, không chuyên sâu (về một môn gì) 
+discard; bỏ, vứt bỏ
+discern; nhận thức, thấy rõ (bằng trí óc, bằng giác quan...) 
+disconcert; làm bối rối, làm lúng túng
+disconsolate; buồn phiền, phiền muộn, chán nản thất vọng
+discord; sự bất hòa
+discourse; luận văn, đàm luận 
+discredit; làm mất uy tín
+discrepancy; sự khác biệt, sự khác nhau 
+discrete; riêng biệt
+discursive; rời rạc, không mạch lạc 
+dismay; sự buồn vã và lo lắng 
+disparity; sự cách biệt, sự chênh lệch
+dispassionate; vô tư, không thiên vị
+dispatch; gửi đi (thư, thông điệp...), sai phái đi 
+dispel; xua đuổi đi, xua tan
+disperse; phân tán, giải tán
+disposition; tính khí 
+dispute; sự tranh chấp, bất đồng, tranh cãi 
+disseminate; truyền bá, phổ biến (thông tin, kiến thức...)
+dissipate; xua tan, làm tiêu tan
+dissociate; phân ra, tách ra, phân ly
+dissolute; phóng đảng 
+dissolve; biến mất, làm biến mất 
+distinct; dễ thấy, dễ nhận ra 
+distinctly ; riêng biệt, rõ ràng, rành mạch, minh bạch, rõ rệt
+distort; vặn vẹo, bóp méo, làm méo mó 
+distraught; quẫn trí 
+distribute; phân phối, phân phát 
+diversify; đa dạng hoá
+diversity; sự đa dạng 
+divert; hướng ai, vật gì sang phía khác
+divulge; tiết lộ thông tin bí mật
+dogmatic; độc đoán, giáo điều
+dolorous; đau thương
+drought; hạn hán 
+dubious; không chắc chắn, nghi ngờ 
+due; vì, do bởi, tại 
+duration; thời gian, khoảng thời gian 
+dwell; ở, cư ngụ
+edict; chỉ dụ, sắc lệnh
+edifice; dinh thự, cấu trúc lớn, công trình lớn
+edify; khai trí, soi sáng (nghĩa bóng)
+effete; suy yếu, hết thời
+egoism; tính ích kỷ, tính ngoan cố, tính cố chấp
+egregious; tuyệt vời, xuất sắc
+elaborate; kỹ lưỡng, công phu, tinh vi 
+elevate; đưa lên, nâng lên
+elicit; khơi gợi, moi(thông tin hay phản ứng của ai)
+eligible; đủ tư cách, thích hợp 
+elite ; thành phần tinh túy, ưu tú, cao cấp 
+elucidate; làm sáng tỏ, giải thích 
+elude; tránh, né, lảng tránh
+embark; lao vào, dấn mình vào, bắt tay vào (công việc gì...)
+embrace; đón nhận (ý tưởng, đề nghị, hệ tư tưởng...) 
+emissary; sứ giả
+emit; tỏa ra, phát ra
+emphasize; nhấn mạnh 
+enactment; sự ban hành (đạo luật)
+encase; bọc lấy, bao bọc 
+encompass; bao gồm, chứa đựng
+encounter; chạm trán, mắc phải 
+encroach; xâm lấn, xâm phạm (lãnh thổ, quyền...)
+endure; chịu đựng, cam chịu
+engender; gây ra, đem lại
+enhance; làm tăng, nâng cao, đề cao 
+ennui; sự buồn chán
+ensue; xãy ra sau đó 
+enterprise; doanh nghiệp, hãng 
+enthral; mê hoặc, làm mê mệt
+enthusiast; người có nhiệt tình, người say mê 
+entitle; cho quyền (làm gì...) 
+entreat; khẩn nài, khẩn khoản
+envoy; phái viên, đại diện ngoại giao
+ephemeral; phù du, sớm chết, chóng tàn
+epitaph; văn bia
+epithet; (ngôn ngữ học) tính ngữ 
+equable; điềm đạm, điềm tĩnh
+equitable; công bằng, hợp lí
+equivalent; tương đương 
+eradicate; tiêu diệt, xóa bỏ
+erode; xói mòn, ăn mòn
+err; phạm sai lầm
+erratic; thất thường, không đều
+erudite; học rộng, uyên bác
+esoteric; chỉ những người đặc biệt quan tâm mới hiểu được, bí truyền
+essential; cần thiết, cốt yếu 
+ethical; (thuộc) đạo đức 
+evacuate; sơ tán
+evolve; tiến hoá, phát triển, khai triển
+exaggerate; phóng đại, cường điệu
+exalt; đề cao, đưa lên địa vị cao, tâng bốc
+excavate; khai quật
+exceed; vượt quá, lớn hơn 
+excerpt; đoạn trích
+exert; tác động (để ảnh hưởng ai/cái gì)
+exhilarate; làm vui vẻ, làm phấn khởi 
+exotic; ngoại lai, kỳ lạ 
+expedient; kế, thủ đoạn, mưu chước (vì mục đích cá nhân) 
+expenditure; sự chi tiêu, phí tổn 
+exploit; lợi dụng 
+exposure; trình trạng bị phơi bày
+expound; trình bày chi tiết
+expurgate; sàng lọc, cắt bỏ 
+exquisite; thanh tú, trang nhã, tinh tế
+extensive; rộng về diện tích, lớn về lượng 
+extirpate; nhổ rễ, đào tận gốc (cây, cỏ...), cắt bỏ (cái u...)
+extol; tán dương, khen ngợi 
+extraneous; không liên quan tới vấn đề đang được đề cập
+extravagant; phung phí
+exult; hân hoan, hoan hỉ, hả hê
+facade; mặt tiền
+facet; khía cạnh(vấn đề... )
+facetious; hay khôi hài, hay hài hước
+fallacy; ảo tưởng, sự sai lầm, ý kiến sai lầm
+fallible; có thể sai lầm
+famine; nạn đói 
+fanciful; tưởng tượng, không có thật
+fancy; cầu kỳ, sặc sỡ
+farce; trò khôi hài, trò hề ( (nghĩa đen) & (nghĩa bóng)) 
+fastidious; tỉ mỉ, kĩ lưỡng
+fatal; gây tử vong, gây chết người
+fathom; thấu hiểu, tìm lời giải 
+fatigue; sự mệt nhọc, mệt mỏi
+fatuous; ngu ngốc
+favour; ưu đãi, biệt đãi, chiếu cố, thiên vị
+feasible; khả thi 
+feat; kỳ công, chiến công
+feature; đặc tính 
+feeble; yếu ớt
+feign; giả vờ
+felicity; hạnh phúc lớn
+fertile; màu mỡ, phì nhiêu 
+fervent; nhiệt thành, tha thiết 
+fervid; nồng nhiệt, tha thiết
+fiasco; thất bại lớn, thất bại ê chề
+fictitious; hư cấu 
+finite; có hạn 
+flaccid; mềm, nhũn
+flagrant; trắng trợn
+flamboyant; khác lạ, tự tin và thu hút
+flashback; hồi tưởng 
+flaunt; khoe khoang
+flaw; sai lầm, thiếu sót
+flock; lũ lượt kéo đến 
+flourish; phát đạt, phát triển 
+fluctuate; dao động, biến động
+forefront; hàng đầu, địa vị quan trọng trong một nhóm
+foremost; đầu tiên 
+forensic; (thuộc) pháp y
+forfeit; bị mất, bị thiệt (vì có lỗi...)
+fortuitous; tình cờ, bất ngờ, ngẫu nhiên
+foster; ấp ủ, nuôi dưỡng 
+fracas; cuộc cãi lộn ầm ĩ, cuộc ẩu đã ầm ĩ
+fragment; mảnh, mãnh vỡ
+frail; ốm yếu
+fraud; sự gian lận, sự lừa gạt
+frugal; tiết kiệm
+frustrate; làm ai đó nản 
+fundamental; cơ bản, chủ yếu 
+genealogy; gia phả học
+genesis; căn nguyên, nguồn gốc
+gesticulate; khoa tay múa chân (khi nói) 
+gesture; điệu bộ, cử chỉ 
+ghastly; ghê sợ, khủng khiếp
+glib; lém lĩnh, liến thoắng
+glisten; sáng lấp lánh
+glorify; tuyên dương, ca ngợi
+gratify; làm ai đó hài lòng
+grave; rất nghiêm trọng, đáng lo
+gregarious; thích đàn đúm, thích giao du
+grimace; nhăn mặt, nhăn nhó
+gruelling; khó khăn, mệt mỏi
+haggle; mặc cả, tranh cãi 
+hail; khen, ca ngợi
+halt; cho dừng lại; bắt dừng lại
+handicraft; thủ công mỹ nghệ 
+haphazard; bừa bãi, lộn xộn
+harangue; diễn thuyết, kêu gọi, hô hào (trước đám đông)
+harness; khai thác
+haughty; kiêu căng, ngạo mạn
+hazardous; mạo hiểm, nguy hiểm (đến sức khỏe hoặc sự an toàn của ai đó)
+heedless; không chú ý, lơ là 
+heinous; cực kỳ tàn ác
+herald; báo trước 
+hiatus; quãng nghỉ 
+hierarchy; hệ thống cấp bậc
+highlight; nhấn mạnh, làm nổi bật
+hoax; trò đánh lừa, trò chơi khăm
+hostile; không thân thiện, thù địch 
+hurl; ném mạnh
+hurtle; va mạnh, đụng mạnh
+hybrid; cây lai, động vật lai
+hyperbole; lối nói cường điệu
+hypothesis; giả thuyết 
+ideology; ý thức hệ, hệ tư tưởng 
+idiosyncrasy; cách diễn đạt riêng, cách biểu hiện riêng, phong cách riêng (của một tác giả)
+illumination; sự chiếu sáng, nơi tỏa sáng 
+illusion; ảo tưởng 
+immaculate; sạch bóng, không tỳ vết
+imminent; sắp xảy ra
+immune; miễn dịch 
+impair; làm suy yếu, phá hỏng 
+impeach; buộc tội, tố cáo
+impeccable; hoàn hảo, không chê vào đâu được, không tỳ vết (đồ vật...) 
+impediment; trở ngại, cản trở 
+impervious; không thấm (nước), không lọt qua
+implacable; không thể làm xiêu lòng, không thể nguôi ngoai
+implement; thi hành, thực hiện 
+implicit; ngầm, ẩn ý 
+impose; ban hành một luật mới, áp đặt (thuế, đạo luật) 
+impregnable; bất khả xâm phạm 
+improvident; không biết dự liệu, hoang phí
+impugn; công kích, nghi vấn
+inaugurate; khai mạc, khánh thành
+incarcerate; bỏ tù, tống giam, giam hãm 
+incentive; khuyến khích, khích lệ, động cơ 
+incessant; không dứt, liên miên, không ngớt
+incisive; sắc sảo, sâu sắc
+incognito; ẩn danh
+incontrovertible; không thể chối cãi, hiển nhiên 
+increment; khoảng lương tăng 
+incumbent; người đương nhiệm
+indefatigable; không biết mỏi mệt 
+indicative; tỏ ra, ngụ ý, biểu lộ 
+indigenous; bản địa, bản xứ 
+indiscriminate; chỉ hành động thiếu suy nghĩ 
+induce; khiến, xui khiến 
+inevitable; không thể tránh được, chắc chắn xảy ra
+inference; điều suy ra, điều rút ra
+infinitesimal; rất nhỏ, nhỏ vô cùng, cực kì nhỏ 
+infringe; vi phạm luật lệ 
+ingenious; tinh xảo, tài tình 
+ingenuous; chân thật, ngây thơ 
+ingratiate; lấy lòng 
+inherent; vốn có, cố hữu 
+inhibit; ngăn chặn, kìm chế
+innate; bẩm sinh
+innocuous; không có hại, vô thưởng vô phạt
+innovation; phát kiến 
+innuendo; lời nói bóng gió, lời nói cạnh khóe
+inordinate; quá mức, quá xá, quá quắt
+insatiable; không thể thoả mãn được, tham lam vô độ
+inscription; câu viết, câu khắc, câu ghi (trên bia...)
+inscrutable; bí hiểm, khó hiểu 
+insidious; âm ỉ, ngấm ngầm 
+insinuate; nói bóng gió, ám chỉ 
+inspire; truyền cảm hứng
+instantaneous; diễn ra ngay lập tức 
+instigate; xúi giục, xúi bẩy
+intangible; vô hình, không thể rờ được, không thể sờ vào
+integral; thiết yếu, cần thiết 
+integrity; sự chính trực, liên minh 
+intense; rất lớn, rất mạnh
+interchange; trao đổi lẫn nhau, thay thế lẫn nhau
+interminable; dài dòng, vô tận, tràng giang đại hải
+intermittent; lúc có lúc không, không liên tục, gián đoạn 
+intervene; xen vào, can thiệp
+intrepid; gan dạ, dũng cảm 
+intricate; phức tạp
+intrigue; tạo sự hứng thú 
+intrinsic; nội tại, thực chất bên trong
+invoke; viện đến, dẫn chứng
+involve; bao hàm, kéo theo 
+irascible; dễ nổi nóng 
+irksome; phiền phức 
+itinerary; lộ trình đi, hành trình 
+jargon; biệt ngữ, thuật ngữ, tiếng lóng
+jaunty; khoái chí, hài lòng với bản thân
+jeopardy; nguy cơ, cảnh nguy hiểm, cảnh hiểm nghèo
+judicious; sáng suốt, khôn ngoan, có suy xét
+keynote; điểm chính yếu
+laconic; vắn tắt, súc tích 
+latent; ngấm ngầm, tiềm tàng, âm ỉ
+lateral; ở bên
+laud; ca ngợi, khen ngợi
+launch; buổi giới thiệu (sản phẩm)
+lavish; xa hoa
+legislature; cơ quan lập pháp 
+legitimate; chính đáng
+lethal; gây chết người 
+liaison; sự liên lạc, sự giao liên
+liberate; giải phóng
+linger; nấn ná, lần lữa, chần chừ
+literal; theo nghĩa của chữ, theo nghĩa đen
+loathe; căm ghét
+lofty; cao ngất, sừng sững
+longevity; tuổi thọ, sự sống lâu, sự trường thọ
+ludicrous; buồn cười, lố lăng, lố bịch
+luminary; người có uy tín lớn, người có ảnh hưởng lớn, danh nhân
+luminous; toả sáng trong bóng tối, dạ quang
+magnetic; có sức hấp dẫn mạnh, có sức quyến rũ
+magnitude; tầm cỡ, độ lớn 
+malice; ác tâm
+mandatory; bắt buộc (bởi luật pháp) 
+manifestation; sự biểu lộ, sự biểu thị 
+manipulate; kiểm soát, tác động 
+marketplace; thị trường, nơi họp chợ 
+massacre; cuộc thảm sát
+masterpiece; tuyệt tác nghệ thuật 
+mature; trưởng thành, chín chắn
+mediocre; xoàng, trung bình
+menace; mối đe dọa
+mercenary; lính đánh thuê
+mere; chỉ là, chẳng qua
+merit; xứng đáng
+microcosm; mô hình thu nhỏ, thế giới vi mô
+milestone; sự kiện quan trọng, cột mốc
+mingle; trộn lẫn, lẫn vào
+misanthrope; kẻ ghét người
+misconception; quan niệm sai, sự hiểu sai 
+mishandle; hành hạ, ngược đãi, giải quyết hỏng
+mislead; làm cho mê muội, làm cho lầm đường lạc lối
+misnomer; sự nhầm tên
+mobile; di động, lưu động 
+mobilize; huy động, động viên
+mock; chế nhạo
+moderate; vừa phải, điều độ
+momentum; đà 
+monetary; (thuộc) tiền tệ
+monologue; cuộc độc thoại 
+monotonous; đều đều, đơn điệu, buồn tẻ
+morale; nhuệ khí
+morose; buồn rầu, rầu rỉ, ủ ê
+mortify; làm cho xấu hổ, làm mất thể diện 
+mundane; không thú vị, không hấp dẫn
+municipal; (thuộc) thành phố, (thuộc) đô thị, (thuộc) thị xã
+murky; không rõ ràng, âm u, tối tăm 
+muster; tập hợp, tập trung
+mutable; có thể biến đổi
+mutation; sự đột biến
+myriad; vô số, rất nhiều
+negligible; không đáng kể 
+nettle; chọc tức
+nocturnal; (thuộc) đêm, về đêm
+nominal; chỉ tồn tại trên danh nghĩa, hữu danh vô thực
+nonchalant; thờ ơ, hờ hững, lãnh đạm, vô tình
+norm; quy tắc, quy phạm, tình huống
+nostalgic; luyến tiếc quá khứ, hoài niệm
+notion; ý nghĩ, lòng tin, cách hiểu
+notorious; khét tiếng
+notwithstanding; bất kể, bất chấp
+novelty; tính mới lạ, tính lạ thường
+novice; người mới học, người chưa có kinh nghiệm 
+oblivious; không chú ý đến
+obnoxious; khả ố, dễ ghét
+obscure; không có tiếng tăm, vô danh, ít người biết đến
+obsolete; lỗi thời, lạc hậu
+obstacle; trở ngại, khó khăn
+obtrude; ép buộc, bắt ai phải chịu đựng mình, bắt ai phải chú ý đến mình
+obviate; xóa bỏ, tẩy trừ
+obvious; rõ ràng, hiển nhiên
+omen; điềm 
+ominous; báo điềm xấu, đáng ngại
+omnipotent; có quyền tuyệt đối, có quyền vô hạn, rất lớn
+onus; nhiệm vụ, trách nhiệm
+oppress; áp bức
+ostensible; giả mạo, mạo nhận
+ostracize; tẩy chay
+outburst; sự bột phát, sự bùng nổ
+outlaw; người sống ngoài vòng pháp luật
+overlap; sự gối lên nhau, sự chồng chéo
+override; gạt ra một bên, không thèm đếm xỉa đến
+overthrow; lật đổ 
+overview; sự khái quát
+overwhelming; rất lớn và mạnh, áp đảo
+pacify; làm yên, xoa dịu
+painstaking; chịu khó, cần cù, cẩn thận
+panacea; thuốc bách bệnh, thần dược 
+paradigm; mẫu, mô hình 
+paradox; nghịch lý, mâu thuẫn
+parameter; giới hạn
+paramount; quan trọng nhất
+parody; nhái lại, nhại lại, bắt chước một cách hài hước
+particle; mảnh nhỏ (của cái gì)
+partisan; thiên vị, thiên lệch
+patronize; đối xử với thái độ kẻ cả, bề trên
+peculiar; kỳ dị
+pedantic; quá quan tâm về những chi tiết hay luật lệ nhỏ nhặt 
+pencuniary; (thuộc) tiền
+penetrate; đâm thủng, xuyên qua
+pensive; trầm ngâm, đăm chiêu 
+perceive; nhận thấy, để ý 
+peremptory; cưỡng bách 
+peril; (mối) hiểm nguy
+perish; diệt vong
+permeate; lan ra, tràn ngập
+perpendicular; vuông góc 
+perpetual; không ngừng, liên tục, vĩnh viễn
+perplex; làm rối trí, làm khó hiểu 
+persistent; kiên trì, kiên định
+perspective; quan điểm, một thái độ, cách nhìn nhận về một vấn đề 
+pertinacious; bướng bỉnh, ương ngạnh 
+peruse; đọc kỹ, nghiên cứu
+pervade; tỏa khắp, tràn ngập khắp 
+perverse; ngang bướng, ngoan cố
+petrify; làm ai đó sững sờ, chết điếng 
+phobia; sự ám ảnh, nổi sợ hãi
+pigment; sắc tố
+plagiarize; ăn cắp ý, ăn cắp văn, đạo văn 
+platitude; tính vô vị, tính tầm thường, tính nhàm
+plebeian; bình dân, thấp hèn, tầm thường 
+poignant; sâu sắc
+poll; cuộc điều tra dư luận, cuộc thăm dò ý kiến 
+pomp; vẻ tráng lệ, sự phô trương rực rỡ, sự phù hoa
+ponder; nghĩ ngợi (về cái gì)
+ponderous; chậm chạp, vụng về, buồn tẻ, chán ngắt 
+posthumous; có được sau khi (ai) chết, xảy ra sau khi chết
+posture; tư thế, dáng điệu
+potent; có ảnh hưởng mạnh (đối với cơ thể hay trí tuệ)
+precarious; bấp bênh, không ổn định
+precipitous; dốc đứng, dốc ngược (đường...) 
+precocious; phát triển sớm (về đứa bé), quá tinh khôn (về cách cư xử của đứa bé) 
+predecessor; người đi trước, bậc tiền bối 
+predilection; sự ưa chuộng, sự ưa thích đặc biệt (cái gì) 
+predominant; dễ nhận thấy nhất, trội hơn hẳn, nổi bật 
+preliminary; sơ bộ, ban đầu 
+prerogative; đặc quyền 
+prestige; uy tín, thanh danh
+prestigious; có uy tín, có thanh thế
+presumably; có lẽ
+presumption; giả định
+prevail; thịnh hành, phổ biến khắp, lan khắp
+prevalent; phổ biến
+prevaricate; nói quanh co
+primitive; nguyên thủy
+prior; trước đó, trước (một khoản thời gian nào đó)
+privilege; đặc quyền, đặc lợi
+probe; thăm dò, dò xét
+procrastinate; trì hoãn, chần chừ 
+prodigious; to lớn, lớn lao, phi thường
+proficient; tài giỏi, thành thạo
+profound; rất lớn, sâu sắc
+prolong; kéo dài thời gian, gia hạn 
+prominent; quan trọng, nổi tiếng
+promulgate; truyền bá, phổ biến
+prone; dễ bị, dễ mắc phải
+propagate; tuyên truyền
+propel; đẩy đi, đẩy tới 
+propensity; khuynh hướng 
+proponent; người đề nghị, người đề xuất, người đề xướng (một kiến nghị...)
+propriety; sự đúng đắn, sự đúng mực 
+prosperous; thịnh vượng, phồn vinh 
+provisional; tạm thời, lâm thời 
+prowess; sự tinh thông, sự thành thạo 
+proximity; trạng thái ở gần (về không gian và thời gian...)
+pseudonym; biệt hiệu, bút danh
+punitive; nhằm trừng phạt, nhằm trừng trị
+quandary; tình thế khó xử, tình huống lúng túng
+querulous; hay càu nhàu, hay than phiền, dễ cáu kỉnh
+quintessence; ví dụ hoàn hảo, điển hình
+radical; cơ bản, hoàn toàn, triệt để
+ramification; sự phân nhánh, sự chia nhánh 
+ratio; tỷ số, tỷ lệ
+rational; hợp lí, dựa trên lí trí
+raw; thô, chưa tinh chế, còn nguyên chất
+raze; san bằng, phá trụi
+recapitulate; tóm lại, tóm tắt lại
+recede; rời xa (ai hoặc một tình thế trước đó)
+reciprocal; qua lại, tương hỗ
+recover; hồi phục
+recumbent; nằm xuống
+redeem; đền bù, bù lại
+redolent; làm nhớ lại, làm gợi lại
+redoubtable; được kính trọng, đáng sợ, đáng kính
+refrain; kiềm chế
+refute; bác bỏ
+regime; chế độ
+regulatory; người điều chỉnh, người lãnh đạo
+reimburse; bồi thường
+reiterate; làm lại, nói lại, lặp lại 
+relinquish; từ bỏ (một cách không sẵn lòng) 
+remarkable; phi thường, đáng chú ý 
+reminiscent; làm nhớ lại, gợi lại
+remnant; tàn dư
+remunerative; được trả hậu, có lợi
+render; làm, khiến (ai lâm vào tình trạng nào)
+renegade; kẻ phản bội (phản đảng, phản đạo) 
+renowned; lừng danh
+replenish; làm đầy 
+reprisal; sự trả thù, sự trả đũa 
+resent; phẫn uất, không bằng lòng
+residual; còn dư, còn lại, vôi ra
+resilient; mau phục hồi (về thể chất hoặc tinh thần), kiên cường
+respite; sự nghỉ ngơi, thời gian nghỉ ngơi, giải lao
+retain; giữ lại, vẫn còn
+retinue; đoàn tùy tùng
+retribution; sự trừng phạt, sự báo thù
+retrieve; lấy lại, mang về
+reverberate; dội lại, vang lại (âm thanh) 
+rigid; cứng nhắc, không linh hoạt
+rigorous; khắt khe, nghiêm ngặt
+ripple; gợn sóng
+rudimentary; sơ bộ, sơ đẳng
+rural; (thuộc về) nông thôn
+sacrosanct; quan trọng đến nỗi không thể thay đổi được, bất khả xâm phạm
+sally; câu nhận xét hài hước
+sanctimonious; tỏ ra cao đạo, tỏ ra mộ đạo
+sanction; sự phê chuẩn
+sanctuary; khu bảo tồn
+sanguine; lạc quan, đầy hi vọng
+scatter; tung, rải, rắc, gieo
+scintilla; một lượng rất nhỏ, một chút
+scorn; sự khinh bỉ, sự khinh miệt, sự khinh rẻ
+scribble; viết chữ nguệch ngoạc, viết cẩu thả, viết vội vàng
+scrutinize; xem xét kĩ lưỡng 
+seclude; tách biệt 
+secular; trường kỳ, muôn thuở
+seek; tìm kiếm
+serene; yên lặng, thanh bình
+severe; khắt khe, gay gắt
+sheer; chỉ là, đúng là, tuyệt đối
+shroud; che đậy
+sinecure; công việc nhàn rỗi 
+sinister; có vẻ ác, có vẻ nguy hiểm
+skepticism; sự hoài nghi 
+slovenly; cẩu thả, lôi thôi 
+solidarity; sự đoàn kết, thống nhất
+solitary; diễn ra một mình
+sophisticate; người thời lưu, người hiểu đời và nắm được xu thế văn hóa xã hội
+sordid; hèn mọn
+span; quãng thời gian
+specimen; mẫu, mẫu vật
+spectacular; ngoạn mục
+spectrum; quang phổ
+speculation; sự suy đoán
+spontaneous; ngẫu hứng, tự phát
+sporadic; không thường xuyên, không đều đặn
+spurn; từ chối, hắt hủi
+stagnant; tù đọng
+static; không chuyển động, không thay đổi
+statistics; số liệu thống kê
+stigma; vết nhơ, điều sỉ nhục
+stimulate; kích thích, khuyến khích
+stipulate; quy định
+stoic; người khắc kỷ (có thể chịu khổ mà không phàn nàn hoặc biểu lộ cảm xúc)
+strenuous; đòi hỏi cố gắng lớn, vất vả
+stringent; nghiêm ngặt
+stumble; vấp phải
+stupendous; rất to lớn, rất quan trọng, vô cùng to lớn
+sturdy; cứng cáp, vững chắc
+subdue; chinh phục, khuất phục
+sublime; siêu phàm, tuyệt vời
+subside; giảm bớt, lắng xuống
+subsidy; tiền trợ cấp 
+substantial; lớn, quan trọng 
+subtle; khó thấy, không dễ phát hiện
+sufficient; đủ, dùng đủ(cho một việc hay mục đích nào đó)
+sultry; oi bức, ngột ngạt
+supernatural; siêu nhiên
+surpass; hơn, vượt qua
+surveillance; sự giám sát, sự theo dõi cẩn thận
+suspend; tạm ngừng, đình chỉ
+suspicious; đầy nghi ngờ 
+swift; mau, nhanh, lẹ
+sympathetic; cảm thông
+tangible; hữu hình, có thể nhìn thấy được
+tantamount; tương đương với, có giá trị như, ngang với
+taunt; khiêu khích
+temerity; sự táo bạo, sự liều lĩnh
+temperate; có chừng mực, ôn hòa
+temporal; duy vật
+temporize; hoãn quyết định, hoãn trả lời dứt khoát, trì hoãn
+tender; âu yếm, dịu dàng
+tenet; nguyên lý, giáo lý, chủ nghĩa
+tentative; tạm thời
+tenuous; yếu ớt, không chắc chắn
+thermal; thuộc về nhiệt
+threshold; (nghĩa bóng) ngưỡng cửa 
+thrive; phát triển mạnh
+topography; đại thế, địa hình
+trait; đức tính
+tranquil; tĩnh lặng
+transform; thay đổi hình dạng của cái gì
+transgress; vi phạm, vượt quá (giới hạn...) 
+trauma; chấn thương tâm lí, tổn thương
+tremulous; run(vì hốt hoảng, yếu đuối) 
+trigger; gây ra một cách đột ngột
+triumph; thành tựu, chiến thắng 
+trivial; tầm thường, không đáng kể, ít quan trọng
+turgid; cương, sưng, phồng lên
+turmoil; sự rối loạn, tình trạng hỗn loạn
+ubiquitous; đầy rẫy, nơi nơi, nhan nhản
+unauthorized; không được phép, trái phép
+unbiased; công bằng, không thiên vị
+uncalled for; không đúng lúc, đúng chỗ
+uncanny; kỳ lạ, khó hiểu
+uncouth; thô lỗ, bất lịch sự 
+undergo; trải qua
+undertake; đảm nhận, đảm trách 
+unquenchable; không thoả mãn được, không thể làm cho nguôi, không thể nén (dục vọng, tình cảm..)
+untenable; không thể cãi được
+unveil; tuyên bố công khai, để lộ, tiết lộ
+uphold; ủng hộ, duy trì
+utilitarian; mang tính hữu dụng, thiết thực
+utilize; dùng, sử dụng, tận dụng
+utter; hoàn toàn, tuyệt đối
+vague; mơ hồi
+vain; vô ích, không có kết quả
+valid; có giá trị, có hiệu lực, hợp lệ
+vandalize; có chủ ý phá hoại, có chủ ý làm hư hỏng (tài sản công cộng..) 
+vanish; biến mất
+vanquish; đánh bại hoàn toàn 
+variable; có thể thay đổi, khả biến
+vast; rất lớn (diện tích, kích cỡ, lượng... )
+venture; liều, mạo hiểm, cả gan
+versatile; đa tài, đa năng
+vestige; dấu vết, vết tích 
+vigorous; mãnh liệt, đầy sinh lực
+violate; vi phạm, xâm phạm
+virtual; thực sự 
+vital; thiết yếu, quan trọng, sống còn
+vivid; sinh động
+wary; thận trọng, cảnh giác 
+widespread; được lan rộng
+withhold; giữ lại, từ chối không cho
+withstand; trụ lại, giữ vững
+wretched; khốn khổ, rất bất hạnh, đáng thương 
+yield; sản xuất, làm ra, mang lại (kết quả, lợi nhuận, thu hoạch)
+zenith; điểm cao nhất, đỉnh cao

@@ -1,0 +1,699 @@
+﻿.
+1. Contracts; Hợp đồng
+abide by; tôn trọng, tuân theo
+agreement /əˈɡriːmənt/, /əˈɡriːmənt/;  sự thoả thuận
+assurance /əˈʃʊərəns/, /ʃɔːrəns/;  bảo đảm, chắc chắn
+cancellation /ˌkænsəˈleɪʃn/, /ˌkænsəˈleɪʃn/;  sự bãi bỏ, hủy bỏ
+determine /ˈtɜːmɪn/, /ˈtɜːrmɪn/;  quyết định, xác định, định rõ
+engage /ɪnˈɡeɪdʒ/, /ɪnˈɡeɪdʒ/;  tham gia, cam kết
+obligate; bắt buộc, ép buộc
+party /ˈpɑːti/, /ˈpɑːrti/;  đảng, phái, nhóm
+provision /prəˈvɪʒn/, /prəˈvɪʒn/;  điều khoản, sự cung cấp
+resolve /rɪˈzɒlv/, /rɪˈzɑːlv/;  giải quyết, sự kiên quyết
+specific /spəˈsɪfɪk/, /spəˈsɪfɪk/;  riêng biệt, cụ thể, rõ ràng, rành mạch 
+
+2. Marketing; Tiếp thị
+attract /əˈtrækt/, /əˈtrækt/;  hấp dẫn, lôi cuốn, thu hút
+compare /ˈpeə(r)/, /ˈper/;  so sánh, đối chiếu
+competition /ˌkɒmpəˈtɪʃn/, /ˌkɑːmpəˈtɪʃn/;  sự cạnh tranh, cuộc thi đấu
+consume /ˈsjuːm/, /ˈsuːm/;  tiêu thụ, tiêu dùng
+convince /kənˈvɪns/, /kənˈvɪns/;  thuyết phục
+currently /ˈkʌrəntli/, /ˈkɜːrəntli/;  hiện thời, hiện nay, lúc này
+fad /fæd/, /fæd/;  mốt nhất thời, sự thích thú tạm thời
+inspiration /ˌɪnspəˈreɪʃn/, /ˌɪnspəˈreɪʃn/;  truyền cảm hứng, gây cảm hứng
+market /ˈmɑːkɪt/, /ˈmɑːrkɪt/;  thị trường, chợ
+persuasion /pəˈsweɪʒn/, /pərˈsweɪʒn/;  sự thuyết phục, làm cho tin
+productive /prəˈdʌktɪv/, /prəˈdʌktɪv/;  năng xuất, có hiệu quả
+satisfaction /ˌsætɪsˈfækʃn/, /ˌsætɪsˈfækʃn/;  sự làm thỏa mãn, sự hài lòng
+
+3. Warranties; Sự bảo đảm, bảo hành
+characteristic /ˌkærəktəˈrɪstɪk/, /ˌkærəktəˈrɪstɪk/;  đặc trưng, đặc điểm
+consequence /ˈkɒnsɪkwəns/, /ˈkɑːnsɪkwens/;  kết quả, hậu quả, hệ quả
+consider /kənˈsɪdə(r)/, /kənˈsɪdər/;  cân nhắc, suy xét
+cover /ˈkʌvə(r)/, /ˈkʌvər/;  che, phủ, bao gồm
+expiration /ˌekspəˈreɪʃn/, /ˌekspəˈreɪʃn/;  sự mãn hạn, sự hết hạn, sự kết thúc
+frequently /ˈfriːkwəntli/, /ˈfriːkwəntli/;  thường xuyên, một cách thường xuyên
+imply /ɪmˈplaɪ/, /ɪmˈplaɪ/;  ngụ ý, hàm ý
+promise /ˈprɒmɪs/, /ˈprɑːmɪs/;  hứa hẹn, cam đoan, bảo đảm
+protect /prəˈtekt/, /prəˈtekt/;  bảo vệ, bảo hộ, che chở
+reputation /ˌrepjuˈteɪʃn/, /ˌrepjuˈteɪʃn/;  danh tiếng, thanh danh
+require /rɪˈkwaɪə(r)/, /rɪˈkwaɪər/;  đòi hỏi, yêu cầu
+variety /vəˈraɪəti/, /vəˈraɪəti/;  đa dạng, nhiều
+
+4. Business planning; Kế hoạch kinh doanh
+address /əˈdres/, /əˈdres/;  địa chỉ, diễn văn, bài nói chuyện
+avoid /əˈvɔɪd/, /əˈvɔɪd/;  tránh, tránh khỏi
+demonstrate /ˈdemənstreɪt/, /ˈdemənstreɪt/;  bày tỏ, biểu lộ, chứng minh
+develop /dɪˈveləp/, /dɪˈveləp/;  phát triển, tiến triển
+evaluate /ɪˈvæljueɪt/, /ɪˈvæljueɪt/;  đánh giá, định giá, ước lượng
+gather /ˈɡæðə(r)/, /ˈɡæðər/;  tập hợp, tụ thập, thu thập
+offer /ˈɒfə(r)/, /ˈɔːfər/;  đề xuất, đề nghị
+primarily /praɪˈmerəli/, /ˈpraɪmərəli/;  chính, chủ yếu
+risk /rɪsk/, /rɪsk/;  sự nguy hiểm, sự rủi ro
+strategy /ˈstrætədʒi/, /ˈstrætədʒi/;  chiến lược
+strong /strɒŋ/, /strɔːŋ/; khỏe, mạnh, tốt
+substitution /ˈtjuːʃn/, /ˈtuːʃn/;  sự đổi, sự thay thế
+
+5. Conferences; Hội nghị
+accommodate /əˈkɒmədeɪt/, /əˈkɑːmədeɪt/;  điều tiết, điều chỉnh, làm cho phù hợp
+arrangement /əˈreɪndʒmənt/, /əˈreɪndʒmənt/;  dàn xếp, sắp xếp
+association /siˈeɪʃn/, /əˌsoʊsiˈeɪʃn/;  hội, hội liên hiệp, đoàn thể
+attend /əˈtend/, /əˈtend/;  tham dự, có mặt
+get in touch; liên lạc với, giữ quan hệ với, có dính líu đến
+hold /həʊld/, /hoʊld/;  cầm, nắm, tổ chức
+location /ləʊˈkeɪʃn/, /loʊˈkeɪʃn/;  vị trí, khu đất
+overcrowded /ˌəʊvəˈkraʊdɪd/, /ˌoʊvərˈkraʊdɪd/;  chật ních, đông nghịt
+register /ˈredʒɪstə(r)/, /ˈredʒɪstər/;  ghi vào sổ sách, đăng ký
+select /sɪˈlekt/, /sɪˈlekt/;  chọn lựa, chọn lọc, tuyển chọn
+session /ˈseʃn/, /ˈseʃn/;  phiên, kỳ, buổi (họp, học)
+take part in; tham dự, tham gia
+
+6. Computers; Máy vi tính
+access /ˈækses/, /ˈækses/;  truy cập
+allocate /ˈæləkeɪt/, /ˈæləkeɪt/;  chỉ định, định rõ
+compatible /kəmˈpætəbl/, /kəmˈpætəbl/;  tương thích, tương hợp
+delete /dɪˈliːt/, /dɪˈliːt/;  xóa đi, bỏ đi, gạch đi 
+display /dɪˈspleɪ/, /dɪˈspleɪ/;  hiển thị, trưng bày
+duplicate /ˈdjuːplɪkeɪt/, /ˈduːplɪkeɪt/;  sao lại, làm thành 2 bản
+failure /ˈfeɪljə(r)/, /ˈfeɪljər/;  thất bại, bất thành
+figure out; hiểu ra, suy ra, đoán ra
+ignore /ɪɡˈnɔː(r)/, /ɪɡˈnɔːr/;  bỏ qua, phớt lờ, không để ý tới
+search /sɜːtʃ/, /sɜːrtʃ/;  tìm kiếm, tìm hiểu
+shut down; tắt máy, ngừng hoạt động, chấm dứt
+warning /ˈwɔːnɪŋ/, /ˈwɔːrnɪŋ/;  cảnh báo, báo trước
+
+7. Office technology; Công nghệ văn phòng
+affordable /əˈfɔːdəbl/, /əˈfɔːrdəbl/;  có đủ khả năng, có đủ điều kiện 
+as needed; khi cần, lúc cần, cần thiết
+be in charge of; hịu trách nhiệm về
+capacity /kəˈpæsəti/, /kəˈpæsəti/;  sức chứa, dung tích, khả năng
+durable /ˈdjʊərəbl/, /ˈdʊrəbl/;  bền, lâu, lâu bền
+initiative /ɪˈnɪʃətɪv/, /ɪˈnɪʃətɪv/;  bền, lâu, lâu bền
+physically /ˈfɪzɪkli/, /ˈfɪzɪkli/;  thể chất, một cách vật lý
+provide /prəˈvaɪd/, /prəˈvaɪd/;  người cung cấp, nhà cung cấp
+recur /rɪˈkɜː(r)/, /rɪˈkɜːr/;  lặp lại, diễn lại, tái diễn
+reduction /rɪˈdʌkʃn/, /rɪˈdʌkʃn/;  giảm thiểu, hạ, thu nhỏ
+stay on top of; nắm bắt tình hình, hiểu biết thông tin mới nhất
+stock /stɒk/, /stɑːk/;  kho/hàng dự trữ, vốn, cổ phần
+
+8. Office procedures; Thủ tục văn phòng
+appreciation /əˌpriːʃiˈeɪʃn/, /əˌpriːʃiˈeɪʃn/;  sự đánh giá, nhận thức, sự cảm kích
+be made of; làm bằng (cái gì), gồm có (cái gì)
+bring in; thuê, mướn
+casually /ˈkæʒuəli/, /ˈkæʒuəli/;  tình cờ, ngẫu nhiên
+code /kəʊd/, /koʊd/;  quy tắc, luật lệ, đạo lý
+expose /ɪkˈspəʊz/, /ɪkˈspoʊz/;  phơi bày, bộc lộ, phô ra
+glimpse /ɡlɪmps/, /ɡlɪmps/;  nhìn lướt qua, thoáng qua
+out of; hết, mất, không còn
+outdated /ˌaʊtˈdeɪtɪd/, /ˌaʊtˈdeɪtɪd/;  hết hạn, lỗi thời, lạc hậu
+practice /ˈpræktɪs/, /ˈpræktɪs/;  sự thực hành, rèn luyện, tập luyện
+reinforce /ˈfɔːs/, /ˈfɔːrs/;  tăng cường, củng cố, gia cố
+verbally /ˈvɜːbəli/, /ˈvɜːrbəli/;  bằng miệng, bằng lời nói
+
+
+9. Electronics; Điện tử
+disk; đĩa (vi tính, thể thao, đĩa hát...)
+facilitate /fəˈsɪlɪteɪt/, /fəˈsɪlɪteɪt/;  làm cho dễ dàng, làm cho thuận tiện
+network /wɜːk/, /wɜːrk/;  kết nối, liên kết, mạng lưới
+popularity /ˌpɒpjuˈlærəti/, /ˌpɑːpjuˈlærəti/;  phổ biến, nổi tiếng
+process; quá trình, sự tiến triển
+replace /rɪˈpleɪs/, /rɪˈpleɪs/;  thay thế, đặt vào lại chỗ cũ
+revolution /ˌrevəˈluːʃn/, /ˌrevəˈluːʃn/;  sự xoay vòng, cuộc cách mạng
+sharp /ʃɑːp/, /ʃɑːrp/;  sắc, bén, rõ rệt
+skill /skɪl/, /skɪl/;  kỹ năng, kỹ xảo
+software /ˈsɒftweə(r)/, /ˈsɔːftwer/;  phần mềm, chương trình máy tính
+store /stɔː(r)/, /stɔːr/;  cửa hàng, cửa hiệu, kho hàng
+technically /ˈteknɪkli/, /ˈteknɪkli/;  một cách chuyên môn
+
+10. Correspondence; Thư tín
+assemble /əˈsembl/, /əˈsembl/;  thu thập, lắp ráp, tập hợp
+beforehand /ˈfɔːhænd/, /ˈfɔːrhænd/;  sẵn, có sẵn, trước
+complication /ˌkɒmplɪˈkeɪʃn/, /ˌkɑːmplɪˈkeɪʃn/;  sự phức tạp, sự rắc rối
+courier /ˈkʊriə(r)/, /ˈkʊriər/;  người đưa tin, người đưa thư, người chuyển phát
+express /ɪkˈspres/, /ɪkˈspres/;  nhanh, hỏa tốc, tốc hành
+fold /fəʊld/, /foʊld/;  nếp gấp, gấp lại
+layout /ˈleɪaʊt/, /ˈleɪaʊt/;  sự bổ trí trang giấy
+mention /ˈmenʃn/, /ˈmenʃn/;  sự đề cập
+petition /pəˈtɪʃn/, /pəˈtɪʃn/;  sự cầu xin, đơn kiến nghị, đơn thỉnh cầu
+proof /pruːf/, /pruːf/;  bằng chứng, chứng cớ
+register /ˈredʒɪstə(r)/, /ˈredʒɪstər/;  đăng ký
+revise /rɪˈvaɪz/, /rɪˈvaɪz/;  duyệt lại, sửa lại
+
+11. Job advertising and recruiting; Quảng cáo công việc và tuyển dụng
+abundant /əˈbʌndənt/, /əˈbʌndənt/;  nhiều, phong phú, thừa
+accomplishment /əˈkʌmplɪʃmənt/, /əˈkɑːmplɪʃmənt/;  thành tựu, thành tích, sự hoàn thành
+bring together; gom lại, nhóm lại, họp lại
+candidate /ˈkændɪdət/, /ˈkændɪdət/;  ứng cử viên, thí sinh, người dự thi
+come up with; ý định
+commensurate (+with); xứng với, tương xứng với
+match /mætʃ/, /mætʃ/;  đối thủ, người ngang tài sức
+profile /ˈprəʊfaɪl/, /ˈproʊfaɪl/;  tiểu sử sơ lược, bản tóm lược các đặc tính
+qualification /ˌkwɒlɪfɪˈkeɪʃn/, /ˌkwɑːlɪfɪˈkeɪʃn/;  khả năng, năng lực, trình độ 
+recruit /rɪˈkruːt/, /rɪˈkruːt/;  tuyển dụng
+submit /səbˈmɪt/, /səbˈmɪt/;  trình, đệ trình, biện hộ
+time-consuming /ˈtaɪm kənsjuːmɪŋ/, /ˈtaɪm kənsuːmɪŋ/;  tốn nhiều thời gian
+
+12. Applying and interviewing; Ứng tuyển và phỏng vấn
+ability /əˈbɪləti/, /əˈbɪləti/;  năng lực, khả năng, tài năng
+apply /əˈplaɪ/, /əˈplaɪ/;  nộp, ứng tuyển
+background /ˈbækɡraʊnd/, /ˈbækɡraʊnd/;  kiến thức, kinh nghiệm, quá trình đào tạo
+be ready for; sẵn sàng cho
+call in; yêu cầu, mời tới
+confidence /ˈkɒnfɪdəns/, /ˈkɑːnfɪdəns/;  sự tin cậy, tin tưởng
+constantly /ˈkɒnstəntli/, /ˈkɑːnstəntli/;  luôn luôn, liên tục, liên miên
+expert /pɜːt/, /pɜːrt/;  chuyên gia, chuyên viên
+follow up; tiếp theo, kế tiếp
+hesitant /ˈhezɪtənt/, /ˈhezɪtənt/;  do dự, lưỡng lự, ngập ngừng
+present /ˈpreznt/, /ˈpreznt/;  đưa ra, bày tỏ, giới thiệu
+weakly /ˈwiːkli/, /ˈwiːkli/;  một cách yếu ớt, yếu, ốm yếu
+
+13. Hiring and training; Thuê mướn và đào tạo 
+conduct /kənˈdʌkt/, /kənˈdʌkt/;  tiến hành, cư xử
+generate /ˈdʒenəreɪt/, /ˈdʒenəreɪt/;  sinh ra, tạo ra, phát ra
+hire /ˈhaɪə(r)/, /ˈhaɪər/;  thuê, mướn
+keep up with; theo kịp, bắt kịp, đạt cho bằng được
+look up to; tôn kính, kính trọng, khâm phục
+mentor /ˈmentɔː(r)/, /ˈmentɔːr/;  người cố vấn
+on track; theo dõi, đi tìm
+reject /rɪˈdʒekt/, /rɪˈdʒekt/;  từ chối, loại bỏ
+set up; thiết lập, tạo dựng
+success /səkˈses/, /səkˈses/;  thành công, thành đạt, thắng lợi
+training /ˈtreɪnɪŋ/, /ˈtreɪnɪŋ/;  huấn luyện, dạy dỗ, đào tạo
+update /ˌʌpˈdeɪt/, /ˌʌpˈdeɪt/;  cập nhật
+
+14. Salaries and benefits; Lương và lợi ích
+basis /ˈbeɪsɪs/, /ˈbeɪsɪs/;  nền tảng, cơ sở, căn cứ
+be aware of; am hiểu về
+benefit /ˈbenɪfɪt/, /ˈbenɪfɪt/;  chế độ đãi ngộ, lợi ích, phúc lợi
+compensate /ˈkɒmpenseɪt/, /ˈkɑːmpenseɪt/;  bù, đền bù, bồi thường
+delicately /ˈdelɪkətli/, /ˈdelɪkətli/;  khôn khéo, nhạy bén
+eligible /ˈelɪdʒəbl/, /ˈelɪdʒəbl/;  thích hợp, đủ tư cách, đủ tiêu chuẩn
+flexibly /ˈfleksəbli/, /ˈfleksəbli/;  mềm dẻo, linh hoạt, linh động
+negotiate /ˈɡəʊʃieɪt/, /ˈɡoʊʃieɪt/;  thương lượng, đàm phán, điều đình
+raise /reɪz/, /reɪz/;  nâng lên, tăng lên, tăng lương
+retire /rɪˈtaɪə(r)/, /rɪˈtaɪər/;  nghỉ hưu
+vested; được trao, được ban, được phong
+wage /weɪdʒ/, /weɪdʒ/;  tiền công, tiền lương (thường trả theo giờ)
+
+15. Promotions, pensions, and awards; Thăng chức, lương hưu và thưởng
+achievement /əˈtʃiːvmənt/, /əˈtʃiːvmənt/;  thành tích, thành tựu
+contribute /kənˈtrɪbjuːt/, /ˈkɒntrɪbjuːt/;  đóng góp, góp phần
+dedication /ˌdedɪˈkeɪʃn/, /ˌdedɪˈkeɪʃn/;  cống hiến, hiến dâng, tận tụy 
+look forward to; mong đợi, mong chờ, trông mong
+look to; tin vào, trông cậy vào, mong đợi ở (ai)
+loyal /ˈlɔɪəl/, /ˈlɔɪəl/;  trung thành, trung nghĩa, trung kiên
+merit /ˈmerɪt/, /ˈmerɪt/;  công lao, công trạng
+obviously /ˈɒbviəsli/, /ˈɑːbviəsli/;  rõ ràng, hiển nhiên
+productive /prəˈdʌktɪv/, /prəˈdʌktɪv/;  có năng suất, có hiệu quả, sinh lợi cao
+promote /ˈməʊt/, /ˈmoʊt/;  thăng tiến, thăng chức
+recognition /ˌrekəɡˈnɪʃn/, /ˌrekəɡˈnɪʃn/;  (sự) công nhận, thừa nhận, nhận ra
+value /ˈvæljuː/, /ˈvæljuː/;  giá trị
+
+16. Shopping; Mua sắm
+bargain /ˈbɑːɡən/, /ˈbɑːrɡən/;  trả giá, mặc cả, món hời
+bear /beə(r)/, /ber/;  chịu đựng, cam chịu
+behavior; thái độ, hành vi, cách cư xử
+check-out; thanh toán, quầy thanh toán
+comfort /fət/, /fərt/;  sự thoải mái, thoải mái, dễ dàng
+expand /ɪkˈspænd/, /ɪkˈspænd/;  mở rộng, trải rộng, giãn ra
+explore /ɪkˈsplɔː(r)/, /ɪkˈsplɔːr/;  khảo sát, thăm dò, khám phá
+item /ˈaɪtəm/, /ˈaɪtəm/;  món, mục, mặt hàng
+mandatory /ˈmændətəri/, /mænˈdeɪtəri/;  lệnh, bắt buộc
+merchandise /ˈmɜːtʃəndaɪs/, /ˈmɜːrtʃəndaɪs/;  hàng hóa
+strictly /ˈstrɪktli/, /ˈstrɪktli/;  nghiêm ngặt, nghiêm khắc
+trend /trend/, /trend/;  khuynh hướng, xu hướng
+
+17. Ordering supplies; Đặt hàng
+diversify /ˈvɜːsɪfaɪ/, /ˈvɜːrsɪfaɪ/;  đa dạng hóa, làm cho thành nhiều dạng
+enterprise /təpraɪz/, /tərpraɪz/;  công trình, dự án lớn
+essentially /ɪˈsenʃəli/, /ɪˈsenʃəli/;  cần thiết
+everyday /ˈevrideɪ/, /ˈevrideɪ/;  hàng ngày, thường ngày, thông thường
+function /ˈfʌŋkʃn/, /ˈfʌŋkʃn/;  chức năng, nhiệm vụ
+maintain /meɪnˈteɪn/, /meɪnˈteɪn/;  bảo quản, giữ gìn, duy trì
+obtain /əbˈteɪn/, /əbˈteɪn/;  đạt được, thu được, giành được
+prerequisite /ˌpriːˈrekwəzɪt/, /ˌpriːˈrekwəzɪt/;  điều kiện tiên quyết, cần trước hết
+quality /ˈkwɒləti/, /ˈkwɑːləti/;  chất lượng, phẩm chất
+smooth /smuːð/, /smuːð/;  êm thấm, suôn sẻ, trôi chảy
+source /sɔːs/, /sɔːrs/;  nguồn, nguồn gốc
+stationery /nri/, /neri/;  đồ dùng văn phòng
+
+18. Shipping; Vận chuyển
+accurate /ˈækjərət/, /ˈækjərət/;  ‹một cách› chính xác, đúng đắn, xác đáng
+carrier /ˈkæriə(r)/, /ˈkæriər/;  (người)chuyên chở, vận chuyển
+catalog; sách danh mục chi tiết
+fulfill; thực hiện, thi hành, hoàn thành
+integral /ˈɪntɪɡrəl/, /ˈɪntɪɡrəl/;  cần thiết, không thể thiếu
+inventory /tri/, /tɔːri/;  sự kiểm kê, hàng tồn kho
+minimize /ˈmɪnɪmaɪz/, /ˈmɪnɪmaɪz/;  giảm thiểu, giảm đến mức tối thiểu
+on hand; có thể dùng được, có sẵn
+remember /rɪˈmembə(r)/, /rɪˈmembər/;  nhớ, ghi nhớ
+ship /ʃɪp/, /ʃɪp/;  tàu thủy, máy bay
+sufficiently /səˈfɪʃntli/, /səˈfɪʃntli/;  đủ, có đủ
+supply /səˈplaɪ/, /səˈplaɪ/;  cung cấp, đáp ứng
+
+19. Invoices; Hóa đơn 
+charge /tʃɑːdʒ/, /tʃɑːrdʒ/;  tính phí
+compile /kəmˈpaɪl/, /kəmˈpaɪl/;  soạn, biên soạn, soạn thảo
+customer /ˈkʌstəmə(r)/, /ˈkʌstəmər/;  khách hàng
+discount /ˈdɪskaʊnt/, /ˈdɪskaʊnt/;  giảm giá, chiết khấu, khấu trừ
+efficient /ɪˈfɪʃnt/, /ɪˈfɪʃnt/;  có hiệu quả, có hiệu suất, có năng suất
+estimate /ˈestɪmət/, /ˈestɪmət/;  ước lượng
+impose /ɪmˈpəʊz/, /ɪmˈpoʊz/;  bắt chịu, bắt gánh vác
+mistake /mɪˈsteɪk/, /mɪˈsteɪk/;  lỗi, sai, nhầm
+order /ˈɔːdə(r)/, /ˈɔːrdər/;  đơn đặt hàng, thứ tự, trật tự
+promptly /ˈprɒmptli/, /ˈprɑːmptli/;  mau lẹ, nhanh chóng, ngay lập tức
+rectify /ˈrektɪfaɪ/, /ˈrektɪfaɪ/;  sửa lại, hiệu chỉnh
+terms /tɜːmz/, /tɜːrmz/;  điều khoản
+
+20. Inventory; Hàng tồn kho
+adjustment /əˈdʒʌstmənt/, /əˈdʒʌstmənt/;  điều chỉnh, chỉnh lý, sự sửa lại cho đúng
+automatic /ˌɔːtəˈmætɪk/, /ˌɔːtəˈmætɪk/;  một cách tự động
+crucial /ˈkruːʃl/, /ˈkruːʃl/;  cốt yếu, chủ yếu, có tính quyết định
+discrepancy /dɪˈskrepənsi/, /dɪˈskrepənsi/;  cốt yếu, chủ yếu, có tính quyết định
+disturb /ˈstɜːb/, /ˈstɜːrb/;  quấy rầy, quấy rối
+liability /ˌlaɪəˈbɪləti/, /ˌlaɪəˈbɪləti/;  trách nhiệm, nghĩa vụ
+reflection /rɪˈflekʃn/, /rɪˈflekʃn/;  phản ánh, phản chiếu, phản xạ
+run /rʌn/, /rʌn/;  vận hành, hoạt động, thực hiện
+scan /skæn/, /skæn/;  xem lướt, xem qua, kiểm tra nhanh
+subtract /səbˈtrækt/, /səbˈtrækt/;  trừ đi, khấu trừ
+tedious /ˈtiːdiəs/, /ˈtiːdiəs/;  chán ngắt, tẻ nhạt, nhạt nhẽo
+verify /ˈverɪfaɪ/, /ˈverɪfaɪ/;  kiểm tra lại, thẩm tra, xác minh
+
+21. Banking; Ngân hàng 
+accept /əkˈsept/, /əkˈsept/;  chấp nhận, thừa nhận, công nhận
+balance /ˈbæləns/, /ˈbæləns/;  số dư tài khoản
+borrow /ˈbɒrəʊ/, /ˈbɔːroʊ/;  vay, mượn
+cautiously /ˈkɔːʃəsli/, /ˈkɔːʃəsli/;  thận trọng, cẩn thận
+deduct /dɪˈdʌkt/, /dɪˈdʌkt/;  lấy đi, trừ đi, khấu trừ
+dividend /ˈdɪvɪdend/, /ˈdɪvɪdend/;  tiền lãi cổ phần
+down payment; phần tiền trả trước ban đầu
+mortgage /ˈmɔːɡɪdʒ/, /ˈmɔːrɡɪdʒ/;  sự cầm cố, sự thế chấp
+restricted /rɪˈstrɪktɪd/, /rɪˈstrɪktɪd/;  bị hạn chế, bị giới hạn
+signature /ˈsɪɡnətʃə(r)/, /ˈsɪɡnətʃər/;  chữ ký, ký hiệu, dấu hiệu
+take out; rút (tiền)
+transaction /trænˈzækʃn/, /trænˈzækʃn/;  sự giao dịch
+
+22. Accounting; Kế toán
+accounting /əˈkaʊntɪŋ/, /əˈkaʊntɪŋ/;  công việc kế toán /əˈkaʊntɪŋ/, /əˈkaʊntɪŋ/;  sự thanh toán, tính toán
+accumulate /əˈkjuːmjəleɪt/, /əˈkjuːmjəleɪt/;  tích lũy, tích góp, gom góp
+asset /ˈæset/, /ˈæset/;  tài sản, của cải
+audit /ˈɔːdɪt/, /ˈɔːdɪt/;  kiểm toán
+budget /ˈbʌdʒɪt/, /ˈbʌdʒɪt/;  ngân sách, ngân quỹ
+build up; tăng cường, gom lại, tích lạ
+client /ˈklaɪənt/, /ˈklaɪənt/;  khách, khách hàng
+debt /det/, /det/;  nợ, món nợ
+outstanding /aʊtˈstændɪŋ/, /aʊtˈstændɪŋ/;  còn tồn tại, chưa giải quyết xong, chưa trả nợ
+profitably /əbli/, /əbli/;  có lợi, có ích, sinh lãi
+reconcile /ˈrekənsaɪl/, /ˈrekənsaɪl/;  hòa giải, giảng hòa, chỉnh lý
+turnover /ˈtɜːnəʊvə(r)/, /ˈtɜːrnoʊvər/;  doanh số, doanh thu
+
+23. Investments; Sự đầu tư
+aggressively /əˈɡresɪvli/, /əˈɡresɪvli/;  hung hăng, hùng hổ
+attitude /ˈætɪtjuːd/, /ˈætɪtuːd/;  quan điểm, thái độ
+commit /kəˈmɪt/, /kəˈmɪt/;  cam kết
+conservative /ˈsɜːvətɪv/, /ˈsɜːrvətɪv/;  bảo thủ, dè dặt, thận trọng
+fund /fʌnd/, /fʌnd/;  nguồn tiền, quỹ dự trữ
+invest /ɪnˈvest/, /ɪnˈvest/;  đầu tư
+long-term /ˌlɒŋ ˈtɜːm/, /ˌlɔːŋ ˈtɜːrm/;  dài hạn, dài ngày, lâu dài 
+portfolio /pɔːtˈfəʊliəʊ/, /pɔːrtˈfoʊlioʊ/;  danh mục đầu tư, danh sách vốn đầu tư
+pull out; rút ra, rút khỏi
+resource /rɪˈsɔːs/, /ˈzɔːs/;  tài nguyên, tài sản
+return /rɪˈtɜːn/, /rɪˈtɜːrn/;  tiền lãi, tiền lời
+wisely /ˈwaɪzli/, /ˈwaɪzli/;  khôn ngoan, thông thái, uyên bác
+
+24. Taxes; Thuế
+calculation /ˌkælkjuˈleɪʃn/, /ˌkælkjuˈleɪʃn/;  sự tính toán
+deadline /ˈdedlaɪn/, /ˈdedlaɪn/;  thời hạn chót
+file /faɪl/, /faɪl/;  sắp xếp, sắp đặt
+fill out; hoàn tất, hoàn thành, điền vào (cho đầy đủ)
+give up; bỏ, từ bỏ
+joint /dʒɔɪnt/, /dʒɔɪnt/;  chung, cùng, gia nhập
+owe /əʊ/, /oʊ/;  nợ, mắc nợ
+penalty /ˈpenəlti/, /ˈpenəlti/;  khoản tiền phạt
+preparation /ˌprepəˈreɪʃn/, /ˌprepəˈreɪʃn/;  sự chuẩn bị, sửa soạn
+refund /ˈriːfʌnd/, /ˈriːfʌnd/;  trả lại, hoàn lại tiền
+spouse /spaʊs/, /spaʊs/;  chồng, vợ
+withhold /wɪðˈhəʊld/, /ˈhoʊld/;  kìm lại, giữ lại, ngăn cản
+
+25. Financial statements; Bản báo cáo tài chính
+desire /dɪˈzaɪə(r)/, /dɪˈzaɪər/;  thèm muốn, khao khát, ao ước
+detail /ˈdiːteɪl/, /ˈdiːteɪl/;  chi tiết, tỉ mỉ
+forecast /ˈfɔːkɑːst/, /ˈfɔːrkæst/;  dự báo, dự đoán, đoán trước
+level /ˈlevl/, /ˈlevl/;  mức, cấp bậc, trình độ
+overall /ˌəʊvərˈɔːl/, /ˌoʊvərˈɔːl/;  toàn bộ, toàn thể, nói chung
+perspective /pəˈspektɪv/, /pərˈspektɪv/;  quan điểm, cách nhìn
+project /ˈprɒdʒekt/, /ˈprɑːdʒekt/;  kế hoạch, đồ án, dự án
+realistic /ˌriːəˈlɪstɪk/, /ˌrɪəˈlɪstɪk/;  hiện thực, thực tế
+target /ˈtɑːɡɪt/, /ˈtɑːrɡɪt/;  mục tiêu, mục đích
+translation /trænzˈleɪʃn/, /trænzˈleɪʃn/;  bản dịch, bài dịch
+typically /ˈtɪpɪkli/, /ˈtɪpɪkli/;  tiêu biểu, điển hình
+yield /jiːld/, /jiːld/;  sản lượng, lợi tức, hoa lợi
+
+26. Property and departments; Bất động sản và căn hộ
+adjacent /əˈdʒeɪsnt/, /əˈdʒeɪsnt/;  kế bên, liền kề, sát cạnh
+collaboration /kəˌlæbəˈreɪʃn/, /kəˌlæbəˈreɪʃn/;  sự cộng tác, hợp tác
+concentrate /ˈkɒnsntreɪt/, /ˈkɑːnsntreɪt/;  tập trung
+conducive /ˈdjuːsɪv/, /ˈduːsɪv/;  có ích, có lợi
+disruption /dɪsˈrʌpʃn/, /dɪsˈrʌpʃn/;  sự phá vỡ
+hamper /ˈhæmpə(r)/, /ˈhæmpər/;  cản trở, gây trở ngại
+inconsiderately /ˌɪnkənˈsɪdərətli/, /ˌɪnkənˈsɪdərətli/;  thiếu thận trọng, thiếu suy nghĩ
+lobby /ˈlɒbi/, /ˈlɑːbi/;  hành lang, sảnh chờ
+move up; tiến lên, thăng tiến
+opt /ɒpt/, /ɑːpt/;  chọn lựa, chọn, quyết định
+open to; tiếp thu, dùng được cho ai đó
+scrutiny /ˈskruːtəni/, /ˈskruːtəni/;  sự nhìn chăm chú
+
+27. Board meetings and committees; Họp hội đồng quản trị và ủy ban
+adhere to; tuân thủ, tôn trọng triệt để
+agenda /əˈdʒendə/, /əˈdʒendə/;  nhật ký công tác, chương trình nghị sự
+bring up; đưa ra
+conclude /kənˈkluːd/, /kənˈkluːd/;  kết luận, quyết định
+go ahead; cho phép, tiếp tục
+goal /ɡəʊl/, /ɡoʊl/;  mục tiêu, mục đích
+lengthy /ˈleŋθi/, /ˈleŋθi/;  lâu, dài, dài dòng
+matter /ˈmætə(r)/, /ˈmætər/;  nội dung, chủ đề, vấn đề
+periodically /kli/, /kli/;  một cách định kỳ
+priority /ˈɒrəti/, /ˈɔːrəti/;  ưu tiên, được xét trước
+progress /ˈprəʊɡres/, /ˈprɑːɡres/;  sự tiến tới, sự tiến triển
+waste /weɪst/, /weɪst/;  lãng phí, đồ bỏ đi, đồ thải ra
+
+28. Quality control; Quản lý chấtlượng
+brand /brænd/, /brænd/;  nhãn hiệu, nhãn hàng, chi nhánh
+conform /ˈfɔːm/, /ˈfɔːrm/;  làm cho phù hợp, làm cho thích hợp
+defect /ˈdiːfekt/, /ˈdiːfekt/;  nhược điểm, khuyết điểm
+enhance /ˈhɑːns/, /ˈhæns/;  nâng cao, tăng cường
+garment /ˈɡɑːmənt/, /ˈɡɑːrmənt/;  quần áo
+inspect /ɪnˈspekt/, /ɪnˈspekt/;  thanh tra, kiểm tra, xem xét kỹ
+perceptive /pəˈseptɪv/, /pərˈseptɪv/;  nhận thức được, cảm giác được, cảm thụ được
+repel /rɪˈpel/, /rɪˈpel/;  chống lại, đẩy lùi
+take back; rút lại, lấy lại, kéo lại
+throw out; vứt bỏ, bỏ đi, đuổi đi
+uniformly /ˈjuːnɪfɔːmli/, /ˈjuːnɪfɔːrmli/;  đồng đều thống nhất, không thay đổi
+wrinkle /ˈrɪŋkl/, /ˈrɪŋkl/;  nếp nhăn, nhàu
+
+29. Product development; Phát triển sản phẩm
+anxious /ˈæŋkʃəs/, /ˈæŋkʃəs/;  lo âu, băn khoăn
+ascertain /ˌæsəˈteɪn/, /ˌæsərˈteɪn/;  biết chắc, xác định rõ ràng, tìm hiểu chắc chắn
+assume /əˈsjuːm/, /əˈsuːm/;  giả sử, cho rằng
+decade /ˈdekeɪd/, /ˈdekeɪd/;  thập niên, thập kỷ
+examine /ɪɡˈzæmɪn/, /ɪɡˈzæmɪn/;  khám xét, xem xét, khảo sát
+experiment /ɪkˈsperɪmənt/, /ɪkˈsperɪmənt/;  cuộc thí nghiệm, sự thí nghiệm
+logical /ˈlɒdʒɪkl/, /ˈlɑːdʒɪkl/;  hợp lý, hợp với lôgic, theo lôgic
+research /rɪˈsɜːtʃ/, /ˈriːsɜːtʃ/;  sự nghiên cứu
+responsibility /ˌspɒnsəˈbɪləti/, /ˌspɑːnsəˈbɪləti/;  trách nhiệm, bổn phận
+solve /sɒlv/, /sɑːlv/;  giải, giải quyết, làm sáng tỏ
+supervisor /ˈsuːpəvaɪzə(r)/, /ˈsjuːpəvaɪzə(r)/;  người giám sát
+systematically /kli/, /kli/;  có hệ thống, có phương pháp
+
+30. Renting and leasing; Thuê và cho thuê
+apprehensive /ˌæprɪˈhensɪv/, /ˌæprɪˈhensɪv/;  sợ hãi, e sợ
+circumstance /ˈsɜːkəmstəns/, /stɑːns/;  trường hợp, hoàn cảnh, tình huống
+condition /kənˈdɪʃn/, /kənˈdɪʃn/;  điều kiện, hoàn cảnh
+due to; bởi, vì, do, tại
+fluctuate /ˈflʌktʃueɪt/, /ˈflʌktʃueɪt/;  dao động, lên xuống, thay đổi thất thường
+get out of; từ bỏ, rời bỏ, tránh né
+indicator /ˈɪndɪkeɪtə(r)/, /ˈɪndɪkeɪtər/;  chỉ thị
+lease /liːs/, /liːs/;  hợp đồng cho thuê
+lock into; nhốt, giam
+occupy /ˈɒkjupaɪ/, /ˈɑːkjupaɪ/;  sở hữu, chiếm hữu, chiếm giữ
+option /ˈɒpʃn/, /ˈɑːpʃn/;  sự lựa chọn, quyền lựa chọn
+subject to; lệ thuộc vào, tùy theo, tuân thủ
+
+31. Selecting a restaurant; Lựa chọn nhà hàng
+appeal /əˈpiːl/, /əˈpiːl/;  lời kêu gọi, cầu khẩn
+arrive /əˈraɪv/, /əˈraɪv/;  đến, đi đến, tới nơi
+compromise /ˈkɒmprəmaɪz/, /ˈkɑːmprəmaɪz/;  thỏa hiệp, dàn xếp
+daringly /ˈdeərɪŋli/, /ˈderɪŋli/;  táo bạo, phiêu lưu, dũng cảm
+familiar /fəˈmɪliə(r)/, /fəˈmɪliər/;  quen, quen thuộc, thân thuộc
+guide /ɡaɪd/, /ɡaɪd/;  người hướng dẫn, người chỉ dẫn
+majority /məˈdʒɒrəti/, /ˈdʒɔːrəti/;  đa số, phần lớn
+mix /mɪks/, /mɪks/;  trộn lẫn, pha lẫn
+rely /rɪˈlaɪ/, /rɪˈlaɪ/;  dựa vào, tin cậy vào
+secure /sɪˈkjʊə(r)/, /sɪˈkjʊr/;  an toàn, an ninh, bảo đảm
+subjective /səbˈdʒektɪv/, /səbˈdʒektɪv/;  chủ quan
+suggestion /səˈdʒestʃən/, /səˈdʒestʃən/;  đề nghị, ý kiến, sự gợi ý
+
+32. Eating out; Đi ăn tiệm
+basic /ˈbeɪsɪk/, /ˈbeɪsɪk/;  cơ bản, cơ sở
+complete /kəmˈpliːt/, /kəmˈpliːt/;  đầy đủ, trọn vẹn, hoàn thành
+excite /ɪkˈsaɪt/, /ɪkˈsaɪt/;  kích thích, kích động, khuấy động
+flavor; mùi vị, hương vị
+forget /fəˈɡet/, /fərˈɡet/;  quên
+ingredient /ɪnˈɡriːdiənt/, /ɪnˈɡriːdiənt/;  thành phần, thành tố, phần hợp thành
+judge /dʒʌdʒ/, /dʒʌdʒ/;  đánh giá
+mix - up; sự lộn xộn
+patron /ˈpeɪtrən/, /ˈpeɪtrən/;  khách hàng quen
+predict /prɪˈdɪkt/, /prɪˈdɪkt/;  dự đoán, dự báo, tiên tri
+randomly /ˈrændəmli/, /ˈrændəmli/;  ngẫu nhiên, tình cờ
+remind /rɪˈmaɪnd/, /rɪˈmaɪnd/;  nhắc nhở, làm nhớ lại
+
+33. Ordering lunch; Đặt ăn trưa
+burden /ˈbɜːdn/, /ˈbɜːrdn/;  gánh nặng
+commonly /ˈkɒmənli/, /ˈkɑːmənli/;  thường thường, bình thường
+delivery /dɪˈlɪvəri/, /dɪˈlɪvəri/;  phân phát, giao, chuyển
+elegance /ˈelɪɡəns/, /ˈelɪɡəns/;  thanh lịch, tao nhã
+fall to; bắt đầu vào việc, bắt tay vào việc
+impress /ɪmˈpres/, /ɪmˈpres/;  gây ấn tượng
+individual /ˌɪndɪˈvɪdʒuəl/, /ˌɪndɪˈvɪdʒuəl/;  cá nhân, riêng, riêng lẻ
+list /lɪst/, /lɪst/;  danh sách, bản kê khai
+multiple /ˈmʌltɪpl/, /ˈmʌltɪpl/;  nhiều, phức tạp
+narrow /rəʊ/, /roʊ/;  chật, hẹp
+pick up; đón (ai đó) 
+settle /ˈsetl/, /ˈsetl/;  giải quyết, hòa giải, dàn xếp
+
+34. Cooking as a career; Nghề nấu ăn 
+accustom to; làm cho quen, tập cho quen
+apprentice /əˈprentɪs/, /əˈprentɪs/;  người học việc, người tập sự
+culinary /nəri/, /neri/;  (thuộc) nấu nướng, bếp núc
+demand /dɪˈmɑːnd/, /dɪˈmænd/;  đòi hỏi, yêu cầu
+draw /drɔː/, /drɔː/;  lôi kéo, thu hút, lôi cuốn
+incorporate /ˈkɔːpəreɪt/, /ˈkɔːrpəreɪt/;  sáp nhập, hợp nhất
+influx /ˈɪnflʌks/, /ˈɪnflʌks/;  sự chảy vào
+method /ˈmeθəd/, /ˈmeθəd/;  phương pháp, cách thức
+outlet /ˈaʊtlet/, /ˈaʊtlet/;  chỗ thoát ra, lối ra, lối thoát
+profession /prəˈfeʃn/, /prəˈfeʃn/;  nghề, nghề nghiệp
+relinquish /rɪˈlɪŋkwɪʃ/, /rɪˈlɪŋkwɪʃ/;  bỏ, từ bỏ
+theme /θiːm/, /θiːm/;  đề tài, chủ đề
+
+35. Events; Sự kiện
+assist /əˈsɪst/, /əˈsɪst/;  giúp, giúp đỡ, trợ giúp
+co-ordinate; phối hợp, kết hợp
+dimension /daɪˈmenʃn/, /daɪˈmenʃn/;  kích thước, cỡ, khổ
+exact /ɪɡˈzækt/, /ɪɡˈzækt/;  chính xác
+general /ˈdʒenrəl/, /ˈdʒenrəl/;  chung chung, tổng quát
+ideally /aɪˈdiːəli/, /aɪˈdiːəli/;  lý tưởng, theo lý tưởng
+lead time; khoảng thời gian ở giữa sự bắt đầu và sự hoàn thành của một quá trình
+plan /plæn/, /plæn/;  kế hoạch, đồ á
+proximity /prɒkˈsɪməti/, /prɑːkˈsɪməti/;  sự gần gũi
+regulate /ˈreɡjuleɪt/, /ˈreɡjuleɪt/;  điều chỉnh, chỉnh đốn
+site /saɪt/, /saɪt/;  vị trí, địa điểm
+stage /steɪdʒ/, /steɪdʒ/;  trình diễn, dàn cảnh
+
+36. General travel; Du lịch tổng quan
+agent /ˈeɪdʒənt/, /ˈeɪdʒənt/;  đại lý, đại diện
+announcement /əˈnaʊnsmənt/, /əˈnaʊnsmənt/;  cáo thị, thông cáo
+beverage /ˈbevərɪdʒ/, /ˈbevərɪdʒ/;  đồ uống, thức uống
+blanket /ˈblæŋkɪt/, /ˈblæŋkɪt/;  mềm, chăn, lớp phủ
+board /bɔːd/, /bɔːrd/;  lên tàu (máy bay, xe lửa)
+claim /kleɪm/, /kleɪm/;  đòi hỏi, yêu cầu
+delay /dɪˈleɪ/, /dɪˈleɪ/;  chậm trễ, trì hoãn, hoãn lại 
+depart /dɪˈpɑːt/, /dɪˈpɑːrt/;  rời khỏi, khởi hành
+embarkation /ˌembɑːˈkeɪʃn/, /ˌembɑːrˈkeɪʃn/;  lên tàu
+itinerary /aɪˈtɪnərəri/, /aɪˈtɪnəreri/;  lịch trình
+prohibit /prəˈhɪbɪt/, /prəˈhɪbɪt/;  ngăn cấm, ngăn chặn
+valid /ˈvælɪd/, /ˈvælɪd/;  có giá trị, có hiệu lực
+
+37. Airlines; Hàng không
+deal with; giải quyết, đối phó, xử lý
+destination /ˌdestɪˈneɪʃn/, /ˌdestɪˈneɪʃn/;  nơi đến, nơi tới, đích đến
+distinguish /dɪˈstɪŋɡwɪʃ/, /dɪˈstɪŋɡwɪʃ/;  phân biệt, nhận ra, nhận biết
+economize /ɪˈkɒnəmaɪz/, /ɪˈkɑːnəmaɪz/;  tiết kiệm
+equivalent /ɪˈkwɪvələnt/, /ɪˈkwɪvələnt/;  tương đương
+excursion /ɪkˈskɜːʃn/, /ɪkˈskɜːrʒn/;  chuyến thăm quan, cuộc đi tham quan, cuộc đi chơi
+expense /ɪkˈspens/, /ɪkˈspens/;  phí tốn, chi phí
+extend /ɪkˈstend/, /ɪkˈstend/;  gia hạn, mở rộng
+prospective /prəˈspektɪv/, /prəˈspektɪv/;  về sau, sắp tới
+situation /ˌsɪtʃuˈeɪʃn/, /ˌsɪtʃuˈeɪʃn/;  tình huống, hoàn cảnh
+substantially /səbˈstænʃəli/, /səbˈstænʃəli/;  lớn lao, đáng kể
+system /ˈsɪstəm/, /ˈsɪstəm/;  hệ thống
+
+38. Trains; Tàu hỏa 
+comprehensive /ˌkɒmprɪˈhensɪv/, /ˌkɑːmprɪˈhensɪv/;  bao gồm, bao hàm, toàn diện
+deluxe /dɪˈlʌks/, /dɪˈlʌks/;  xa xỉ, xa hoa
+directory /dəˈrektəri/, /dəˈrektəri/;  danh bạ
+duration /djuˈreɪʃn/, /duˈreɪʃn/;  khoảng thời gian
+entitle /ɪnˈtaɪtl/, /ɪnˈtaɪtl/;  cho quyền(làm gì)
+fare /feə(r)/, /fer/;  cước phí, tiền xe, tiền vé
+offset /ˈɒfset/, /ˈɔːfset/;  đền bù, bù đắp
+operate /ˈɒpəreɪt/, /ˈɑːpəreɪt/;  hoạt động, thực hiện, tiến hành
+punctually /ˈpʌŋktʃuəli/, /ˈpʌŋktʃuəli/;  đúng giờ, không chậm trễ
+relatively /ˈrelətɪvli/, /ˈrelətɪvli/;  vừa phải, tương đối
+remainder /rɪˈmeɪndə(r)/, /rɪˈmeɪndər/;  phần còn lại
+remote /rɪˈməʊt/, /rɪˈmoʊt/;  xa, xa xôi, xa xăm
+
+39. Hotels; Khách sạn
+advanced /ˈvɑːnst/, /ˈvænst/;  sự tiến lên, tiến bộ
+chain; chuỗi (khách sạn, nhà hàng... )
+check in; làm thủ tục đăng ký
+confirm /ˈfɜːm/, /ˈfɜːrm/;  xác nhận, chứng thực
+expect /ɪkˈspekt/, /ɪkˈspekt/;  mong chờ, mong đợi
+housekeeper /ˈhaʊskiːpə(r)/, /ˈhaʊskiːpər/;  quản gia, người coi nhà
+notify /ˈnəʊtɪfaɪ/, /ˈnoʊtɪfaɪ/;  báo, thông báo, khai báo
+preclude /prɪˈkluːd/, /prɪˈkluːd/;  loại trừ, ngăn ngừa
+quote /kwəʊt/, /kwoʊt/;  trích dẫn
+rate /reɪt/, /reɪt/;  mức, giá 
+reservation /zəˈveɪʃn/, /zərˈveɪʃn/;  sự dành trước, sự đặt chỗ trước
+service /ˈsɜːvɪs/, /ˈsɜːrvɪs/;  dịch vụ, sự phục vụ
+
+40. Car rentals; Thuê xe hơi
+busy /ˈbɪzi/, /ˈbɪzi/;  bận, bận rộn
+coincide /ˌkəʊɪnˈsaɪd/, /ˌkoʊɪnˈsaɪd/;  trùng hợp, trùng nhau
+confusion /kənˈfjuːʒn/, /kənˈfjuːʒn/;  sự nhầm lẫn
+contact /ˈkɒntækt/, /ˈkɑːntækt/;  liên lạc với ai
+disappoint /ˌdɪsəˈpɔɪnt/, /ˌdɪsəˈpɔɪnt/;  làm thất vọng
+intend /ɪnˈtend/, /ɪnˈtend/;  định, dự định
+license /ˈlaɪsns/, /ˈlaɪsns/;  giấy chứng nhận, bản quyền
+nervously /ˈnɜːvəsli/, /ˈnɜːrvəsli/;  lo lắng, bồn chồn, căng thẳng
+optional /ˈɒpʃənl/, /ˈɑːpʃənl/;  tùy ý, tùy chọn, không bắt buộc
+tempt /tempt/, /tempt/;  cám dỗ, lôi cuốn
+thrill /θrɪl/, /θrɪl/;  rung cảm, xúc động
+tier /tɪə(r)/, /tɪr/;  dãy, tầng, lớp
+
+41. Movies; Phim ảnh
+attainment /əˈteɪnmənt/, /əˈteɪnmənt/;  đạt được, giành được
+combine /kəmˈbaɪn/, /kəmˈbaɪn/;  kết hợp, phối hợp
+continue /kənˈtɪnjuː/, /kənˈtɪnjuː/;  tiếp tục, tiếp diễn
+description /dɪˈskrɪpʃn/, /dɪˈskrɪpʃn/;  sự diễn tả, mô tả
+disperse /dɪˈspɜːs/, /dɪˈspɜːrs/;  giải tán, phân tán
+entertainment /təˈteɪnmənt/, /tərˈteɪnmənt/;  sự giải trí, tiêu khiển
+influence /ˈɪnfluəns/, /ˈɪnfluəns/;  ảnh hưởng đến, tác động đến
+range /reɪndʒ/, /reɪndʒ/;  phạm vi, trình độ
+release /rɪˈliːs/, /rɪˈliːs/;  công bố, phát hành
+representation /ˌreprɪzenˈteɪʃn/, /ˌreprɪzenˈteɪʃn/;  đại diện, thay mặt
+separately /ˈseprətli/, /ˈseprətli/;  tách rời, riêng rẽ
+successive /səkˈsesɪv/, /səkˈsesɪv/;  kế tiếp, liên tiếp, lần lượt
+
+42. Theater; Rạp hát
+action /ˈækʃn/, /ˈækʃn/;  diễn biến (của vở kịch)
+approach /əˈprəʊtʃ/, /əˈproʊtʃ/;  lại gần, tiếp cận
+audience /ˈɔːdiəns/, /ˈɔːdiəns/;  khán giả, thính giả, độc giả
+creative /kriˈeɪtɪv/, /kriˈeɪtɪv/;  sáng tạo
+dialogue /ˈdaɪəlɒɡ/, /lɔːɡ/;  cuộc đối thoại, giai thoại
+element /ˈelɪmənt/, /ˈelɪmənt/;  yếu tố, nguyên tố
+experience /ˈspɪəriəns/, /ˈspɪriəns/;  kinh nghiệm, từng trải
+occur /əˈkɜː(r)/, /əˈkɜːr/;  xuất hiện, xảy ra, xảy đến
+perform /pəˈfɔːm/, /pərˈfɔːrm/;  biểu diễn, trình diễn
+rehearse /rɪˈhɜːs/, /rɪˈhɜːrs/;  diễn tập
+review /rɪˈvjuː/, /rɪˈvjuː/;  sự phê bình, lời phê bình
+sell out; hết vé
+
+43. Music; Âm nhạc
+available /əˈveɪləbl/, /əˈveɪləbl/;  sẵn có, sẵn sàng
+broaden /ˈbrɔːdn/, /ˈbrɔːdn/;  mở rộng, nới rộng
+category /ɡəri/, /ɡɔːri/;  loại, hạng
+disparate /ˈdɪspərət/, /ˈdɪspərət/;  khác biệt, khác loại, khác hẳn nhau
+divide /dɪˈvaɪd/, /dɪˈvaɪd/;  chia ra, phân chia
+favor; chiếu cố, thiên vị
+instinct /ˈɪnstɪŋkt/, /ˈɪnstɪŋkt/;  bản năng
+prefer /prɪˈfɜː(r)/, /prɪˈfɜːr/;  thích hơn, ưa hơn
+reason /ˈriːzn/, /ˈriːzn/;  lý do, lý lẽ
+relaxation /ˌriːlækˈseɪʃn/, /ˌriːlækˈseɪʃn/;  thư giãn, giải trí
+taste /teɪst/, /teɪst/;  vị giác, thưởng thức
+urge /ɜːdʒ/, /ɜːrdʒ/;  thúc giục
+
+44. Museums; Bảo tàng
+acquire /əˈkwaɪə(r)/, /əˈkwaɪər/;  thu được, giành được
+admire /ədˈmaɪə(r)/, /ədˈmaɪər/;  khâm phục, thán phục
+collection /kəˈlekʃn/, /kəˈlekʃn/;  sưu tầm, thu thập
+criticism /ˈkrɪtɪsɪzəm/, /ˈkrɪtɪsɪzəm/;  lời phê bình
+express /ɪkˈspres/, /ɪkˈspres/;  bày tỏ
+fashion /ˈfæʃn/, /ˈfæʃn/;  thời trang, mốt
+leisure /ˈleʒə(r)/, /ˈliːʒər/;  thời gian nhàn rỗi
+respond /rɪˈspɒnd/, /rɪˈspɑːnd/;  hồi âm, phúc đáp
+schedule /ˈʃedjuːl/, /ˈskedʒuːl/;  thời gian biểu, lịch trình
+significant /sɪɡˈnɪfɪkənt/, /sɪɡˈnɪfɪkənt/;  quan trọng, đầy ý nghĩa
+specialize /ˈspeʃəlaɪz/, /ˈspeʃəlaɪz/;  chuyên môn hóa
+spectrum /ˈspektrəm/, /ˈspektrəm/;  sự phân bổ theo tính chất, số lượng, hành vi
+
+45. Media; Truyền thông
+assignment /əˈsaɪnmənt/, /əˈsaɪnmənt/;  nhiệm vụ, công việc
+choose /tʃuːz/, /tʃuːz/;  chọn, chọn lựa
+constantly /ˈkɒnstəntli/, /ˈkɑːnstəntli/;  trung thành, chung thủy, liên tục
+constitute /ˈkɒnstɪtjuːt/, /ˈkɑːnstɪtuːt/;  tạo thành, thành lập, thiết lập
+decision /dɪˈsɪʒn/, /dɪˈsɪʒn/;  sự quyết định
+disseminate /dɪˈsemɪneɪt/, /dɪˈsemɪneɪt/;  truyền bá phổ biến
+impact /ˈɪmpækt/, /ˈɪmpækt/;  tác động mạnh, ảnh hưởng mạnh
+investigate /ɪnˈvestɪɡeɪt/, /ɪnˈvestɪɡeɪt/;  điều tra, nghiên cứu
+link /lɪŋk/, /lɪŋk/;  nối, liên kết
+subscribe /səbˈskraɪb/, /səbˈskraɪb/;  đặt mua báo, tạp chí 
+thorough /ˈθʌrə/, /ˈθɜːroʊ/;  kỹ lưỡng, thấu đáo
+
+45. Doctor's office; Văn phòng bác sĩ
+annually /ˈænjuəli/, /ˈænjuəli/;  hàng năm, từng nằm, thường niên
+appointment /əˈpɔɪntmənt/, /əˈpɔɪntmənt/;  cuộc hẹn, sự hẹn gặp
+assess /əˈses/, /əˈses/;  ước định, định giá
+diagnose /ˈdaɪəɡnəʊz/, /ˌdaɪəɡˈnəʊz/;  chẩn đoán
+effective /ɪˈfektɪv/, /ɪˈfektɪv/;  có hiệu quả
+instrument /ˈɪnstrəmənt/, /ˈɪnstrəmənt/;  dụng cụ, công cụ, thiết bị đo đạc
+manage /ˈmænɪdʒ/, /ˈmænɪdʒ/;  quản lý, trông nom, điều khiển
+prevent /prɪˈvent/, /prɪˈvent/;  ngăn ngừa, phòng ngừa
+recommendation /ˌrekəmenˈdeɪʃn/, /ˌrekəmenˈdeɪʃn/;  sự giới thiệu, tiến cử
+record /ˈrekɔːd/, /ˈrekərd/;  ghi lại
+refer /rɪˈfɜː(r)/, /rɪˈfɜːr/;  tham khảo, xem
+serious /ˈsɪəriəs/, /ˈsɪriəs/;  nghiêm trọng
+
+47. Dentist's office; Phòng khám răng
+aware /əˈweə(r)/, /əˈwer/;  biết, nhận thấy, nhận thức thấy
+catch up; làm kịp, kịp thời gian
+distraction /dɪˈstrækʃn/, /dɪˈstrækʃn/;  sự sao nhãng
+encouragement /ˈkʌrɪdʒmənt/, /ˈkɜːrɪdʒmənt/;  khuyến khích, cổ vũ
+evident /ˈevɪdənt/, /ˈevɪdənt/;  rõ ràng, hiển nhiên, rành rành
+habit /ˈhæbɪt/, /ˈhæbɪt/;  thói quen, tập quán
+illuminate /ɪˈluːmɪneɪt/, /ɪˈluːmɪneɪt/;  chiếu sáng, rọi sáng
+irritate /ˈɪrɪteɪt/, /ˈɪrɪteɪt/;  kích ứng, kích thích
+overview /ˈəʊvəvjuː/, /ˈoʊvərvjuː/;  chung, tổng quan, tổng quát
+position /pəˈzɪʃn/, /pəˈzɪʃn/;  vị trí, chỗ, thế
+regularly /ləli/, /lərli/;  đều đặn, thường xuyên
+restore /rɪˈstɔː(r)/, /rɪˈstɔːr/;  phục hồi, khôi phục
+
+48. Health insurance; Bảo vệ sức khỏe
+allow /əˈlaʊ/, /əˈlaʊ/;  cho phép
+alternative /ˈtɜːnətɪv/, /ˈtɜːrnətɪv/;  thay phiên, luân phiên
+aspect /ˈæspekt/, /ˈæspekt/;  bề ngoài, diện mạo
+concern /ˈsɜːn/, /ˈsɜːrn/;  lo lắng, lo ngại, quan tâm
+emphasize /ˈemfəsaɪz/, /ˈemfəsaɪz/;  nhấn mạnh, làm nổi bật
+incur /ɪnˈkɜː(r)/, /ɪnˈkɜːr/;  gánh chịu, chịu lấy
+personnel /ˌpɜːsəˈnel/, /ˌpɜːrsəˈnel/;  cán bộ, nhân viên
+policy /ˈpɒləsi/, /ˈpɑːləsi/;  chính sách, đường lối
+portion /ˈpɔːʃn/, /ˈpɔːrʃn/;  phần, phần chia
+regardless /ˈɡɑːdləs/, /ˈɡɑːrdləs/;  không đếm xỉa tới, bất chấp
+salary /ˈsæləri/, /ˈsæləri/;  tiền lương
+suit /suːt/, /sjuːt/;  làm cho phù hợp, thích hợp
+
+49. Hospitals; Bệnh viện
+admit /ədˈmɪt/, /ədˈmɪt/;  cho vào, nhận vào
+authorize /ˈɔːθəraɪz/, /ˈɔːθəraɪz/;  cho quyền, ủy quyền, cho phép
+designate /ˈdezɪɡneɪt/, /ˈdezɪɡneɪt/;  chỉ rõ, định rõ
+escort /ˈeskɔːt/, /ˈeskɔːrt/;  vệ sĩ, đội hộ tống
+identify /aɪˈdentɪfaɪ/, /aɪˈdentɪfaɪ/;  nhận dạng, nhận biết
+mission /ˈmɪʃn/, /ˈmɪʃn/;  sứ mệnh, nhiệm vụ
+permit /pəˈmɪt/, /pərˈmɪt/;  giấy phép, sự cho phép
+pertinent /ˈpɜːtɪnənt/, /ˈpɜːrtnənt/;  thích hợp, thích đáng
+procedure /prəˈsiːdʒə(r)/, /prəˈsiːdʒər/;  thủ tục, các bước tiến hành
+result /rɪˈzʌlt/, /rɪˈzʌlt/;  kết quả, đáp số
+statement /ˈsteɪtmənt/, /ˈsteɪtmənt/;  sự trình bày
+usually /ˈjuːʒuəli/, /ˈjuːʒuəli/;  thông thường, thường lệ
+
+50. Pharmacy; Nhà thuốc
+consult /kənˈsʌlt/, /kənˈsʌlt/;  hỏi ý kiến, tham khảo
+control /ˈtrəʊl/, /ˈtroʊl/;  kiểm soát, điều khiển, chỉ huy
+convenient /kənˈviːniənt/, /kənˈviːniənt/;  thuận lợi, thuận tiện
+detect /dɪˈtekt/, /dɪˈtekt/;  phát hiện ra, khám phá ra
+factor /ˈfæktə(r)/, /ˈfæktər/;  nhân tố
+interaction /ˈækʃn/, /ˈækʃn/;  sự tương tác, ảnh hưởng lẫn nhau
+limit /ˈlɪmɪt/, /ˈlɪmɪt/;  giới hạn, hạn định, ranh giới
+monitor /ˈmɒnɪtə(r)/, /ˈmɑːnɪtər/;  màn hình vi tính, lớp trưởng
+potential /pəˈtenʃl/, /pəˈtenʃl/;  tiềm tàng, tiềm năng
+sample /ˈsɑːmpl/, /ˈsæmpl/;  mẫu, hàng mẫu
+sense /sens/, /sens/;  khả năng phán đoán
+volunteer /ˌvɒlənˈtɪə(r)/, /ˌvɑːlənˈtɪr/;  tình nguyện viên, người xung phong

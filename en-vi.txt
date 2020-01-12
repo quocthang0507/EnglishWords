@@ -1,0 +1,1433 @@
+# English-Vietnamese translations created from the Universal dictionary at 2019-12-30T01:42:01+00:00
+# (c) Copyright 2019 by All free dictionaries project
+# ALL FREE DICTIONARIES PROJECT DISCLAIMS ALL
+# WARRANTIES WITH REGARD TO THESE TRANSLATIONS, INCLUDING ALL
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+# EVENT SHALL ALL FREE DICTIONARIES PROJECT OR ANY OF ITS CONTRIBUTORS
+# BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES
+# OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+# PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+# OR OTHER ACTION, ARISING OUT OF OR IN CONNECTION
+# WITH THE USE OR PERFORMANCE OF THESE TRANSLATIONS.
+#
+# In other words there may be incorrect translations.
+# If you need to be sure never use these translations!
+#
+# French, German and Czech entries are added manually. The entries for
+# remaining languages are added automatically. Entries for these languages
+# are only experimental.
+#
+# You may not place this file on WWW, ftp and equivalent servers because
+# this file gets outdated very quickly. You may not distribute this file
+# with your dictionary applications without permission. You can contact
+# authors of the Universal dictionary at: http://dicts.info/contact.php
+#
+# This file is for personal use only. You may not distribute this file.
+#
+# New version of this file can be created at: https://www.dicts.info/uddl.php
+#
+
+April  ; Apr	Tháng tư	time
+August  ; Aug	tháng tám	time
+China  ; People's Republic of China  ; mainland China  ; Communist China  ; Red China  ; PRC  ; Cathay	Trung Hoa đại lục	country
+Chinese	Tiếng Trung quốc	language
+Czech Republic	Cộng hòa Séc	country
+December  ; Dec	Tháng mười hai	time
+Earth  ; earth  ; world  ; globe	Trái Đất	geography
+English  ; English language	Tiếng Anh	language
+February  ; Feb	Tháng hai	time
+France  ; French Republic	Pháp	country
+French	tiếng Pháp	language
+Friday  ; Fri	Thứ Sáu	time
+German  ; High German  ; German language	Tiếng Đức	language
+Germany  ; Federal Republic of Germany  ; Deutschland  ; FRG	Đức	country
+Hindi	Tiếng Hindi	language
+I don't know	tôi không biết	conversation
+I don't understand	tôi không hiểu	conversation
+India  ; Republic of India  ; Bharat	Ấn Độ	country
+Italian	Tiếng Ý	language
+Italy  ; Italian Republic  ; Italia	Ý	country
+January  ; Jan	Tháng một	time
+Japan  ; Nippon  ; Nihon	Nhật Bản	country
+Japanese	tiếng Nhật	language
+July	Tháng bảy	time
+June	Tháng sáu	time
+May	Tháng năm	time
+Monday  ; Mon	Thứ Hai	time
+Moon  ; moon	mặt trăng	geography
+November  ; Nov	Tháng mười một	time
+October  ; Oct	Tháng mười	time
+Saturday  ; Sabbatum  ; Sat	Thứ Bảy	time
+September  ; Sep  ; Sept	Tháng chín	time
+Spain  ; Kingdom of Spain  ; Espana	Tây Ban Nha	country
+Spanish	tiếng Tây ban nha	language
+Sunday  ; Lord's Day  ; Dominicus  ; Sun	Chủ nhật	time
+Thursday  ; Th	Thứ Năm	time
+Tuesday  ; Tues	Thứ Ba	time
+United Kingdom  ; UK  ; U.K.  ; Britain  ; United Kingdom of Great Britain and Northern Ireland  ; Great Britain	Vương quốc Liên hiệp Anh và Bắc Ireland	country
+United States  ; United States of America  ; America  ; the States  ; US  ; U.S.  ; USA  ; U.S.A.	Hoa Kỳ	country
+Wednesday  ; Midweek  ; Wed	Thứ Tư	time
+a  ; an	cái	article
+ability  ; power	khả năng	abstract
+able	có khả năng	adjective-people
+about  ; around	khắp xung quanh	adverb
+above  ; higher up  ; in a higher place  ; to a higher place	bên trên	adverb
+accept  ; take  ; have	chấp nhận	verb
+accident	tai nạn	transport
+account  ; business relationship	tài khoản	business
+accuse  ; charge	buộc tội	verb
+achieve  ; accomplish  ; attain  ; reach	đạt được	verb
+acid	a-xít	material
+acid rain  ; acid precipitation	mưa axít	environment
+act  ; deed  ; human action  ; human activity	việc làm	abstract
+act  ; move	hành động	verb
+action	hành động	abstract
+activity  ; action  ; activeness	sự nhanh nhẹn	abstract
+actor  ; histrion  ; player  ; thespian  ; role player	diễn viên	profession
+addition  ; add-on  ; improver	người hoặc vật thêm vào	abstract
+addition  ; summation  ; plus	tính cộng	mathematics
+address	địa chỉ	house
+admit  ; acknowledge	công nhận	verb
+advantage  ; vantage	sự thuận lợi	business
+advertisement  ; ad  ; advertizement  ; advertising  ; advertizing  ; advert	bài quảng cáo	business
+advice	lời khuyên	business
+afternoon	buổi chiều	time
+again  ; once again  ; once more  ; over again	lại	adverb
+against	chống lại	preposition
+age	chín ngấu	time
+ago  ; agone	trước đây	adjective
+agree  ; hold  ; concur  ; concord	đồng tình	verb
+air	không khí	nature
+airport  ; airdrome  ; aerodrome  ; drome	sân bay nhỏ	city
+alive  ; live	còn sống	adjective-people
+allow  ; let  ; permit	cho phép	verb
+almost  ; about  ; most  ; nearly  ; near  ; nigh  ; virtually  ; well-nigh	gần như	adverb
+alone  ; lone  ; lonely  ; solitary	không bầu bạn	adjective-people
+along	dọc theo	adverb
+always  ; ever  ; e'er	luôn luôn	adverb
+among  ; amongst  ; amid  ; amidst	chia phần	preposition
+and	và	conjunction
+angle	góc	mathematics
+angry	tức giận	adjective-people
+animal  ; animate being  ; beast  ; brute  ; creature  ; fauna	động vật	nature
+announce  ; denote	công bố	verb
+announcement  ; proclamation  ; annunciation  ; declaration	thông báo	communication
+another  ; some other	cái khác	adjective-basic
+answer  ; reply  ; response	câu trả lời	communication
+ant  ; emmet  ; pismire	con kiến	animal
+apple	quả táo	fruit
+approximately  ; about  ; close to  ; just about  ; some  ; roughly  ; more or less  ; around  ; or so	khoảng chừng	adverb
+area  ; expanse  ; surface area	diện tích	mathematics
+argue  ; contend  ; debate  ; fence	cãi nhau	verb
+argument  ; controversy  ; contention  ; contestation  ; disputation  ; disceptation  ; tilt  ; arguing	sự cãi nhau	communication
+argument  ; statement	lý lẽ	communication
+arm	cánh tay	anatomy
+army  ; regular army  ; ground forces	quân đội	society
+arrive  ; make it  ; get in  ; go far	đến	verb
+art  ; fine art	mỹ thuật	art
+artist  ; creative person	hoạ sĩ	art
+ask  ; inquire  ; enquire	hỏi	verb
+at	ở tại	preposition
+at	ở tại	preposition
+atmosphere  ; air	khí quyển	environment
+attack  ; assail  ; assault  ; set on	tấn công	verb
+attack  ; onslaught  ; onset  ; onrush	sự tấn công	abstract
+attempt  ; effort  ; endeavor  ; endeavour  ; try	sự nỗ lực	abstract
+attention  ; attending	sự chú ý	business
+authority  ; authorization  ; authorisation  ; potency  ; dominance  ; say-so	quyền lực	business
+automatic	tự động	adjective
+autumn  ; fall	mùa thu	time
+available	sẵn sàng	adjective
+avoid	tránh	verb
+awake	thức	adjective-people
+award  ; accolade  ; honor  ; honour  ; laurels	bằng danh dự	sports
+baby  ; babe  ; infant	trẻ sơ sinh	family
+back	đằng sau	abstract
+back  ; dorsum	cái lưng	anatomy
+bad	xấu	adjective-basic
+bag	bao ; bao (1)	container
+bag  ; handbag  ; pocketbook  ; purse	túi	clothes
+balance	sự cân bằng	physics
+ball	quả bóng	sports
+banana	quả chuối	fruit
+band  ; dance band  ; dance orchestra	ban nhạc	art
+bank  ; depository financial institution  ; banking concern  ; banking company	ngân hàng	city
+banknote  ; bill  ; note  ; government note  ; bank bill  ; banker's bill  ; bank note  ; Federal Reserve note  ; greenback	hối phiếu	business
+bargain  ; deal	sự mặc cả	business
+base  ; base of operations	thành phần chủ yếu	society
+baseball  ; baseball game	bóng chày	sports
+basic	cơ bản	adjective-basic
+basket  ; handbasket	cái rổ	container
+be  ; live	có sự sống	verb
+beach	bãi biển	geography
+bean  ; edible bean	đậu	vegetable
+bear	con gấu	animal
+bear	mang vác	verb
+beat  ; beat out  ; crush  ; shell  ; trounce  ; vanquish	đánh bại	verb
+beautiful	đẹp	adjective-basic
+because	bởi vì	conjunction
+become  ; go  ; get	trở thành	verb
+bed	giường	furniture
+bee	con ong	animal
+beer	rượu bia	drink
+before  ; earlier	trước (khi)	adverb
+begin  ; start  ; get down  ; get  ; start out  ; set about  ; set out  ; commence	Bắt đầu	verb-basic
+beginning  ; commencement  ; first  ; outset  ; get-go  ; start  ; kickoff  ; starting time  ; showtime  ; offset	sự bắt đầu	time
+behavior  ; demeanor  ; demeanour  ; behaviour  ; conduct  ; deportment	cách cư xử	abstract
+behind	đằng sau	adverb
+bell	cái chuông	tool
+best	tốt nhất	adjective-basic
+better	thích hợp hơn	adjective-basic
+between  ; betwixt	chỉ rõ sự liên quan	adverb
+big  ; large	to lớn	adjective-basic
+bike  ; bicycle  ; wheel  ; cycle	xe đạp	sports
+biology  ; biological science	sinh vật học	science
+bird	con chim	animal
+birthday	sinh nhật	family
+bit  ; chip  ; flake  ; fleck  ; scrap	miếng	abstract
+bite  ; seize with teeth	cắn	verb
+bitter	đắng	adjective
+black	không sữa	color
+blood	máu	anatomy
+blow	cú đánh	abstract
+blue  ; bluish  ; blueish	(màu) xanh (blue or green) ; xanh lam ; xanh lục ; xanh lá cây	color
+boat	thuyền	transport
+body  ; torso  ; trunk	thân người	anatomy
+bone  ; os	bộ xương	anatomy
+book  ; volume	sách	communication
+boring  ; deadening  ; dull  ; ho-hum  ; irksome  ; slow  ; tedious  ; tiresome  ; wearisome	sự nhạt nhẽo	adjective
+bottle	chai lọ	container
+box	hộp	container
+boy  ; male child	con trai	family
+boyfriend  ; fellow  ; beau  ; swain  ; young man	bạn trai	relations
+brain  ; encephalon	bộ não	anatomy
+branch	cành cây	nature
+brand  ; make	nhãn mác	business
+bread  ; breadstuff  ; staff of life	bánh mỳ	food
+break	chia ra	verb-basic
+break  ; respite  ; recess  ; time out	sự gián đoạn	abstract
+breakfast	bữa sáng	food
+breath	hơi thở	anatomy
+brick	gạch	house
+bridge  ; span	cầu	city
+bring  ; convey  ; take	làm cho	verb
+broken	bị vỡ (1 ; 2) ; bị bể (1)	adjective
+brother  ; blood brother	anh	family
+brown  ; brownish  ; chocolate-brown  ; dark-brown	màu nâu	color
+brush	bàn chải	art
+build  ; construct  ; make	xây dựng	verb
+building  ; edifice	công trình xây dựng	city
+bus  ; autobus  ; coach  ; charabanc  ; double-decker  ; jitney  ; motorbus  ; motorcoach  ; omnibus  ; passenger vehicle	xe buýt	transport
+business  ; concern  ; business concern  ; business organization  ; business organisation	công ty	business
+businessman  ; man of affairs	nhà doanh nghiệp	profession
+butter	bơ	food
+button  ; push button  ; push	nút	tool
+buy  ; purchase	mua	verb-basic
+cabbage  ; chou	cải bắp	vegetable
+call  ; phone call  ; telephone call	cuộc gọi điện thoại	communication
+call  ; telephone  ; call up  ; phone  ; ring	gọi điện	verb
+camera  ; photographic camera	máy ảnh	device
+campaign  ; cause  ; crusade  ; drive  ; movement  ; effort	chiến dịch	abstract
+capital	thủ đô	city
+capital  ; working capital	tiền vốn	business
+car  ; auto  ; automobile  ; machine  ; motorcar	xe ô tô	transport
+care  ; attention  ; aid  ; tending	sự trông nom	medicine
+carpet  ; rug  ; carpeting	thảm	furniture
+carrot  ; cultivated carrot  ; Daucus carota sativa	củ cà rốt	vegetable
+carry  ; transport	mang	verb
+case  ; instance  ; example	vụ kiện	abstract
+castle	lâu đài	city
+cat  ; true cat	con mèo	animal
+cause	nguyên nhân	science
+cell	tế bào	anatomy
+cellphone  ; cellular telephone  ; cellular phone  ; cell  ; mobile phone	máy bộ đàm	device
+center  ; kernel  ; substance  ; core  ; centre  ; essence  ; gist  ; heart  ; heart and soul  ; inwardness  ; marrow  ; meat  ; nub  ; pith  ; sum  ; nitty-gritty	bản chất	science
+central	quan trọng nhất	adjective
+century	thế kỷ	time
+certain  ; sure	đích xác	adjective
+chain	dây xích	object
+chair	ghế	furniture
+championship  ; title	danh hiệu quán quân	sports
+chance  ; opportunity	cơ hội	abstract
+change	tiền lẻ	business
+change  ; alter  ; modify	thay đổi	verb
+change  ; alteration  ; modification	sự thay đổi	abstract
+character  ; grapheme  ; graphic symbol	ký tự	communication
+charge  ; electric charge	điện tích	physics
+cheap  ; inexpensive	rẻ	adjective
+check  ; bank check  ; cheque	séc	business
+cheers	sự cạn ly, nâng cốc chúc mừng	conversation
+cheese	pho mát	food
+chemical  ; chemic	thuộc hóa học	adjective
+chemical  ; chemical substance	hóa chất	material
+chemical element  ; element	nguyên tố hóa học	material
+chemistry  ; chemical science	hóa học	science
+cherry	quả anh đào	fruit
+chin  ; mentum	cằm	anatomy
+chocolate	sô cô la	food
+choice  ; selection  ; option  ; pick	quyền lựa chọn	abstract
+choose  ; take  ; select  ; pick out	chọn	verb
+church  ; church building	nhà thờ	city
+cinema  ; movie theater  ; movie theatre  ; movie house  ; picture palace	rạp chiếu bóng	city
+circle	hình tròn	mathematics
+city  ; metropolis  ; urban center	đô thị	city
+class  ; form  ; grade  ; course	hạng	education
+classify  ; class  ; sort  ; assort  ; sort out  ; separate	xếp hạng	verb
+clean	sạch	adjective-basic
+clean  ; make clean	làm sạch	verb
+clear	trong trẻo	adjective
+climate change  ; global climate change	biến đổi khí hậu	environment
+clock	đồng hồ	device
+close  ; shut	đóng	verb-basic
+closed  ; shut  ; unopen	khép kín	adjective
+cloth  ; fabric  ; material  ; textile	vải	clothes
+clothing  ; article of clothing  ; vesture  ; wear  ; wearable  ; habiliment	quần áo	clothes
+cloud	mây	weather
+club	dùi cui	object
+club  ; social club  ; society  ; guild  ; gild  ; lodge  ; order	hội	society
+coal	than đá	material
+coat	áo choàng	clothes
+coffee  ; java	cà phê	drink
+coil  ; whorl  ; roll  ; curl  ; curlicue  ; ringlet  ; gyre  ; scroll	cuộn	object
+cold	lạnh	adjective-basic
+cold  ; common cold	cảm lạnh	medicine
+collar  ; neckband	cổ áo	clothes
+color  ; colour  ; coloring material  ; colouring material	màu sắc	art
+come  ; come up	đi đến	verb-basic
+common  ; mutual	phổ biến	adjective
+company	công ty	business
+company  ; companionship  ; fellowship  ; society	tình bạn bè	society
+compare	ví	verb
+comparison  ; comparing	sự so sánh	science
+competition	những người cạnh tranh	business
+competitor  ; rival  ; challenger  ; competition  ; contender	đối thủ cạnh tranh	sports
+complaint  ; charge	lời buộc tội	business
+complete  ; consummate	đầy đủ	adjective
+component  ; constituent  ; element  ; factor  ; ingredient	nguyên tố	mathematics
+computer  ; computing machine  ; computing device  ; data processor  ; electronic computer  ; information processing system	máy tính	device
+concert	buổi hòa nhạc	art
+condition  ; status	điều kiện	abstract
+consequence  ; effect  ; outcome  ; result  ; event  ; issue  ; upshot	hậu quả	science
+contain  ; incorporate  ; comprise	chứa đựng	verb
+contest  ; competition	cuộc thi đấu	business
+continue  ; go on  ; proceed  ; go along  ; keep	tiếp tục	verb
+contract	bản hợp đồng	business
+control	sự quản lý	science
+cook	nấu ăn	verb
+cook	đầu bếp	kitchen
+copy  ; re-create	bản sao	verb
+correct  ; right	chính xác	adjective-basic
+cough	ho	verb
+cough  ; coughing	sự ho	medicine
+council	hội đồng	business
+country  ; state  ; land	đất nước	society
+couple  ; pair  ; twosome  ; twain  ; brace  ; span  ; yoke  ; couplet  ; distich  ; duo  ; duet  ; dyad  ; duad	hai người	number
+course  ; class  ; course of study  ; course of instruction	bài học	business
+court  ; tribunal  ; judicature	tòa án	society
+cow  ; moo-cow	bò cái	animal
+crack  ; cleft  ; crevice  ; fissure  ; scissure	vết nứt	abstract
+crime  ; offense  ; criminal offense  ; criminal offence  ; offence  ; law-breaking	sự phạm tội	society
+cruel  ; barbarous  ; brutal  ; fell  ; roughshod  ; savage  ; vicious	độc ác	adjective
+cry  ; outcry  ; call  ; yell  ; shout  ; vociferation	lời kêu gọi	communication
+cry  ; weep	khóc	verb
+cucumber  ; cuke	quả dưa chuột	vegetable
+culture  ; civilization  ; civilisation	văn hóa	society
+cup	tách	container
+cup  ; loving cup	cúp	sports
+cupboard  ; closet	tủ	furniture
+curtain  ; drape  ; drapery  ; mantle  ; pall	màn cửa	furniture
+curve  ; curved shape	đường cong	mathematics
+customer  ; client	khách hàng	business
+cut	cắt	verb-basic
+cut  ; cutting	cắt	abstract
+damage  ; harm  ; impairment	sự hư hại	abstract
+dance  ; trip the light fantastic  ; trip the light fantastic toe	khiêu vũ	verb-basic
+danger	sự nguy hiểm	abstract
+dangerous  ; unsafe	chính là mối hiểm họa	adjective
+dark	tối tăm	adjective-basic
+data  ; information	dữ liệu	communication
+date  ; appointment  ; engagement	cuộc hẹn	relations
+date  ; day of the month	ngày tháng	time
+daughter  ; girl	con gái	family
+day  ; twenty-four hours  ; twenty-four hour period  ; 24-hour interval  ; solar day  ; mean solar day	ngày	time
+dead	chết	adjective-people
+dear  ; beloved  ; dearest  ; honey  ; love	người yêu quý	relations
+death	chết	family
+decide  ; make up one's mind  ; determine	quyết định	verb
+decision  ; determination  ; conclusion	quyết định	communication
+decoration  ; ornament  ; ornamentation	sự trang trí	abstract
+degree	độ	mathematics
+degree  ; grade  ; level	mức	mathematics
+delicate	mịn màng	adjective
+demand  ; need	nhu cầu	business
+democracy  ; republic  ; commonwealth	nước cộng hòa	society
+department  ; section	bộ	business
+describe  ; depict  ; draw	mô tả	verb
+design  ; designing	bản thiết kế	art
+design  ; plan	thiết kế	verb
+desire  ; want	muốn	verb
+desk	bàn viết	furniture
+destruction  ; devastation	sự tàn phá	abstract
+dew	sương	weather
+dictionary  ; lexicon	từ điển	communication
+die  ; decease  ; perish  ; go  ; exit  ; pass away  ; expire  ; pass  ; kick the bucket  ; cash in one's chips  ; buy the farm  ; conk  ; give-up the ghost  ; drop dead  ; pop off  ; choke  ; croak  ; snuff it	chết	verb
+different	khác	adjective
+different  ; unlike  ; dissimilar	khác nhau	adjective
+difficult  ; hard	khó khăn	adjective-basic
+difficulty	sự khó khăn	business
+direction	hướng	business
+directly  ; straight  ; direct	trực tiếp	adverb
+director  ; manager  ; managing director	người quản lý	business
+discipline  ; subject  ; subject area  ; subject field  ; field  ; field of study  ; study  ; bailiwick	sự rèn luyện	science
+discover  ; find	khám phá	verb
+discovery  ; find  ; uncovering	khám phá	science
+discuss  ; hash out  ; talk over	thảo luận	verb
+discussion  ; give-and-take  ; word	sự thảo luận	communication
+disease	bệnh	medicine
+distance	khoảng cách	mathematics
+diversity  ; diverseness  ; multifariousness  ; variety	sự đa dạng	art
+divide  ; split  ; split up  ; separate  ; dissever  ; carve up	phân chia	verb
+division  ; partition  ; partitioning  ; segmentation  ; sectionalization  ; sectionalisation	sự phân chia	mathematics
+do  ; practice  ; practise  ; exercise	sử dụng	verb-basic
+do you speak English	bạn có nói được tiếng Anh không	conversation
+doctor  ; doc  ; physician  ; MD  ; Dr.  ; medico	bác sỹ	medicine
+dog  ; domestic dog  ; Canis familiaris	con chó	animal
+dominance  ; ascendance  ; ascendence  ; ascendancy  ; ascendency  ; control	kiểm soát	abstract
+dominion  ; rule	quyền cai trị	society
+door	cái cửa	house
+doubt	nghi ngờ	verb
+doubt  ; uncertainty  ; incertitude  ; dubiety  ; doubtfulness  ; dubiousness	sự nghi ngờ	communication
+drawer	ngăn kéo	container
+drink  ; beverage  ; drinkable  ; potable	đồ uống	drink
+drink  ; imbibe	uống	verb-basic
+drive	lái xe	verb
+drop  ; drib  ; driblet	giọt	abstract
+dry	khô ráo	adjective
+during	trong thời gian	preposition
+dust	bụi	material
+each	mỗi	adjective
+ear	tai	anatomy
+early	đầu	adjective
+early  ; early on	đầu	adverb
+earth  ; ground	trái đất	material
+east  ; due east  ; eastward  ; E	hướng đông	geography
+easy	dễ dàng	adjective
+eat	ăn	verb-basic
+ecology  ; bionomics  ; environmental science	sinh thái học	environment
+economic	thuộc về kinh tế	adjective
+economic  ; economical	tiết kiệm	adjective
+economy  ; economic system	kinh tế	business
+edge  ; border	đường viền	mathematics
+education	giáo dục	education
+education  ; instruction  ; teaching  ; pedagogy  ; didactics  ; educational activity	sự giáo dục	education
+effort  ; elbow grease  ; exertion  ; travail  ; sweat	sự nỗ lực	abstract
+egg	quả trứng	food
+eight  ; 8  ; viii	tám	number
+either	cái này hay cái kia trong hai cái	adverb
+election	cuộc bầu cử	society
+electric  ; electrical	thuộc điện	adjective
+elephant	con voi	animal
+elevator  ; lift	thang máy	device
+embrace  ; encompass  ; comprehend  ; cover	bao gồm	verb
+encourage	khuyến khích	verb
+end  ; stop  ; finish  ; terminate  ; cease	kết thúc	verb
+energy  ; free energy	năng lực	physics
+engine	máy	device
+enhance  ; heighten  ; raise	nâng cao	verb
+enough  ; plenty	đủ	adverb
+enter  ; come in  ; get into  ; get in  ; go into  ; go in  ; move into	đi vào	verb
+entertainment  ; amusement	trò tiêu khiển	art
+envelope	phong bì	container
+environment	môi trường	business
+environment  ; environs  ; surroundings  ; surround	vùng xung quanh	environment
+equal	bằng nhau	adjective
+establish  ; found  ; plant  ; constitute  ; institute	xây dựng	verb
+estimate  ; gauge  ; approximate  ; guess  ; judge	ước tính	verb
+even	chẵn	adjective
+evening  ; eve  ; even  ; eventide	buổi tối	time
+event	sự kiện	science
+every	mỗi	adjective
+everybody  ; everyone	mọi người	pronoun
+everything	mọi thứ	pronoun
+evidence	bằng chứng	science
+evolution  ; development	sự tiến triển	nature
+exactly  ; precisely  ; just	đúng là	adverb
+example  ; illustration  ; instance  ; representative	mẫu	science
+exceed  ; transcend  ; overstep  ; pass  ; go past  ; top	vượt quá	verb
+excellent  ; first-class  ; fantabulous  ; splendid	xuất sắc	adjective
+exist  ; be	tồn tại	verb
+existence  ; being  ; beingness	sự tồn tại	society
+expect  ; look  ; await  ; wait	đợi	verb
+experience	kinh nghiệm	business
+experience	sự từng trải	communication
+expert	chuyên gia	profession
+explain  ; explicate	giải thích	verb
+express  ; limited	tàu tốc hành	transport
+expression  ; look  ; aspect  ; facial expression  ; face	cách nhìn	communication
+eye  ; oculus  ; optic	mắt	anatomy
+face  ; human face	mặt	anatomy
+fact	sự việc	science
+factory  ; mill  ; manufacturing plant  ; manufactory	nhà máy	city
+fake  ; false  ; faux  ; imitation  ; simulated	sai	adjective
+fall	rơi	verb-basic
+fall  ; spill  ; tumble	sụp đổ	abstract
+family  ; family unit	gia đình	family
+far	xa	adjective
+farm	trại	nature
+fast	nhanh	adjective-basic
+fat	béo mập	adjective
+fat	mỡ	material
+fat  ; fatty	nhiều về số lượng	adjective
+father  ; male parent  ; begetter	cha	family
+fear  ; fearfulness  ; fright	sự sợ hãi	feeling
+feather  ; plume  ; plumage	lông vũ	object
+feature  ; characteristic	đặc điểm	abstract
+feeling	tình cảm	communication
+few	không nhiều	adjective
+field	đồng ruộng	nature
+fight  ; contend  ; struggle	đấu tranh	verb
+fight  ; fighting  ; combat  ; scrap	trận đánh	abstract
+fill  ; fill up  ; make full	đổ đầy	verb
+final  ; last  ; concluding  ; terminal	quyết định	adjective
+finally  ; last  ; lastly  ; in conclusion	cuối cùng	adverb
+financial  ; fiscal	liên quan đến tiền bạc hoặc tài chính	adjective
+find  ; detect  ; observe  ; discover  ; notice	phát hiện	verb
+find  ; regain	tìm thấy	verb-basic
+finger	ngón tay	anatomy
+finish  ; goal  ; destination	nơi đến	sports
+fire  ; flame  ; flaming	ngọn lửa	nature
+fire  ; open fire	bắn	verb-basic
+firm  ; house  ; business firm	hãng	business
+firm  ; solid	mạnh mẽ	adjective
+first  ; firstly  ; foremost  ; first of all  ; first off	trước hết	adverb
+fish	cá	animal
+five  ; 5  ; v	số năm	number
+flag	cờ	object
+flat  ; apartment	căn hộ	city
+flat  ; level  ; plane	bằng phẳng	adjective
+flight  ; flying	sự bay	transport
+floor  ; flooring	sàn nhà	house
+floor  ; level  ; storey  ; story	tầng	house
+flower	hoa	nature
+fly	con ruồi	animal
+fly  ; wing	bay	verb-basic
+fog	sương mù	weather
+follow	theo sau	verb-basic
+following  ; next	tiếp sau đó về thời gian	adjective
+food  ; nutrient	lương thực	food
+football  ; football game	môn bóng đá	sports
+for	bởi vì	conjunction
+for	cho	preposition
+forehead  ; brow	trán	anatomy
+foreign  ; strange	nước ngoài	adjective
+forest  ; wood  ; woods	rừng	nature
+forget	quên	verb-basic
+forgive	tha thứ	verb
+fork	cái nĩa	kitchen
+form	tờ khai	business
+former  ; erstwhile  ; old  ; onetime  ; one-time  ; quondam  ; sometime	trước	adjective
+fossil fuel	nhiên liệu hóa thạch	environment
+fragile  ; delicate  ; frail	mỏng manh	adjective
+frame	khung	object
+free	tự do	adjective-people
+free  ; complimentary  ; costless  ; gratis  ; gratuitous	biếu	adjective
+free  ; liberate  ; release  ; unloose  ; unloosen  ; loose	giải phóng	verb
+frequent	thường xuyên	adjective
+fresh	mới	adjective
+friend	bạn	family
+friendly	thân ái	adjective-people
+from	từ	preposition
+from	từ	preposition
+front  ; front end  ; forepart	đằng trước	abstract
+frost  ; hoar  ; hoarfrost  ; rime	sự đông giá	weather
+fruit	quả	food
+full	đầy	adjective
+full  ; total	tổng số	adjective
+function  ; office  ; part  ; role	chức năng	mathematics
+furniture  ; piece of furniture  ; article of furniture	đồ dùng trong nhà	furniture
+further  ; farther	xa hơn nữa	adjective
+future	thuộc hoặc xảy ra trong tương lai	adjective
+game	trò chơi	sports
+garden	vườn	house
+garlic  ; ail	cây tỏi	vegetable
+gate	cổng	house
+gene  ; cistron  ; factor	gen	anatomy
+general	phổ biến	adjective
+general  ; full general	tướng	profession
+girl  ; miss  ; missy  ; young lady  ; young woman  ; fille	con gái	family
+give	cho	verb-basic
+glass	thuỷ tinh	material
+glass  ; drinking glass	cái cốc	container
+global warming	ấm lên toàn cầu	environment
+glue  ; gum  ; mucilage	keo	material
+goal	bàn thắng	sports
+goat  ; caprine animal	con dê	animal
+gold  ; Au  ; atomic number 79	vàng	material
+golf  ; golf game	môn đánh gôn	sports
+good	ngoan	adjective-basic
+good day	xin chào buổi ngày	conversation
+good luck	chúc may mắn	conversation
+government  ; authorities  ; regime	chính quyền	society
+grade  ; mark  ; score	hạng	education
+grandfather  ; gramps  ; granddad  ; grandad  ; granddaddy  ; grandpa	ông bà	family
+grass	cỏ	nature
+gray  ; grey  ; greyish  ; grayish	xám	color
+great	lớn	adjective-basic
+great  ; bang-up  ; bully  ; corking  ; cracking  ; dandy  ; groovy  ; keen  ; neat  ; nifty  ; not bad  ; peachy  ; slap-up  ; swell  ; smashing	rất hài lòng	adjective-basic
+green  ; greenish  ; light-green  ; dark-green	non	color
+greenhouse effect  ; greenhouse warming	hiệu ứng nhà kính	environment
+group  ; grouping	nhóm	business
+grow	phát triển	verb
+guest  ; invitee	khách	relations
+gun	súng	tool
+hair	tóc	anatomy
+hair  ; pilus	lông	anatomy
+hall  ; anteroom  ; antechamber  ; entrance hall  ; foyer  ; lobby  ; vestibule	hành lang	house
+hammer	đầu cần	tool
+hand  ; manus  ; mitt  ; paw	bàn tay	anatomy
+handle  ; grip  ; handgrip  ; hold	quai	object
+happen  ; hap  ; go on  ; pass off  ; occur  ; pass  ; fall out  ; come about  ; take place	xảy ra	verb
+happy	hạnh phúc	adjective-basic
+hat  ; chapeau  ; lid	mũ	clothes
+hate  ; detest	ghét	verb
+hate  ; hatred	sự căm thù	feeling
+he	ông ấy	pronoun
+head  ; caput	cái đầu	anatomy
+health  ; wellness	sức khỏe	medicine
+healthy  ; salubrious  ; good for you	khoẻ mạnh	adjective-basic
+hear	nghe	verb-basic
+heart  ; pump  ; ticker	tim	anatomy
+heavy	nặng nề	adjective-basic
+height  ; altitude	độ cao so với mặt nước biển	geography
+hello  ; hullo  ; hi  ; howdy  ; how-do-you-do	xin chào	conversation
+help  ; aid  ; assist  ; assistance	sự trợ giúp	business
+help  ; assist  ; aid	giúp	verb-basic
+her	của nó	pronoun
+here	tại điểm này	adverb
+herself	tự nó	pronoun
+hide  ; conceal	che đậy	verb
+hill	đồi	geography
+him	nó	pronoun
+his	của nó	pronoun
+history	lịch sử	society
+hit  ; hitting  ; striking	cú đánh	abstract
+hit  ; smash  ; smasher  ; strike  ; bang	việc thành công	art
+hold  ; take hold	cầm	verb
+hole	lỗ thủng	abstract
+holiday  ; vacation	thời gian nghỉ	business
+home  ; place	nhà	house
+hook  ; claw	cái móc	tool
+hope	hy vọng	verb-basic
+horse  ; Equus caballus	ngựa	animal
+hospital  ; infirmary	bệnh viện	city
+hot	nóng	adjective-basic
+hotel	khách sạn	city
+hour  ; hr  ; 60 minutes	giờ	time
+house	căn nhà	house
+how are you	bạn khỏe không	conversation
+however  ; nevertheless  ; withal  ; still  ; yet  ; all the same  ; even so  ; nonetheless  ; notwithstanding	tuy vậy	adverb
+human	thuộc con người	adjective-people
+human  ; homo  ; man  ; human being	con người	family
+humor  ; humour  ; sense of humor  ; sense of humour	biết đùa	communication
+hungry	đói	adjective-people
+husband  ; hubby  ; married man	người chồng	family
+idea  ; thought	ý nghĩ	communication
+identify  ; place	nhận ra	verb
+if	nếu	conjunction
+ill  ; sick	bị bệnh	adjective-people
+image	quan điểm	art
+immediately  ; instantly  ; straightaway  ; straight off  ; directly  ; now  ; right away  ; at once  ; forthwith  ; like a shot	ngay lập tức	adverb
+impatient	thiếu kiên nhẫn	adjective-people
+important  ; significant	quan trọng	adjective-basic
+include	bao gồm	verb
+income	thu nhập	business
+increase  ; increment  ; growth	sự phát triển	abstract
+indeed  ; so	thật vậy	adverb
+individual	cá nhân	society
+industrial	thuộc về công nghiệp	adjective
+industry  ; manufacture	ngành công nghiệp	business
+injure  ; wound	làm bị thương	verb
+ink	mực viết	art
+insect	côn trùng	animal
+inside  ; within	bên trong	adverb
+instead  ; alternatively  ; or else	thay vì	adverb
+institution  ; establishment	thể chế	society
+instrument	dụng cụ	device
+insurance	bảo hiểm	business
+intelligent	sáng dạ	adjective-people
+interest	lợi tức	business
+interest  ; involvement	sự chú ý	communication
+interesting	thú vị	adjective
+international	quốc tế	adjective
+internet  ; net  ; cyberspace	internet	abstract
+interview	cuộc phỏng vấn	communication
+into	vào trong	preposition
+introduce  ; present  ; acquaint	giới thiệu	verb
+invoice  ; bill  ; account	bản kê khai	business
+iron  ; Fe  ; atomic number 26	sắt	material
+island	hòn đảo	geography
+issue	vấn đề	science
+it	nó	pronoun
+jacket	áo vét	clothes
+jewel  ; gem  ; precious stone	đá quý	clothes
+job  ; task  ; chore	việc làm	business
+join  ; bring together	nối	verb
+journalist	nhà báo	profession
+journey  ; journeying	quãng đường	transport
+judge  ; justice  ; jurist	quan tòa	profession
+jump  ; leap  ;  saltation	bước nhảy	abstract
+jump  ; leap  ; bound  ; spring	nhảy lên	verb-basic
+keep  ; maintain  ; hold	giữ trong tình trạng	verb
+key	chìa khóa	tool
+kick	đá	verb
+kick  ; boot  ; kicking	cú đá	abstract
+kill	giết	verb
+kind	tốt	adjective-people
+kind  ; sort  ; form  ; variety	hình thức	abstract
+king  ; male monarch  ; Rex	vua	society
+kiss  ; buss  ; osculation	nụ hôn	relations
+kiss  ; snog  ; buss  ; osculate	hôn	verb-basic
+kitchen	bếp	house
+knee  ; knee joint  ; human knee  ; articulatio genus  ; genu	đầu gối	anatomy
+knife	con dao	kitchen
+knot	nút	abstract
+knowledge  ; cognition  ; noesis	sự hiểu biết	education
+lake	hồ	geography
+land  ; dry land  ; earth  ; ground  ; solid ground  ; terra firma	đất	geography
+land  ; set down	hạ cánh	verb
+language  ; linguistic communication	ngôn ngữ	communication
+language  ; natural language  ; tongue	tiếng nói của một đất nước	communication
+last	cuối cùng	adjective
+late  ; belatedly  ; tardily	muộn	adverb
+laugh  ; express joy  ; express mirth	cười	verb-basic
+law	pháp luật	business
+lead  ; Pb  ; atomic number 82	chì	material
+lead  ; take  ; direct  ; conduct  ; guide	hướng dẫn	verb
+leader	người lãnh đạo	society
+leaf  ; leafage  ; foliage	lá cây	nature
+learn  ; larn  ; acquire	học	verb-basic
+least  ; to the lowest degree	ít nhất	adverb
+leather	da	material
+leave	bỏ lại	verb
+leave  ; leave of absence	sự được phép nghỉ	business
+left	bên trái	adjective-basic
+leg	chân	anatomy
+legal	thuộc pháp luật	adjective
+lemon	quả chanh	fruit
+let	cho phép	verb
+letter  ; letter of the alphabet  ; alphabetic character	chữ cái	communication
+letter  ; missive	thư	communication
+library	thư viện	city
+lie	nằm	verb-basic
+lie  ; prevarication	lời nói dối	communication
+life	sự sống	nature
+lift  ; raise  ; elevate  ; get up  ; bring up	nâng lên	verb
+light	nhẹ	adjective-basic
+light  ; visible light  ; visible radiation	ánh sáng	physics
+lightning	chớp	weather
+like	thích	verb-basic
+limit  ; bound  ; boundary	ranh giới	mathematics
+limit  ; restrict  ; restrain  ; trammel  ; bound  ; confine  ; throttle	hạn chế	verb
+line	đường kẻ	art
+lion  ; king of beasts  ; Panthera leo	sư tử	animal
+lip	môi	anatomy
+liquid	chất lỏng	material
+liquid	lỏng	adjective
+list  ; listing	danh sách	abstract
+listen  ; hear  ; take heed	lắng nghe	verb-basic
+little	một ít	adverb
+load  ; charge	nạp điện	verb
+lock	khóa cửa	tool
+look	nhìn	verb-basic
+look  ; appear  ; seem	dường như	verb
+lose	mất	verb
+lose	mất	verb-basic
+loss	số tiền bị mất	business
+loud	to	adjective
+love	thích	verb-basic
+love	yêu thích	feeling
+low	thấp	adjective
+lucky	có tính may mắn	adjective
+lunch  ; luncheon  ; tiffin  ; dejeuner	bữa trưa	food
+machine	cỗ máy	device
+magazine  ; mag	tạp chí	communication
+mail  ; mail service  ; postal service  ; post	thư từ	communication
+main  ; chief  ; primary  ; principal  ; master	chủ yếu	adjective
+major	chủ yếu	adjective
+majority  ; bulk	đa số	abstract
+male	nhị hoa	adjective-people
+male  ; manful  ; manlike  ; manly  ; virile	đàn ông	adjective-people
+man  ; adult male	đàn ông	family
+manage  ; deal  ; care  ; handle	lãnh đạo	verb
+management  ; direction	hướng dẫn	business
+manner  ; mode  ; style  ; way  ; fashion	lề thói hay cách làm cái gì	art
+many	nhiều	adjective
+many thanks	cảm ơn nhiều	conversation
+map	bản đồ	geography
+marker  ; marking  ; mark	vật dùng để đánh dấu	business
+market  ; marketplace  ; market place	chợ	business
+marriage  ; matrimony  ; union  ; spousal relationship  ; wedlock	kết hôn	family
+married	đã kết hôn	adjective-people
+marry  ; get married  ; wed  ; conjoin  ; hook up with  ; get hitched with  ; espouse	cưới	verb
+mass	khối	physics
+mass  ; bulk  ; volume	tầm vóc lớn	physics
+match  ; lucifer  ; friction match	diêm	tool
+material  ; stuff	nguyên vật liệu	business
+matter	chất	material
+matter  ; affair  ; thing	chủ đề	abstract
+me	tôi	pronoun
+meal  ; repast	bữa ăn	food
+mean  ; hateful	có vẻ là	adjective-people
+mean  ; intend  ; think	định	verb
+mean  ; mean value	trung độ	business
+measure  ; mensurate  ; measure out	đo lường	verb
+measurement  ; measuring  ; measure  ; mensuration	sự đo lường	physics
+meat	thịt	food
+medical	thuộc y học	adjective-people
+meet  ; run into  ; encounter  ; run across  ; come across  ; see	bắt gặp	verb-basic
+meeting  ; coming together	họp	business
+member  ; fellow member	thành viên	society
+memory	những kỷ niệm	communication
+memory  ; retention  ; retentiveness  ; retentivity	trí nhớ	communication
+menstruation  ; menses  ; menstruum  ; catamenia  ; period  ; flow	chu kỳ kinh nguyệt	medicine
+mention  ; advert  ; bring up  ; cite  ; name  ; refer	đề cập	verb
+metal  ; metallic	bằng kim loại	adjective
+metallic element  ; metal	kim loại	material
+method	phương pháp	science
+midnight	nửa đêm	time
+military	quân sự	adjective
+milk	sữa	drink
+milkshake  ; milk shake  ; shake	sữa khuấy	drink
+million  ; 1000000  ; one thousand thousand  ; meg	triệu	number
+mind  ; head  ; brain  ; psyche  ; nous	trí tuệ	abstract
+mine	mỏ	environment
+minister  ; government minister	bộ trưởng	profession
+minute  ; min	phút	time
+mirror	gương	physics
+mistake  ; error  ; fault	sai lầm	communication
+modern	hiện đại	adjective
+moment  ; minute  ; second  ; instant	một chốc lát	time
+money	tiền	business
+monkey	con khỉ	animal
+morning  ; morn  ; morning time  ; forenoon	buổi sáng	time
+mostly  ; by and large  ; generally  ; more often than not	nói chung	adverb
+mother  ; female parent	mẹ	family
+mouth  ; oral cavity  ; oral fissure  ; rima oris	miệng	anatomy
+move  ; displace	di chuyển	verb-basic
+movement  ; motion	sự vận động	physics
+movie  ; film  ; picture  ; moving picture  ; moving-picture show  ; motion picture  ; motion-picture show  ; picture show  ; pic  ; flick	màng	art
+muscle  ; musculus	cơ bắp	anatomy
+museum	bảo tàng	art
+music	âm nhạc	art
+musician  ; instrumentalist  ; player	nhà soạn nhạc	profession
+my	của tôi	pronoun
+my name is	tên của tôi là	conversation
+nail	cái đinh	tool
+nail	móng	anatomy
+name	tên	communication
+name  ; call	gọi	verb
+narrow	hẹp	adjective
+nation  ; land  ; country	quốc gia	society
+natural	tự nhiên	adjective
+nature	tự nhiên	nature
+near  ; close  ; nigh	gần	adjective-basic
+necessary	cần thiết	adjective
+neck  ; cervix	cổ	anatomy
+need  ; necessitate  ; ask  ; postulate  ; require  ; take  ; involve  ; call for  ; demand	cần đến	verb-basic
+needle	kim khâu	tool
+neighbor  ; neighbour	người láng giềng	family
+nerve  ; nervus	dây thần kinh	anatomy
+net  ; network  ; mesh  ; meshing  ; meshwork	mạng lưới	mathematics
+new	mới	adjective-basic
+newspaper  ; paper	báo	communication
+next  ; adjacent  ; side by side	liền kề	adjective
+nice	tốt	adjective-basic
+night  ; nighttime  ; dark	đêm	time
+nine  ; 9  ; ix	chín	number
+no	không	conversation
+normal	bình thường	adjective
+north  ; due north  ; northward  ; N	hướng bắc	geography
+nose  ; olfactory organ	mũi	anatomy
+not  ; non	không	adverb
+note  ; musical note  ; tone	nốt	art
+nothing  ; nil  ; nix  ; nada  ; null  ; aught  ; cipher  ; cypher  ; goose egg  ; naught  ; zero  ; zilch  ; zip  ; zippo	không có gì	number
+now	hiện nay	time
+number	số	communication
+nurse	y tá	medicine
+nut	quả hạch	fruit
+obviously  ; evidently  ; manifestly  ; patently  ; apparently  ; plainly  ; plain	rõ ràng là	adverb
+occupation  ; business  ; job  ; line of work  ; line	nghề nghiệp	business
+of	bằng	preposition
+offer	mời	verb-basic
+offer  ; offering	lời mời	business
+officer  ; officeholder	viên chức	business
+often  ; frequently  ; oftentimes  ; oft  ; ofttimes	thường xuyên	adverb
+oil	dầu	food
+oil  ; petroleum  ; crude oil  ; crude  ; rock oil  ; fossil oil	dầu mỏ	material
+old	già	adjective-people
+olive	quả ô liu	vegetable
+on	trên	preposition
+on	trên	preposition
+once  ; one time  ; in one case	một lần	adverb
+one  ; 1  ; i  ; ane	một	number
+onion  ; onion plant  ; Allium cepa	củ hành	vegetable
+open  ; open up	mở ra	verb-basic
+operation	thao tác ; vận hành	business
+operation  ; functioning  ; performance	quá trình hoạt động	abstract
+operation  ; surgery  ; surgical operation  ; surgical procedure  ; surgical process	sự hoạt động	medicine
+opinion  ; sentiment  ; persuasion  ; view  ; thought	ý kiến	communication
+opposite	đối lập	adjective
+opposite  ; reverse  ; contrary	điều trái ngược	abstract
+option  ; alternative  ; choice	sự lựa chọn	science
+or	hoặc	conjunction
+orange	quả cam	fruit
+orange  ; orangish	cam	color
+orchestra	dàn nhạc	art
+order	chỉ thị	society
+organization  ; organisation	cơ quan	society
+original	nguyên bản	adjective
+our	của chúng ta	pronoun
+outburst  ; burst  ; flare-up	sự nổ ra	abstract
+oven	lò nướng	device
+own  ; ain	của chính mình	adjective
+own  ; have  ; possess	sở hữu	verb
+owner  ; possessor	chủ nhân	business
+ozone	một loại oxy	environment
+page	trang sách	communication
+pain  ; hurting	đau	medicine
+paint  ; pigment	sơn	art
+painting  ; picture	bức hoạ	art
+paper	giấy	art
+parallel	song song	adjective
+parent	cha	family
+park  ; commons  ; common  ; green	công viên	city
+parsnip  ; Pastinaca sativa	cây củ cải vàng	vegetable
+part  ; share  ; portion  ; percentage	một phần	abstract
+particular	đặc biệt	adjective
+particularly  ; peculiarly  ; especially  ; specially	đặc biệt	adverb
+party	bữa tiệc	relations
+pass  ; hand  ; reach  ; pass on  ; turn over  ; give	nộp	verb
+pass  ; laissez passer	giấy phép ra vào	society
+passenger  ; rider	hành khách	transport
+passport	hộ chiếu	society
+past	quá khứ	adjective
+past  ; past times  ; yesteryear	quá khứ	time
+patient	bệnh nhân	medicine
+patient	kiên nhẫn	adjective-people
+pause  ; intermission  ; break  ; interruption  ; suspension	lúc tạm nghỉ	time
+pay	trả tiền	verb-basic
+payment	việc trả công	business
+peace	hoà bình	society
+peach	cây đào	fruit
+pear	quả lê	fruit
+peel  ; skin  ; pare	gọt vỏ	verb
+pen	cái bút	art
+pencil	cái bút chì	art
+people	người dân	society
+percent  ; percentage  ; per centum  ; pct	tỷ lệ phần trăm	mathematics
+period  ; time period  ; period of time	giai đoạn	time
+person  ; individual  ; someone  ; somebody  ; mortal  ; soul	người	family
+personal	cá nhân	adjective
+phase  ; stage	thời kỳ	science
+picture  ; image  ; icon  ; ikon	ảnh	art
+piece	mẩu	abstract
+pig  ; hog  ; grunter  ; squealer  ; Sus scrofa	lợn đực thiến	animal
+pilot  ; airplane pilot	phi công	profession
+pineapple  ; ananas	quả dứa	fruit
+pink  ; pinkish	màu hồng	color
+place  ; topographic point  ; spot	nơi chốn	abstract
+plain  ; field  ; champaign	đồng bằng	geography
+plan  ; program  ; programme	kế hoạch	business
+plane  ; airplane  ; aeroplane	máy bay	transport
+plant  ; flora  ; plant life	thực vật	nature
+plate	cái đĩa	container
+play	nô đùa	verb-basic
+player  ; participant	người chơi	sports
+please	làm ơn ; xin	adverb
+pleasure  ; pleasance	điều thú vị	feeling
+plum	quả mận	fruit
+poem  ; verse form	bài thơ	art
+poetry  ; poesy  ; verse	thi ca	art
+point  ; dot	chấm nhỏ	communication
+poison	đầu độc	verb
+poison  ; toxicant  ; poisonous substance	chất độc	material
+police  ; police force  ; constabulary  ; law	lực lượng cảnh sát	society
+policeman  ; police officer  ; officer	nhân viên cảnh sát	profession
+policy	chính sách	society
+polish  ; smooth  ; smoothen  ; shine	đánh bóng	verb
+political	thuộc chính trị	adjective
+politician  ; politico  ; pol  ; political leader	chính trị gia	profession
+pollution	ô nhiễm môi trường	environment
+poor  ; hapless  ; miserable  ; misfortunate  ; pathetic  ; piteous  ; pitiable  ; pitiful  ; wretched	nghèo	adjective
+popular  ; pop	bình dân	adjective
+population	dân số	society
+position  ; place	vị trí	abstract
+possible	có thể	adjective
+possibly  ; perchance  ; perhaps  ; maybe  ; mayhap  ; peradventure	có thể	adverb
+powder  ; pulverization  ; pulverisation	bột	material
+power  ; powerfulness	sức mạnh	abstract
+practice	thực hành	abstract
+prepare  ; fix  ; set up  ; ready  ; gear up  ; set	chuẩn bị	verb
+present	có mặt	adjective
+present	món quà	object
+president	tổng thống	profession
+press	nhấn	verb
+pressure  ; pressure level  ; force per unit area	áp lực	physics
+prevent  ; forestall  ; foreclose  ; preclude  ; forbid	ngăn chặn	verb
+previous  ; old	trước	adjective
+price  ; cost  ; toll	giá tiền	business
+print  ; impress	in	verb
+prison  ; prison house	nhà tù	city
+private	riêng tư	adjective
+private  ; individual	từng người	adjective-people
+probable  ; likely	có thể	adjective
+probably  ; likely  ; in all likelihood  ; in all probability  ; belike	có khả năng	adverb
+problem  ; job	vấn đề khó khăn	business
+procedure  ; process	thủ tục	science
+process  ; physical process	quy trình	physics
+process  ; treat	xử lý	verb
+production	sản xuất	science
+professional	thuộc về nghề	adjective
+professional  ; professional person	chuyên nghiệp	profession
+profit  ; net income  ; net  ; net profit  ; lucre  ; profits  ; earnings	lợi nhuận	business
+program  ; programme  ; computer program  ; computer programme	chương trình	science
+project  ; projection	dự án	science
+project  ; undertaking  ; task  ; labor	nhiệm vụ	abstract
+pronunciation	sự phát âm	communication
+property	tính chất	abstract
+property  ; belongings  ; holding	tài sản	business
+proposal	sự đề xuất	communication
+protest	phản đối	verb
+protest  ; protestation	sự phản đối	communication
+prove  ; testify  ; bear witness  ; evidence  ; show	chứng minh	verb
+public	công khai	adjective
+public  ; populace  ; world	quần chúng	society
+publish  ; bring out  ; put out  ; issue  ; release	xuất bản	verb
+pull  ; draw  ; force	rút ra	verb-basic
+pump	máy bơm	tool
+punishment  ; penalty  ; penalization  ; penalisation	sự bị trừng phạt	society
+purpose  ; function  ; role  ; use	mục đích	mathematics
+push  ; force	đẩy	verb-basic
+put  ; set  ; place  ; pose  ; position  ; lay	đặt	verb-basic
+quality	chất lượng	abstract
+question  ; inquiry  ; enquiry  ; query  ; interrogation	câu hỏi	communication
+quickly  ; rapidly  ; speedily  ; chop-chop  ; apace	nhanh chóng	adverb
+quiet	yên lặng	adjective
+quiet  ; repose  ; placidity  ; serenity  ; tranquillity  ; tranquility	sự trầm lặng	abstract
+radish	cây củ cải	vegetable
+rainbow	cầu vồng	weather
+raise  ; rear  ; bring up  ; nurture  ; parent	giáo dục	verb
+range  ; scope  ; reach  ; orbit  ; compass  ; ambit	phạm vi	science
+raspberry	quả mâm xôi	fruit
+rate  ; charge per unit	mức	business
+rate  ; rank  ; range  ; order  ; grade  ; place	đánh giá	verb
+reach  ; make  ; attain  ; hit  ; arrive at  ; gain	đến được	verb
+read	đọc	verb-basic
+ready	đã xong	adjective
+real  ; existent	thực sự	adjective-basic
+really  ; actually	thực sự	adverb
+really  ; truly  ; genuinely	rất	adverb
+reason  ; ground	lý do	communication
+receive  ; have	nhận được	verb
+recent	gần đây	adjective
+recently  ; late  ; lately  ; of late  ; latterly	gần đây	adverb
+record	kỷ lục	sports
+record  ; tape	thu thanh	verb
+reduce  ; cut down  ; cut back  ; trim  ; trim down  ; trim back  ; cut  ; bring down	cắt giảm	verb
+reflect  ; reverberate	phản xạ	verb
+refuse  ; reject  ; pass up  ; turn down  ; decline	từ chối	verb
+regular	cách đều về thời gian và khoảng cách	adjective
+relation	mối quan hệ	communication
+relationship  ; human relationship	mối quan hệ	family
+religion  ; faith  ; organized religion	sự sùng bái	society
+religion  ; faith  ; religious belief	đức tin	society
+remember  ; retrieve  ; recall  ; call back  ; call up  ; recollect  ; think	nhớ lại	verb-basic
+remove  ; take  ; take away  ; withdraw	di chuyển	verb
+render  ; return	trả lại	verb
+reply  ; answer  ; respond	trả lời	verb
+report	thông báo	verb
+report  ; study  ; written report	báo cáo	abstract
+represent  ; stand for  ; correspond	đại diện	verb
+representative	người đại diện của doanh nghiệp	profession
+request  ; asking	lời yêu cầu	communication
+request  ; bespeak  ; call for  ; quest	yêu cầu	verb
+research	cuộc nghiên cứu	science
+research  ; inquiry  ; enquiry	cuộc điều tra	science
+respect  ; honor  ; honour  ; abide by  ; observe	thể hiện sự kính trọng	verb
+responsibility  ; responsibleness	trách nhiệm	abstract
+responsible	có trách nhiệm	adjective
+rest  ; ease  ; repose  ; relaxation	sự nghỉ ngơi	abstract
+rest  ; remainder  ; balance  ; residual  ; residue  ; residuum	người/vật còn lại	business
+restaurant  ; eating house  ; eating place  ; eatery	nhà hàng	city
+result  ; resultant  ; final result  ; outcome  ; termination	kết quả	mathematics
+return  ; homecoming	sự trở lại	abstract
+reveal  ; unwrap  ; disclose  ; let on  ; bring out  ; discover  ; expose  ; divulge  ; break  ; give away  ; let out	vạch trần	verb
+rhythm  ; beat  ; musical rhythm	nhịp điệu	art
+rich	giàu có	adjective-people
+right	bên phải	adjective-basic
+right	quyền	business
+rigid  ; stiff	cứng rắn	adjective
+ring  ; band	cái nhẫn	clothes
+rise  ; rising  ; ascent  ; ascension	sự đi lên	abstract
+risk  ; gamble  ; chance  ; hazard  ; take chances  ; adventure  ; run a risk  ; take a chance	liều	verb
+risk  ; hazard  ; jeopardy  ; peril  ; endangerment	mối nguy hiểm	abstract
+river	dòng sông	geography
+road  ; route	đường giao thông	city
+roof	mái nhà	house
+room	phòng	house
+root	rễ cây	nature
+rope	dây chão	object
+rough  ; unsmooth	lỗ mãng	adjective
+round  ; circular	tròn	adjective
+royal  ; imperial  ; majestic  ; purple  ; regal	xứng với vua chúa	adjective-people
+rule  ; govern	cai trị	verb
+rule  ; regulation	qui định	mathematics
+run	chạy	verb-basic
+sad	buồn rầu	adjective-people
+safe	có thể tin cậy	adjective
+sail  ; canvas  ; canvass  ; sheet	cánh buồm	object
+sailor  ; crewman	thủy thủ	profession
+salad	rau trộn dầu giấm	food
+sale	sự bán	business
+salt  ; table salt  ; common salt	muối	food
+same	như nhau	adjective
+sand	cát	material
+sandwich	xăng-duýt	food
+sauce	nước chấm	food
+save  ; preserve	để dành	verb
+save  ; salvage  ; salve  ; relieve	cứu hộ	verb
+say  ; tell  ; state	nói	verb-basic
+school  ; schoolhouse	trường học	city
+science  ; scientific discipline	khoa học	science
+scientist	nhà khoa học	profession
+scissors  ; pair of scissors	kéo	tool
+sea	biển	geography
+season	mùa	time
+second  ; 2nd  ; 2d	thứ hai	adjective
+second  ; sec  ; s	giây	time
+secret  ; clandestine  ; cloak-and-dagger  ; hole-and-corner  ; hugger-mugger  ; hush-hush  ; surreptitious  ; undercover  ; underground	bí mật	adjective
+secretary  ; secretarial assistant	thư kí	profession
+see	nhìn thấy	verb
+see  ; consider  ; reckon  ; view  ; regard	coi như	verb
+seed	hạt	object
+sell	bán	verb-basic
+send  ; mail  ; post	gửi	verb
+sentence	câu	communication
+separate	tách rời nhau	adjective
+serious	nghiêm trang	adjective
+servant  ; retainer	người hầu	profession
+service	sự phục vụ	business
+set	bộ	abstract
+set	tập hợp	mathematics
+set  ; laid	cố định	adjective
+several	vài	adjective
+sew  ; run up  ; sew together  ; stitch	may	verb
+sex	giới tính	nature
+share	cổ phần	business
+sharp  ; acuate  ; acute  ; needlelike	tinh	adjective-basic
+sharp  ; astute  ; shrewd	nhạy bén	adjective-people
+she	nó	pronoun
+sheep	con cừu	animal
+shelf	giá	furniture
+ship	tàu thủy	transport
+shirt	áo sơ mi	clothes
+shock  ; daze  ; stupor	tình trạng cực kì yếu đuối	feeling
+shoe	giày	clothes
+shop  ; store	cửa hàng	business
+short	ngắn	adjective
+shout  ; shout out  ; cry  ; call  ; yell  ; scream  ; holler  ; hollo  ; squall	kêu gào	verb
+show  ; demo  ; exhibit  ; present  ; demonstrate	cho xem	verb
+shower	sự tắm dưới vòi hoa sen	house
+side	mép	mathematics
+silence  ; quiet	sự tĩnh lặng	abstract
+silent  ; soundless  ; still	tĩnh lặng	adjective
+silk	tơ	material
+silver  ; Ag  ; atomic number 47	bạc	material
+simple  ; elementary  ; uncomplicated  ; unproblematic	đơn giản	adjective
+simply  ; merely  ; just  ; only  ; but	chỉ	adverb
+since	từ một thời điểm trong quá khứ đến nay	preposition
+sincere	thành thật	adjective-people
+sing	hát	verb-basic
+singer  ; vocalist  ; vocalizer  ; vocaliser	ca sĩ	art
+single	đơn độc	adjective
+single  ; unmarried	độc thân	adjective-people
+sink	bồn rửa bát	furniture
+sister  ; sis	chị	family
+sit  ; sit down	ngồi	verb-basic
+situation  ; state of affairs	tình hình	abstract
+size	quy mô	physics
+skilful  ; adept  ; expert  ; good  ; practiced  ; proficient  ; skillful	giỏi	adjective-people
+skill  ; science	sự khéo léo	business
+skin  ; tegument  ; cutis	da	anatomy
+skirt	váy	clothes
+sky	trời	nature
+sleep  ; slumber	giấc	nature
+slow	chậm chạp	adjective-basic
+slowly  ; slow  ; easy  ; tardily	chậm	adverb
+small  ; little	nhỏ bé	adjective
+smell  ; olfactory property  ; aroma  ; odor  ; odour  ; scent	mùi	nature
+smile	mỉm cười	verb-basic
+smile  ; smiling  ; grin  ; grinning	nụ cười	relations
+smog  ; smogginess	sương khói	environment
+smoke  ; fume	khói	nature
+smooth	nhẵn	adjective
+snake  ; serpent  ; ophidian	con rắn	animal
+snow	tuyết	weather
+soap	xà bông	material
+society	xã hội	science
+sock	miếng lót giày	clothes
+soft	mềm	adjective-basic
+soldier	người lính	profession
+solid	thể rắn	adjective
+son  ; boy	con trai	family
+song  ; vocal	bài hát	art
+soon  ; shortly  ; presently  ; before long	trong thời gian ngắn	adverb
+sorry	xin lỗi	conversation
+soup	xúp	food
+south  ; due south  ; southward  ; S	miền nam	geography
+sparse  ; thin	thưa thớt	adjective
+special  ; especial  ; exceptional  ; particular	đặc biệt	adjective
+specific	đặc trưng	adjective
+speech  ; speech communication  ; spoken communication  ; spoken language  ; language  ; voice communication  ; oral communication	ngôn ngữ	communication
+spelling	việc viết chính tả	communication
+spend  ; pass	trải qua	verb
+spoon	muỗng	kitchen
+spring	lò xo	tool
+spring  ; fountain  ; outflow  ; outpouring  ; natural spring	nguồn gốc	nature
+spring  ; springtime	mùa xuân	time
+square	vuông	adjective
+square  ; foursquare	hình vuông	mathematics
+square  ; second power	bình phương	mathematics
+staff	nhân viên	business
+stage	sân khấu	art
+stamp	dấu	tool
+stamp  ; postage  ; postage stamp	bưu phí	object
+stand  ; stand up	đứng	verb
+standard	thông thường	adjective
+standard  ; criterion  ; measure  ; touchstone	tiêu chuẩn	communication
+star	ngôi sao	geography
+state	quốc gia	society
+state	tình trạng	abstract
+statement	sự bày tỏ	communication
+station	trạm	city
+stay  ; remain  ; rest	tiếp tục tồn tại	verb
+steal	ăn cắp	verb
+steam	hơi nước	physics
+steel	thép	material
+stem  ; stalk	thân	nature
+step  ; footstep  ; pace  ; stride	tiếng bước chân	abstract
+step  ; stair	bậc	house
+stick	cái gậy	object
+sticky  ; gluey  ; glutinous  ; gummy  ; mucilaginous  ; pasty  ; viscid  ; viscous	dính như keo	adjective
+still	vẫn còn	adverb
+stitch	mũi khâu	medicine
+stomach  ; tummy  ; tum  ; breadbasket	dạ dày	anatomy
+stone  ; rock	đá	object
+stop  ; halt	chặn lại	verb
+storm  ; violent storm	cơn giông tố	weather
+straight	thẳng	adjective
+strange  ; unusual	lạ thường	adjective
+strawberry	quả	fruit
+stream  ; flow  ; current	dòng	nature
+street	đường phố	city
+strength  ; force  ; forcefulness	lực	physics
+strong	rõ rệt	adjective-basic
+structure  ; construction	sự xây dựng	city
+student  ; pupil  ; educatee	sinh viên	education
+study	học	verb
+stupid	ngu dại	adjective-people
+style	văn phong	art
+stylish  ; fashionable	đặc sắc	adjective
+subject  ; topic  ; theme	chủ đề	communication
+subway  ; metro  ; tube  ; underground  ; subway system	xe điện ngầm	city
+such	như thế	adverb
+sudden	thình lình	adjective
+sugar  ; refined sugar	đường	food
+suggest  ; propose  ; advise	đề nghị	verb
+suggestion  ; proposition  ; proffer	sự gợi ý	communication
+suitcase  ; bag  ; traveling bag  ; travelling bag  ; grip	va li	clothes
+summer  ; summertime	mùa hè	time
+sun  ; Sun	mặt trời	geography
+supermarket	siêu thị	city
+supply  ; provide  ; render  ; furnish	cung cấp	verb
+support	sự chống đỡ	business
+support  ; back up	truyền sức mạnh	verb
+surely  ; certainly  ; sure  ; for sure  ; for certain  ; sure enough  ; sure as shooting	chắc chắn	adverb
+surface	mặt	mathematics
+surprise	làm ngạc nhiên	verb
+surprise	sự ngạc nhiên	relations
+survive  ; last  ; live  ; live on  ; go  ; endure  ; hold up  ; hold out	còn đủ	verb
+sweet	ngọt	adjective
+sweet  ; sweetness  ; sugariness	tính chất ngọt	food
+swim	bơi ; tắm (lit. "to bathe" ; used when swimming leisurely)	verb-basic
+system  ; scheme	hệ thống	science
+table	cái bàn	furniture
+table  ; tabular array	biểu	business
+tail	đuôi	anatomy
+take  ; get hold of	cầm	verb-basic
+talk  ; speak  ; utter  ; mouth  ; verbalize  ; verbalise	nói	verb-basic
+tall	cao	adjective
+taste  ; gustation  ; sense of taste  ; gustatory modality	vị giác	abstract
+tax  ; taxation  ; revenue enhancement	thuế	business
+tea	trà	drink
+teach  ; learn  ; instruct	dạy	verb
+teacher  ; instructor	giáo viên	education
+team  ; squad	đội	business
+technology  ; engineering	công nghệ	science
+television  ; tv set  ; television receiver  ; television set  ; tv  ; idiot box  ; boob tube  ; telly  ; goggle box	vô tuyến	device
+television camera  ; tv camera  ; camera	quay phim	device
+ten  ; 10  ; x	mười	number
+tennis  ; lawn tennis	quần vợt	sports
+test  ; prove  ; try  ; try out  ; examine  ; essay	thử nghiệm	verb
+than	hơn	conjunction
+thank  ; give thanks	cảm ơn	verb
+thank you very much	cám ơn	conversation
+that	đó	pronoun
+the	''not used''	article
+theater  ; theatre  ; house	nhà hát	city
+their	của họ	pronoun
+them	chúng nó	pronoun
+then  ; so  ; and so  ; and then	vào lúc	adverb
+theory	lý thuyết	science
+there  ; at that place  ; in that location	đằng kia	adverb
+they	người vật đã được đề cập đến	pronoun
+thick	đặc	adjective
+thin	mỏng	adjective
+third  ; 3rd  ; tertiary	số thứ ba	number
+thirsty	khát	adjective-people
+this	này	pronoun
+thousand  ; one thousand  ; 1000  ; M  ; K  ; chiliad  ; G  ; grand  ; thou  ; yard	một nghìn	number
+thousand  ; one thousand  ; 1000  ; m  ; k	con số một nghìn	number
+three  ; 3  ; iii	ba ; ba	number
+throat  ; pharynx	cổ họng	anatomy
+throw	ném	verb
+throw	sự ném	sports
+thumb  ; pollex	ngón tay cái	anatomy
+thunder	sấm	weather
+ticket	vé	object
+tie  ; necktie	ca vát	clothes
+tight	chật	adjective
+time  ; fourth dimension	thời gian được tính bằng đơn vị năm	physics
+tired	mệt	adjective-people
+title  ; entitle	đặt tiêu đề	verb
+today	hôm nay	adverb
+together	cùng	adverb
+toilet  ; lavatory  ; lav  ; can  ; john  ; privy  ; bathroom	nhà vệ sinh	house
+tomato	cà chua	vegetable
+tomorrow	ngày mai	adverb
+tongue  ; lingua  ; glossa  ; clapper	lưỡi	anatomy
+tonight  ; this evening  ; this night	đêm nay	adverb
+too  ; besides  ; also  ; likewise  ; as well	cũng	adverb
+tooth	răng	anatomy
+top  ; peak  ; summit  ; acme  ; height  ; elevation  ; pinnacle  ;  superlative  ; meridian  ; tiptop	đỉnh cao nhất	abstract
+total  ; sum  ; amount	lượng	mathematics
+touch  ; touching	sự chạm	abstract
+town	thị trấn	city
+trace  ; draw  ; line  ; describe  ; delineate	vẽ	verb-basic
+track  ; rail  ; rails  ; runway	thanh ray	transport
+trade	thương mại	business
+trade  ; merchandise	kinh doanh	verb
+train  ; develop  ; prepare  ; educate	đào tạo	verb
+train  ; railroad train	xe lửa	transport
+training  ; preparation  ; grooming	khóa huấn luyện	education
+travel  ; go  ; move  ; locomote	đi	verb
+treat  ; care for	đối xử	verb
+treatment  ; handling	sự đối xử	abstract
+tree	cây	nature
+trend  ; tendency	khuynh hướng	science
+trick	sự lừa dối	abstract
+trouble  ; problem	điều rắc rối	science
+true	thật	adjective
+try  ; seek  ; attempt  ; essay  ; assay	cố gắng	verb
+turn	xoay	verb
+two  ; 2  ; ii	hai	number
+type	loại	abstract
+ugly	xấu xí	adjective
+under  ; nether	dưới	adjective
+understand	hiểu được ý	verb-basic
+union	sự hợp nhất	society
+unit  ; unit of measurement	số nguyên nhỏ nhất	physics
+university	trường đại học	city
+until	trước khi	conjunction
+unusual	hiếm	adjective
+us	chúng tôi	pronoun
+use  ; usage  ; utilization  ; utilisation  ; employment  ; exercise	việc dùng	abstract
+use  ; utilize  ; utilise  ; apply  ; employ	áp dụng	verb-basic
+user	người sử dụng	science
+usual  ; common	thông thường	adjective
+usually  ; normally  ; unremarkably  ; commonly  ; ordinarily	như thường lệ	adverb
+value	giá trị	business
+various  ; diverse	đa dạng	adjective
+very  ; really  ; real  ; rattling	thực sự	adverb
+violent	hung dữ	adjective-people
+violet  ; purple  ; purplish	màu tím	color
+visit	sự viếng thăm	relations
+visit  ; see	đến thăm	verb
+vogue  ; trend  ; style	thời trang	art
+voice  ; vocalization  ; vocalisation  ; vocalism  ; phonation  ; vox	giọng nói	communication
+wages  ; reward  ; payoff	phần thưởng	business
+wait  ; hold off  ; hold back	đợi	verb-basic
+walk	đi bộ	verb
+wall	bức tường	house
+warm	nhiệt tình	adjective
+waste  ; waste material  ; waste matter  ; waste product	rác thải	environment
+watch  ; see  ; view  ;  catch  ; take in	nhìn	verb
+watch  ; ticker	đồng hồ đeo tay	device
+water  ; H2O	nước	drink
+we	chúng tôi	pronoun
+weak	yếu	adjective-basic
+wear	mòn	abstract
+wear  ; have on	mặc	verb
+weather  ; weather condition  ; conditions  ; atmospheric condition	thời tiết	nature
+wedding  ; marriage  ; marriage ceremony	đám cưới	family
+week  ; calendar week	tuần	time
+weekend	ngày cuối tuần	time
+weigh	cân nặng	verb
+well	giếng	house
+well  ; good	khoẻ mạnh	adverb
+west  ; due west  ; westward  ; W	hướng tây	geography
+wet	ướt	adjective
+what	gì	pronoun
+wheel	bánh xe	object
+while  ; piece  ; spell  ; patch	một lúc	time
+whip	roi da	tool
+white	trắng	color
+who	ai	pronoun
+whole	toàn bộ	adjective
+whole	trọn vẹn	abstract
+whom	với ai	pronoun
+whose	của ai	pronoun
+why	tại sao	adverb
+wide  ; broad	rộng	adjective
+wife  ; married woman	vợ	family
+will	ý chí	society
+will  ; testament	di chúc	society
+win	sự chiến thắng	sports
+win	thắng	verb
+wind  ; air current  ; current of air	gió	weather
+window	cửa sổ	house
+wine  ; vino	rượu	drink
+wing	cánh	anatomy
+winter  ; wintertime	mùa đông	time
+wire	dây kim loại	object
+wise	thông thái	adjective-people
+wish	ước	verb
+wish  ; wishing  ; want	nhu cầu	abstract
+with	với	preposition
+with	với	preposition
+without	không có cái gì	preposition
+woman  ; adult female	người đàn bà đã có chồng	family
+wood	gỗ	material
+word	từ	communication
+work	nỗ lực	business
+worker	thường là công nhân làm việc chân tay	business
+world	Thế giới	nature
+writer  ; author	tác giả	profession
+writing	chữ viết	communication
+wrong  ; incorrect	sai	adjective-basic
+year  ; twelvemonth  ; yr	năm	time
+yellow  ; yellowish  ; xanthous	màu vàng	color
+yes	vâng	conversation
+your	của bạn	pronoun
+yourself	chính mình	pronoun
+you're welcome	không có gì	conversation
